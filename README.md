@@ -92,6 +92,13 @@ unterricht/mathematik-brueche/
 └── bewertung/                 ← Kompetenzraster, Test, Feedbackbögen
 ```
 
+## Materialien als PDF
+```
+python3 tools/pdf_erstellen.py unterricht/<einheit>
+```
+erzeugt in `material/pdf/`: `00-kopiervorlagen.pdf` (ohne Lehrer- und Lösungsteile), `00-komplett.pdf` und ein PDF je Material.
+Fertig für die Brüche-Einheit: `unterricht/mathematik-brueche-dezimalzahlen/material/pdf/`.
+
 ## Wichtige Hinweise
 - **Datenschutz**: Niemals Klarnamen oder sensible Schülerdaten eingeben. `klassen/` (Ergebnisse, Einzelanalysen) ist per `.gitignore` vom Upload ausgeschlossen; ins Repository kommen nur anonyme Klassenbefunde. Die Kürzel-Liste bleibt bei dir.
 - **Auswertung ist Unterstützung, kein Urteil**: Einzelne Tests schwanken. Die Agenten sind angewiesen, Trends erst ab 3 Messpunkten zu deuten – entscheide trotzdem immer mit deinem Wissen über die Kinder.

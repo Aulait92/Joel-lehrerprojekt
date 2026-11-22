@@ -37,3 +37,4 @@ Planen → Unterrichten → Ergebnisse erfassen (`klassen/<klasse>/*.csv`) → `
 - **Differenzierung ohne Stigmatisierung**: Symbole statt Leistungslabels, Gruppen flexibel.
 - **Realismus**: 25–30 Schüler:innen, 45-Min.-Stunden, begrenzte Vorbereitungszeit.
 - Ergebnisse unter `unterricht/<fach>-<thema>/` ablegen.
+- Nach Änderungen an Materialien die PDFs neu erzeugen: `python3 tools/pdf_erstellen.py unterricht/<einheit>`.
