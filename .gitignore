@@ -1,0 +1,3 @@
+# Klassendaten bleiben lokal (Datenschutz)
+klassen/*
+!klassen/.gitkeep
