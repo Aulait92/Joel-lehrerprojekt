@@ -78,35 +78,37 @@
 
 ## 6. Einzelprofile (nur Kürzel – nicht veröffentlichen)
 
-| Kürzel | Punkte | Quote | C | D | E | sicher bis | Niveau-Wert | nächstes Ziel | Gruppe | Fehlerbilder |
-|---|---|---|---|---|---|---|---|---|---|---|
-| S01 | 7,0/12,0 | 58 % | 100 % | 60 % | 0 % | C | C+ | D | 🌿 | LG, ZN, DM, MG |
-| S02 | 12,0/12,0 | 100 % | 100 % | 100 % | 100 % | E | E | F | 🌳 | – |
-| S03 | 7,0/12,0 | 58 % | 75 % | 40 % | 67 % | C | C+ | D | 🌿 | NZ, AD, ZP |
-| S04 | 6,0/12,0 | 50 % | 75 % | 60 % | 0 % | C | C+ | D | 🌿 | NZ, AD, ZN, TR, DM |
-| S05 | 6,0/12,0 | 50 % | 100 % | 40 % | 0 % | C | C+ | D | 🌿 | AD, KV, ZP, DM, MG |
-| S06 | 10,0/12,0 | 83 % | 100 % | 100 % | 33 % | D | D+ | E | 🌿 | DM, MG |
-| S07 | 4,0/12,0 | 33 % | 62 % | 30 % | 0 % | keine | B+ | C | 🌱 | NZ, LG, ZN, DM |
-| S08 | 4,5/12,0 | 38 % | 50 % | 50 % | 0 % | keine | B+ | C | 🌱 | TT, KT, AD, ZN, TR, MG |
-| S09 | 12,0/12,0 | 100 % | 100 % | 100 % | 100 % | E | E | F | 🌳 | – |
-| S10 | 2,5/12,0 | 21 % | 50 % | 10 % | 0 % | keine | B+ | C | 🌱 | TT, KT, LG, AD, ZN, ZP, TR, DM |
-| S11 | 2,5/12,0 | 21 % | 50 % | 10 % | 0 % | keine | B+ | C | 🌱 | KT, LG, ZN, KV, DM, MG |
-| S12 | 5,5/12,0 | 46 % | 88 % | 40 % | 0 % | C | C+ | D | 🌿 | LG, ZN, KV, TR, DM, MG |
-| S13 | 5,5/12,0 | 46 % | 75 % | 50 % | 0 % | C | C+ | D | 🌿 | KV, TR, DM, MG |
-| S14 | 2,5/12,0 | 21 % | 0 % | 40 % | 17 % | keine | B | C | 🌱 | TT, KT, NZ, AD, TR, MG |
-| S15 | 2,5/12,0 | 21 % | 50 % | 10 % | 0 % | keine | B+ | C | 🌱 | KT, LG, ZN, KV, ZP, TR, DM, MG |
-| S16 | 2,0/12,0 | 17 % | 38 % | 0 % | 17 % | keine | B+ | C | 🌱 | KT×2, LG, AD, KV, ZP, TR, DM |
-| S17 | 4,0/12,0 | 33 % | 62 % | 30 % | 0 % | keine | B+ | C | 🌱 | LG, TR, DM, MG |
-| S18 | 7,0/12,0 | 58 % | 100 % | 60 % | 0 % | C | C+ | D | 🌿 | KV, TR, DM, MG |
-| S19 | 1,5/12,0 | 12 % | 25 % | 10 % | 0 % | keine | B | C | 🌱 | TT, KT, LG, ZP, TR, MG |
-| S20 | 3,5/12,0 | 29 % | 62 % | 20 % | 0 % | keine | B+ | C | 🌱 | NZ, LG, AD, KV, ZP, DM, MG |
-| S21 | 8,5/12,0 | 71 % | 100 % | 70 % | 33 % | D | D+ | E | 🌿 | KV, DM |
-| S22 | 11,0/12,0 | 92 % | 100 % | 80 % | 100 % | E | E | F | 🌳 | LG |
-| S23 | 8,0/12,0 | 67 % | 100 % | 80 % | 0 % | D | D | E | 🌿 | MG |
-| S24 | 1,5/12,0 | 12 % | 25 % | 10 % | 0 % | keine | B | C | 🌱 | KT×2, TT, LG, AD, ZN, ZP, DM, MG |
-| S25 | 5,0/12,0 | 42 % | 75 % | 40 % | 0 % | C | C+ | D | 🌿 | LG, ZN, MG |
-| S26 | 6,5/12,0 | 54 % | 100 % | 50 % | 0 % | C | C+ | D | 🌿 | AD, TR, DM, MG |
-| S27 | 11,5/12,0 | 96 % | 100 % | 100 % | 83 % | E | E | F | 🌳 | – |
+| Kürzel | Punkte | Quote | C | D | E | sicher bis | Niveau-Wert | nächstes Ziel | Gruppe | Fehlerbilder | Übungskarten (Aufgabenpool) |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| S01 | 7,0/12,0 | 58 % | 100 % | 60 % | 0 % | C | C+ | D | 🌿 | LG, ZN, DM, MG | AS-D, VO-D |
+| S02 | 12,0/12,0 | 100 % | 100 % | 100 % | 100 % | E | E | F | 🌳 | – | ⭐ Enrichment |
+| S03 | 7,0/12,0 | 58 % | 75 % | 40 % | 67 % | C | C+ | D | 🌿 | NZ, AD, ZP | EK-C, UM-C |
+| S04 | 6,0/12,0 | 50 % | 75 % | 60 % | 0 % | C | C+ | D | 🌿 | NZ, AD, ZN, TR, DM | EK-C, AS-D |
+| S05 | 6,0/12,0 | 50 % | 100 % | 40 % | 0 % | C | C+ | D | 🌿 | AD, KV, ZP, DM, MG | EK-C, UM-C |
+| S06 | 10,0/12,0 | 83 % | 100 % | 100 % | 33 % | D | D+ | E | 🌿 | DM, MG | MD-D |
+| S07 | 4,0/12,0 | 33 % | 62 % | 30 % | 0 % | keine | B+ | C | 🌱 | NZ, LG, ZN, DM | VO-B, AS-C |
+| S08 | 4,5/12,0 | 38 % | 50 % | 50 % | 0 % | keine | B+ | C | 🌱 | TT, KT, AD, ZN, TR, MG | AS-B, DA-B |
+| S09 | 12,0/12,0 | 100 % | 100 % | 100 % | 100 % | E | E | F | 🌳 | – | ⭐ Enrichment |
+| S10 | 2,5/12,0 | 21 % | 50 % | 10 % | 0 % | keine | B+ | C | 🌱 | TT, KT, LG, AD, ZN, ZP, TR, DM | AS-B, DA-B |
+| S11 | 2,5/12,0 | 21 % | 50 % | 10 % | 0 % | keine | B+ | C | 🌱 | KT, LG, ZN, KV, DM, MG | DA-B, GS-B |
+| S12 | 5,5/12,0 | 46 % | 88 % | 40 % | 0 % | C | C+ | D | 🌿 | LG, ZN, KV, TR, DM, MG | ZH-C, AS-D |
+| S13 | 5,5/12,0 | 46 % | 75 % | 50 % | 0 % | C | C+ | D | 🌿 | KV, TR, DM, MG | EK-C, ZH-C |
+| S14 | 2,5/12,0 | 21 % | 0 % | 40 % | 17 % | keine | B | C | 🌱 | TT, KT, NZ, AD, TR, MG | AS-B, DA-B |
+| S15 | 2,5/12,0 | 21 % | 50 % | 10 % | 0 % | keine | B+ | C | 🌱 | KT, LG, ZN, KV, ZP, TR, DM, MG | AS-B, GS-B |
+| S16 | 2,0/12,0 | 17 % | 38 % | 0 % | 17 % | keine | B+ | C | 🌱 | KT×2, LG, AD, KV, ZP, TR, DM | AS-B, GS-B |
+| S17 | 4,0/12,0 | 33 % | 62 % | 30 % | 0 % | keine | B+ | C | 🌱 | LG, TR, DM, MG | AS-B, GS-C |
+| S18 | 7,0/12,0 | 58 % | 100 % | 60 % | 0 % | C | C+ | D | 🌿 | KV, TR, DM, MG | ZH-C, AS-D |
+| S19 | 1,5/12,0 | 12 % | 25 % | 10 % | 0 % | keine | B | C | 🌱 | TT, KT, LG, ZP, TR, MG | AS-B, DA-B |
+| S20 | 3,5/12,0 | 29 % | 62 % | 20 % | 0 % | keine | B+ | C | 🌱 | NZ, LG, AD, KV, ZP, DM, MG | VO-B, AS-C |
+| S21 | 8,5/12,0 | 71 % | 100 % | 70 % | 33 % | D | D+ | E | 🌿 | KV, DM | MD-D, ZH-C |
+| S22 | 11,0/12,0 | 92 % | 100 % | 80 % | 100 % | E | E | F | 🌳 | LG | VO-D |
+| S23 | 8,0/12,0 | 67 % | 100 % | 80 % | 0 % | D | D | E | 🌿 | MG | MD-D, PT-D |
+| S24 | 1,5/12,0 | 12 % | 25 % | 10 % | 0 % | keine | B | C | 🌱 | KT×2, TT, LG, AD, ZN, ZP, DM, MG | AS-B, DA-B |
+| S25 | 5,0/12,0 | 42 % | 75 % | 40 % | 0 % | C | C+ | D | 🌿 | LG, ZN, MG | DA-B, UM-C |
+| S26 | 6,5/12,0 | 54 % | 100 % | 50 % | 0 % | C | C+ | D | 🌿 | AD, TR, DM, MG | EK-C, VO-D |
+| S27 | 11,5/12,0 | 96 % | 100 % | 100 % | 83 % | E | E | F | 🌳 | – | ⭐ Enrichment |
+
+*Übungskarten: Kompetenz-Code + Stufe, z. B. `VO-D` = Aufgabenpool „Vergleichen/Ordnen“, Karten VO-D1 bis VO-D3. Wer 2 von 3 Karten einer Stufe sicher löst, geht eine Stufe höher.*
 
 ## 7. Auffälligkeiten
 

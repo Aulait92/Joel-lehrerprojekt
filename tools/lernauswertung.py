@@ -155,6 +155,52 @@ class Test:
     def fehlerbilder(self, kz) -> list[str]:
         return [c for _, (_, codes) in self.daten[kz].items() for c in codes]
 
+    def uebungskarten(self, kz, pool: dict[str, str], schwelle: float, maximal: int = 2) -> list[str]:
+        """Empfiehlt Aufgabenpool-Karten (z. B. 'VO-D') für die schwächsten Kompetenzen:
+        je Kompetenz die Stufe direkt über der dort sicher erreichten Stufe."""
+        # Nur Aufgaben im Lernbereich zählen: bis zum nächsten Ziel-Niveau der Person.
+        getestet = sorted({it["niveau"] for it in self.items.values()}, key=NIVEAU_ORDNUNG.find)
+        ziel = ziel_niveau(sicher_bis(self.niveau_quoten(kz), schwelle), getestet)
+        ziel_i = NIVEAU_ORDNUNG.find(ziel)
+        je_komp = defaultdict(lambda: (defaultdict(float), defaultdict(float)))
+        for i, (pk, _) in self.bearbeitet(kz).items():
+            it = self.items[i]
+            if NIVEAU_ORDNUNG.find(it["niveau"]) > ziel_i:
+                continue
+            p, m = je_komp[it["kompetenz"]]
+            p[it["niveau"]] += pk
+            m[it["niveau"]] += it["max"]
+        kandidaten = []
+        for komp, (p, m) in je_komp.items():
+            if komp not in pool:
+                continue
+            nq = {n: p[n] / m[n] for n in m if m[n]}
+            if not nq:
+                continue
+            gesamt = sum(p.values()) / sum(m.values())
+            sb = sicher_bis(nq, schwelle)
+            ordn = sorted(nq, key=NIVEAU_ORDNUNG.find)
+            if sb == ordn[-1]:
+                continue  # alles Getestete im Lernbereich sicher → kein Übungsbedarf belegt
+            if sb == "-":
+                stufe = ordn[0]
+                if nq[stufe] < 0.34 and NIVEAU_ORDNUNG.find(stufe) > 1:
+                    stufe = NIVEAU_ORDNUNG[NIVEAU_ORDNUNG.find(stufe) - 1]  # eine Stufe tiefer ansetzen
+            else:
+                stufe = NIVEAU_ORDNUNG[NIVEAU_ORDNUNG.find(sb) + 1]
+            # nie über das nächste Ziel-Niveau hinaus, Pool reicht von B bis F
+            stufe = NIVEAU_ORDNUNG[min(NIVEAU_ORDNUNG.find(stufe), ziel_i)]
+            stufe = min(max(stufe, "B"), "F")
+            kandidaten.append((gesamt, f"{pool[komp]}-{stufe}"))
+        return [k for _, k in sorted(kandidaten)[:maximal]]
+
+
+def lies_pool(pfad: Path | None) -> dict[str, str]:
+    """index.csv des Aufgabenpools: code;kompetenz;datei -> {kompetenz: code}"""
+    if not pfad or not pfad.exists():
+        return {}
+    return {z["kompetenz"]: z["code"] for z in lies_csv(pfad) if z.get("code") and z.get("kompetenz")}
+
 
 def sicher_bis(nq: dict[str, float], schwelle: float) -> str:
     """Höchste Stufe, bis zu der alle getesteten Stufen 'sicher' sind. '-' = keine."""
@@ -236,7 +282,8 @@ def korrelation(xs: list[float], ys: list[float]) -> float | None:
 
 
 # --------------------------------------------------------------------------- Modus: test
-def bericht_test(t: Test, schwelle: float, gruppen: dict[str, str], anonym: bool) -> str:
+def bericht_test(t: Test, schwelle: float, gruppen: dict[str, str], anonym: bool,
+                 pool: dict[str, str] | None = None) -> str:
     kz_liste = sorted(t.daten)
     n = len(kz_liste)
     out: list[str] = []
@@ -375,6 +422,8 @@ def bericht_test(t: Test, schwelle: float, gruppen: dict[str, str], anonym: bool
         if gruppen:
             hdr += " Gruppe |"
         hdr += " Fehlerbilder |"
+        if pool:
+            hdr += " Übungskarten (Aufgabenpool) |"
         a(hdr)
         a("|" + "---|" * (hdr.count("|") - 1))
         getestet = niveaus
@@ -389,8 +438,14 @@ def bericht_test(t: Test, schwelle: float, gruppen: dict[str, str], anonym: bool
                 zeile += f" {gruppen.get(sb, '?')} |"
             fb = Counter(t.fehlerbilder(kz))
             zeile += " " + (", ".join(f"{c}×{k}" if k > 1 else c for c, k in fb.most_common()) or "–") + " |"
+            if pool:
+                karten = t.uebungskarten(kz, pool, schwelle)
+                zeile += " " + (", ".join(karten) or "⭐ Enrichment") + " |"
             a(zeile)
         a("")
+        if pool:
+            a("*Übungskarten: Kompetenz-Code + Stufe, z. B. `VO-D` = Aufgabenpool „Vergleichen/Ordnen“, "
+              "Karten VO-D1 bis VO-D3. Wer 2 von 3 Karten einer Stufe sicher löst, geht eine Stufe höher.*\n")
 
         # Förderbedarf / Enrichment
         a("## 7. Auffälligkeiten\n")
@@ -584,6 +639,8 @@ def main(argv=None):
     pt.add_argument("--schwelle", type=float, default=0.66)
     pt.add_argument("--gruppen", help='z. B. "keine:🌱,C:🌿,D:🌿,E:🌳" (sicher-bis-Stufe → Gruppe)')
     pt.add_argument("--anonym", action="store_true")
+    pt.add_argument("--pool", type=Path,
+                    help="index.csv des Aufgabenpools (Standard: <einheit>/aufgabenpool/index.csv neben dem Schlüssel)")
     pt.add_argument("--out", type=Path)
     pv = sub.add_parser("verlauf")
     pv.add_argument("--index", required=True, type=Path)
@@ -594,7 +651,8 @@ def main(argv=None):
 
     if args.modus == "test":
         t = Test(args.schluessel, args.ergebnisse, args.name)
-        text = bericht_test(t, args.schwelle, parse_gruppen(args.gruppen), args.anonym)
+        pool_pfad = args.pool or args.schluessel.resolve().parent.parent / "aufgabenpool" / "index.csv"
+        text = bericht_test(t, args.schwelle, parse_gruppen(args.gruppen), args.anonym, lies_pool(pool_pfad))
     else:
         text = bericht_verlauf(args.index, args.anonym, args.schwelle)
     if args.out:

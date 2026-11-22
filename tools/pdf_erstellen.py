@@ -4,7 +4,7 @@ Erzeugt druckfertige PDFs aus den Markdown-Materialien einer Einheit.
 
     python3 tools/pdf_erstellen.py unterricht/mathematik-brueche-dezimalzahlen
 
-Ergebnis in <einheit>/material/pdf/:
+Ergebnis in <einheit>/material/pdf/ (und <einheit>/aufgabenpool/pdf/, falls vorhanden):
   - 00-kopiervorlagen.pdf   alle Materialien OHNE Lehrer- und Lösungsteile (zum Kopieren)
   - 00-komplett.pdf         alle Materialien vollständig (Lehrerteil, Kopiervorlagen, Lösungen)
   - M*.pdf                  jedes Material einzeln, vollständig
@@ -167,33 +167,20 @@ const { chromium } = require('playwright');
 """
 
 
-def main():
-    if len(sys.argv) < 2:
-        print(__doc__)
-        sys.exit(1)
-    einheit = Path(sys.argv[1]).resolve()
-    mat = einheit / "material"
-    dateien = sorted(mat.glob("M*.md"), key=lambda p: [int(x) if x.isdigit() else x
-                                                        for x in re.split(r"(\d+)", p.name)])
-    if not dateien:
-        sys.exit(f"Keine Materialien in {mat}")
-    ziel = mat / "pdf"
+def natuerlich(p: Path):
+    return [int(x) if x.isdigit() else x for x in re.split(r"(\d+)", p.name)]
+
+
+def titel_von(p: Path) -> str:
+    return p.read_text(encoding="utf-8").splitlines()[0].lstrip("# ").strip()
+
+
+def sammlung(dateien: list[Path], ziel: Path, einheit_titel: str, art: str, tmp: Path, jobs: list):
+    """Sammel-PDFs (Kopiervorlagen + komplett) und Einzel-PDFs für eine Gruppe von Dateien."""
     ziel.mkdir(exist_ok=True)
-    einheit_titel = einheit.name.replace("-", " ").title()
-    readme = einheit / "README.md"
-    if readme.exists():
-        erste = readme.read_text(encoding="utf-8").splitlines()[0].lstrip("# ").strip()
-        einheit_titel = erste or einheit_titel
-
-    def titel_von(p: Path) -> str:
-        z = p.read_text(encoding="utf-8").splitlines()[0]
-        return z.lstrip("# ").strip()
-
-    tmp = Path(tempfile.mkdtemp(prefix="pdf_"))
-    jobs = []
     for variante, dateiname, untertitel in [
-        (True, "00-kopiervorlagen.pdf", "Kopiervorlagen – ohne Lehrer- und Lösungsteile"),
-        (False, "00-komplett.pdf", "Komplett – mit Lehrerteilen und Lösungen"),
+        (True, "00-kopiervorlagen.pdf", f"{art} · Kopiervorlagen – ohne Lehrer- und Lösungsteile"),
+        (False, "00-komplett.pdf", f"{art} · Komplett – mit Lehrerteilen und Lösungen"),
     ]:
         teile = []
         for p in dateien:
@@ -203,16 +190,45 @@ def main():
         titel = (f'<section class="titelseite"><h1>{einheit_titel}</h1><p>{untertitel}</p>'
                  f'<ol class="inhalt">{inhalt}</ol></section>'
                  f'<div class="seitenumbruch"></div>')
-        h = tmp / dateiname.replace(".pdf", ".html")
+        h = tmp / f"{ziel.parent.name}-{dateiname.replace('.pdf', '.html')}"
         h.write_text(html_seite(einheit_titel, titel + "".join(teile)), encoding="utf-8")
-        jobs.append({"html": str(h), "pdf": str(ziel / dateiname), "fuss": f"{einheit_titel} · {untertitel.split(' –')[0]}"})
-
+        jobs.append({"html": str(h), "pdf": str(ziel / dateiname),
+                     "fuss": f"{einheit_titel} · {untertitel.split(' –')[0]}"})
     for p in dateien:
         html = pandoc_html(md_vorbereiten(p.read_text(encoding="utf-8"), False))
         h = tmp / (p.stem + ".html")
         h.write_text(html_seite(titel_von(p), f'<section class="material">{html}</section>'), encoding="utf-8")
         jobs.append({"html": str(h), "pdf": str(ziel / (p.stem + ".pdf")), "fuss": titel_von(p)})
 
+
+def main():
+    if len(sys.argv) < 2:
+        print(__doc__)
+        sys.exit(1)
+    einheit = Path(sys.argv[1]).resolve()
+    einheit_titel = einheit.name.replace("-", " ").title()
+    readme = einheit / "README.md"
+    if readme.exists():
+        erste = readme.read_text(encoding="utf-8").splitlines()[0].lstrip("# ").strip()
+        einheit_titel = erste or einheit_titel
+
+    tmp = Path(tempfile.mkdtemp(prefix="pdf_"))
+    jobs: list = []
+    mat = einheit / "material"
+    material = sorted(mat.glob("M*.md"), key=natuerlich)
+    if material:
+        sammlung(material, mat / "pdf", einheit_titel, "Unterrichtsmaterial", tmp, jobs)
+
+    pool = einheit / "aufgabenpool"
+    if (pool / "index.csv").exists():
+        reihenfolge = [z.split(";")[2].strip() for z in
+                       (pool / "index.csv").read_text(encoding="utf-8").splitlines()[1:] if z.count(";") >= 2]
+        pool_dateien = [pool / d for d in reihenfolge if (pool / d).exists()]
+        if pool_dateien:
+            sammlung(pool_dateien, pool / "pdf", einheit_titel, "Aufgabenpool", tmp, jobs)
+
+    if not jobs:
+        sys.exit(f"Keine Materialien in {einheit}")
     js = tmp / "drucken.js"
     js.write_text(NODE_SKRIPT, encoding="utf-8")
     subprocess.run(["node", str(js), json.dumps(jobs)], check=True)
