@@ -47,4 +47,17 @@ Nachzuarbeiten: Widersprüche zwischen Dateien („⅓ gratis“, „¾ von 240 
 3. **Machbarkeit und Stigmatisierung nachschärfen** (Std. 7 entlasten, ein Selbsteinschätzungs-Instrument, Wellen nach Zahlbereich, Blanko-Karten, Vorbereitungszeit M8.1, KG → LG).
 
 ## Umsetzung
-*(wird nach der Nacharbeit ergänzt)*
+Alle Vorschläge aus der Tabelle sind eingearbeitet (Planung/Bewertung und Material in getrennten Durchgängen). Wichtigste Änderungen:
+
+- **Angebote:** „⅓ mehr Inhalt“ (= 25 %) konsequent in Brief 7, M7.1, 01, 02, 03, feedback-formate; ET-3-Lösung präzisiert („3 für 2“ = ⅓ ≈ 33 %).
+- **M7.1 Standard ★2:** 360 €, ¾ = 270 €, Plakat 15 € → 18 Plakate. Selbsteinschätzung Nr. 13 jetzt „⅔ von 15 € = 10 €“.
+- **ET 3:** Standard 4 → 10 Personen (1,25 kg Mehl, 1⅞ l Milch); Experte + b) 3 l : ⅜ l = 8 Gläser.
+- **Basis-Weg:** M3.1 ★3 Kürzen mit Streifen; M6.1 · 100 / : 100 und Wasser 10er-Pack (0,33 €).
+- **Klassenarbeit:** B3-2 „0,25 vom Taschengeld“, Wortspeicher ergänzt, neuer Abschn. 6b zieldifferenter Bogen, DaZ-Klärungshinweis.
+- **Std. 2:** Wellen nach Zahlbereich, 55 % / ⅗ durch ⅔ / 0,6̅ ersetzt, ca. 28 Blanko-Karten.
+- **Std. 7:** 4 Präsentationen, Peer-Feedback schriftlich, ET 3 in den letzten 4′. **Std. 8:** Abschluss mit Selbsteinschätzung, Kompetenzraster und Ankündigung der Arbeit.
+- **Ein Selbsteinschätzungs-Instrument:** Lernleiter in M0.1 gestrichen; Kompetenzraster ab Std. 8.
+- **M8.1:** S5 auf Anteile/Angebote (½ von 12,40 €, ¾ von 8,40 €, 1½ : ¼ – jeweils Ziffer 6, Code 75356 unverändert); Tresor 0,8̅ = 8/9 → Code 9-1/9-2; Vorbereitung 60–90 Min. + A4-Faltblatt-Tipp; Lehrkraft präsentiert Lösungswege.
+- **Kleinkram:** M2.2 KG → LG, M5.1 KW-Kürzel entfernt, Klassengröße ca. 27, 03 verweist auf 04, M0.5/M0.6 als nicht erstellt markiert, Drucktipp in 04, Übersetzungs-App ohne Konto.
+
+**Bekannte Restpunkte:** RLP-Standards weiterhin nicht verifiziert; ca. 15 `[Bild]`-Platzhalter offen; bei M8.1 S5 🌱 führt der Fehler „40 ct : 2 = 2 ct“ zufällig ebenfalls zu Ziffer 6 (Gegenmittel: Team nennt beim Melden den Betrag). Eine zweite Qualitätsprüfung nach der Nacharbeit wurde nicht durchgeführt.
