@@ -62,6 +62,12 @@ hr { display: none; }
 .schnitt::before, .schnitt::after { content: ""; flex: 1; border-top: 1.2px dashed var(--line); }
 .karte.kurz { break-inside: avoid; }
 .grafik { margin: 4pt 0 6pt; break-inside: avoid; }
+.rechenfeld { box-sizing: border-box; width: 100%; border: 1px solid #888; margin: 3pt 0 8pt; break-inside: avoid; min-height: 3cm;
+  background-image: linear-gradient(#b4b4b4 1px, transparent 1px),
+                    linear-gradient(90deg, #b4b4b4 1px, transparent 1px);
+  background-size: 5mm 5mm; }
+.kopf { display: flex; justify-content: space-between; font-size: 9.5pt; color: #333;
+  border-bottom: 1px solid #999; padding-bottom: 3pt; margin-bottom: 6pt; }
 .grafik svg { max-width: 100%; height: auto; }
 h1, h2, h3, h4, .schnitt { break-after: avoid; }
 h3 + p, h3 + table { break-before: avoid; }
