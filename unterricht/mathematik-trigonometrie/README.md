@@ -37,6 +37,10 @@ Die Dachmessung aus Std. 3 zieht sich als Kontrolle durch: rechtwinklig (13,27 m
 | `material/` | 53 Materialien (ABs, Lösungsblätter, Hilfekarten, Folien-Texte, Messprotokolle, Merkblätter) · **PDFs in `material/pdf/`** |
 | `bewertung/` | Kompetenzraster, Klassenarbeit, Feedback-Formate, Elternbrief · PDFs in `bewertung/pdf/` (inkl. Diagnose/Exit-Tickets) |
 | `auswertung/` | Schlüssel + Erfassungsvorlagen für `/auswerten` (Vorwissens-Check, Exit-Tickets, Klassenarbeit) |
+| `07a-…` · `07b-verstaendlichkeit-…` | Schüler-Test: 114 Stellen, an denen Kinder hätten nachfragen müssen – alle nachgebessert |
+| `material/pdf-lernpfad/` | **neues Design**: Arbeitsblätter als Lernpfad mit XP, Abzeichen, „Geschafft“-Häkchen + **Lernpass** |
+| `material/docx/`, `bewertung/docx/`, `docx/` | alles als bearbeitbare **Word-Dateien** |
+| `praesentationen/klassisch/` · `praesentationen/lernpfad/` | **PowerPoint** für alle 8 Stunden in deinem Tafel-Design und im Lernpfad-Design (Moderation in den Notizen) |
 | `vorhandenes-material/` | deine Originale (AB1 ◼, Merkblatt, Tafel Std. 1) |
 
 ## Vorbereitung
@@ -44,7 +48,7 @@ Die Dachmessung aus Std. 3 zieht sich als Kontrolle durch: rechtwinklig (13,27 m
 **Was du mindestens brauchst:** siehe „Minimal-Version“ in `06-qualitaetspruefung.md` (ca. 40 der 53 Materialien).
 
 - [ ] RLP-Bezüge kurz gegenlesen (Teil A/B sind nur sinngemäß, Teil C wörtlich belegt).
-- [ ] **Folien bauen:** Die Folientexte stehen in `material/M*.1-folien-std*.md` (Folie für Folie, mit Moderationshinweisen) – in deine Präsentationsvorlage übertragen.
+- [ ] **Präsentationen ansehen:** fertig in `praesentationen/` (zwei Designs); Texte bei Bedarf in `material/M*.1-folien-std*.md` ändern und neu erzeugen.
 - [ ] **Std. 3 organisieren** (`M3.6`): Schulleitung/Hausmeister informieren, Aufsicht/zweite Person, Geometer zählen und testen, Maßbänder, Kegel; Wetter prüfen, sonst Plan B (`M3.7`).
 - [ ] Kopieren: Gewicht/Doppelgewicht als Klassensatz in Klarsichthüllen (gerechnet wird im Heft), Feder als Verbrauchsblatt; Hilfekarten und Stationen laminieren/schneiden.
 - [ ] Lösungsstation einrichten (je Niveau 2× Lösungsblatt).

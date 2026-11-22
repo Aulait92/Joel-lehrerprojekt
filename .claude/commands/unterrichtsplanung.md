@@ -20,6 +20,7 @@ Lege den Ordner `unterricht/<fach>-<thema>/` an (Kleinbuchstaben, Bindestriche) 
    - **inklusion-sprachfoerderung** → prüft und ergänzt `material/`, Notizen in `05-inklusion.md`
    - **bewertungs-feedback-coach** → `bewertung/`
    - Zu allen Tests/Exit-Tickets/Klassenarbeiten Schlüsseldateien in `auswertung/` anlegen (für `/auswerten`).
+5b. **schueler-tester** – alle Kopiervorlagen aus Schülersicht prüfen und nachbessern → `07-verstaendlichkeit.md`
 6. **qualitaets-pruefer** → `06-qualitaetspruefung.md`
 7. Arbeite die 🔴/🟡-Punkte der Qualitätsprüfung selbst ein (oder mit dem jeweiligen Agenten).
 

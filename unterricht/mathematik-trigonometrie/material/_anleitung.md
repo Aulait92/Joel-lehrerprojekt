@@ -40,7 +40,7 @@ Gestuft: H1 Denkanstoß → H2 Strategie/Schema → H3 durchgerechnetes Parallel
 Die Lehrkraft arbeitet mit Folien (Stil siehe Tafel-PDF Std. 1): pro Folie `### Folie n – Titel`, darunter Stichpunkte/Text genau so, wie er auf der Folie stehen soll, plus `*Moderation:*`-Zeile für die Lehrkraft. Fahrplan-Folie mit Zeiten am Anfang, Abschlussfolie am Ende.
 
 ## Kopieren
-Pro Stunde ca. 12 Feder, 14 Gewicht, 8 Doppelgewicht (nach Exit-Ticket-Empfehlungen anpassen). Gewicht/Doppelgewicht als Klassensatz in Klarsichthüllen, gerechnet wird im Heft. Nur Feder (Lückentexte) wird verbraucht.
+Pro Stunde ca. 12 Feder, 14 Gewicht, 8 Doppelgewicht (nach Exit-Ticket-Empfehlungen anpassen). Standard: alle Blätter als Verbrauchsblatt kopieren – gerechnet wird in den Rechenfeldern auf dem Blatt. Spar-Option: Gewicht/Doppelgewicht als Klassensatz in Klarsichthüllen; dann im Heft rechnen und das an der Tafel ansagen.
 
 ## Daten für Std. 3–5 (verbindlich, damit alles zusammenpasst)
 Beispieldaten aus `04-verlaufsplanung.md` (M3.5) verwenden: Abstand e = 15,0 m, Höhenwinkel α = 38°, Augenhöhe 1,55 m → h ≈ 15,0 · tan 38° + 1,55 ≈ 11,72 + 1,55 ≈ 13,3 m. Zweiter Standpunkt: siehe M3.5 in der Materialliste (Werte dort übernehmen und nachrechnen).

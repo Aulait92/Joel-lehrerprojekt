@@ -228,6 +228,51 @@ def sammlung(dateien: list[Path], ziel: Path, einheit_titel: str, art: str, tmp:
         jobs.append({"html": str(h), "pdf": str(ziel / (p.stem + ".pdf")), "fuss": titel_von(p)})
 
 
+def _blatt(p: Path, modus: str, schueler: bool = False) -> str:
+    md = p.read_text(encoding="utf-8")
+    if modus == "ohne_a":
+        md = "".join(t for t in re.split(r"(?m)^(?=## )", md) if not re.match(r"## Teil A", t))
+    html = pandoc_html(md_vorbereiten(md, modus == "kv"))
+    if schueler:
+        html = re.sub(r"<h1[^>]*>.*?</h1>", "", html, flags=re.S)
+        html = re.sub(r"<h2[^>]*>[^<]*(Teil [A-Z]|Kopiervorlage)[^<]*</h2>", "", html)
+    return re.sub(r'^\s*<div class="seitenumbruch"></div>', "", html)
+
+
+def zusammenstellungen(einheit: Path, einheit_titel: str, material: list[Path], tmp: Path, jobs: list):
+    """Sammel-PDFs für den Alltag: Arbeitsblätter (Schülerfassung), Lösungen, Hilfekarten + Merkblätter.
+    Ein vorhandenes Original (vorhandenes-material/AB<n>-Gewicht*.pdf) wird hinter die Feder-Fassung einsortiert."""
+    ziel = einheit / "material" / "pdf"
+    muster = re.compile(r"(feder|gewicht|stationen|messprotokoll|gutachten|schichtauftrag)", re.I)
+    gruppen = {
+        "00-arbeitsblaetter-schueler.pdf": [(p, "kv", True) for p in material if muster.search(p.name) and "loesung" not in p.name],
+        "00-loesungen-lehrkraft.pdf": [(p, "voll", False) for p in material if "loesung" in p.name],
+        "00-hilfekarten-merkblaetter.pdf": [(p, "ohne_a" if "merkblatt" in p.name else "kv", False)
+                                            for p in material if re.search(r"(hilfekarten|methodenkarte|merkblatt|wortspeicher)", p.name)],
+    }
+    vorhanden = einheit / "vorhandenes-material"
+    for dateiname, liste in gruppen.items():
+        if not liste:
+            continue
+        teile = []  # Folge aus ("html", pfad) und ("pdf", pfad)
+        for p, modus, schueler in liste:
+            h = tmp / f"sammel-{dateiname}-{p.stem}.html"
+            titel = "" if schueler else f"<h1>{titel_von(p)}</h1>" if modus != "voll" else ""
+            h.write_text(html_seite(p.stem, f'<section class="material">{titel}{_blatt(p, modus, schueler)}</section>'), encoding="utf-8")
+            einzel = tmp / f"sammel-{dateiname}-{p.stem}.pdf"
+            jobs.append({"html": str(h), "pdf": str(einzel), "fuss": f"{einheit_titel} · {titel_von(p)}"})
+            teile.append(einzel)
+            m = re.match(r"M(\d+)\.\d+-.*feder", p.name)
+            if schueler and m and vorhanden.exists():
+                orig = sorted(vorhanden.glob(f"AB{m.group(1)}-Gewicht*.pdf"))
+                if orig:
+                    teile.append(orig[0])
+        ZUSAMMENFUEGEN.append((teile, ziel / dateiname))
+
+
+ZUSAMMENFUEGEN: list = []
+
+
 def main():
     if len(sys.argv) < 2:
         print(__doc__)
@@ -263,9 +308,19 @@ def main():
 
     if not jobs:
         sys.exit(f"Keine Materialien in {einheit}")
+    zusammenstellungen(einheit, einheit_titel, material, tmp, jobs)
     js = tmp / "drucken.js"
     js.write_text(NODE_SKRIPT, encoding="utf-8")
     subprocess.run(["node", str(js), json.dumps(jobs)], check=True)
+    if ZUSAMMENFUEGEN:
+        from pypdf import PdfReader, PdfWriter
+        for teile, ziel in ZUSAMMENFUEGEN:
+            w = PdfWriter()
+            for t in teile:
+                for seite in PdfReader(str(t)).pages:
+                    w.add_page(seite)
+            w.write(str(ziel))
+            print(f"PDF: {ziel} ({len(w.pages)} Seiten)")
 
 
 if __name__ == "__main__":

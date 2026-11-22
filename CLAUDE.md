@@ -16,6 +16,7 @@ Dieses Projekt unterstützt eine Lehrkraft in Berlin bei der Planung von Unterri
 | `qualitaets-pruefer` | kritische Endkontrolle – immer zuletzt |
 | `lernfortschritt-analyst` | wertet Tests/Klassenarbeiten aus, nächste Schritte je Kürzel |
 | `unterrichts-optimierer` | setzt Befunde in Unterricht um, prüft Wirkung, pflegt `wissen/` |
+| `schueler-tester` | prüft jedes Blatt aus Schülersicht: ohne Nachfragen ausfüllbar? bessert nach |
 
 ## Befehle
 - `/unterrichtsplanung <Fach> <Jg> <Schulform> <Thema>` – komplette Einheit mit allen Agenten
@@ -39,4 +40,9 @@ Planen → Unterrichten → Ergebnisse erfassen (`klassen/<klasse>/*.csv`) → `
 - **Vorgaben der Lehrkraft** (`00-auftrag.md`, `vorhandenes-material/`) haben Vorrang vor den Standardannahmen der Agenten.
 - **Geometrie-Skizzen**: Dreiecke als ` ```dreieck `-Block (siehe `tools/dreieck_svg.py`), andere Skizzen als Inline-SVG – keine Bild-Platzhalter.
 - Ergebnisse unter `unterricht/<fach>-<thema>/` ablegen.
-- Nach Änderungen an Materialien die PDFs neu erzeugen: `python3 tools/pdf_erstellen.py unterricht/<einheit>`.
+- Nach Änderungen an Materialien die Ausgaben neu erzeugen:
+  - `python3 tools/pdf_erstellen.py unterricht/<einheit>` – PDFs (klassisch) inkl. Sammel-PDFs
+  - `python3 tools/lernpfad_design.py unterricht/<einheit>` – PDFs im Lernpfad-Design + Lernpass
+  - `python3 tools/docx_erstellen.py unterricht/<einheit>` – Word-Dateien
+  - `python3 tools/praesentation_erstellen.py unterricht/<einheit>` – PowerPoint (klassisch + Lernpfad) aus `M*.1-folien-*.md`
+  - Einmalig für PowerPoint: `cd tools && npm install`

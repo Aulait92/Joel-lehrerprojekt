@@ -72,11 +72,15 @@ def dreieck_svg(text: str) -> str:
     xs = [p[0] for p in P.values()]
     ys = [p[1] for p in P.values()]
     rand = 34
+    # Platz für lange Seitenbeschriftungen links/rechts (sonst werden sie abgeschnitten)
+    laengste = max([len(v) for v in seiten.values()] + [len(v) for v in winkel.values()] + [1])
+    extra = max(0.0, 6.6 * laengste - rand + 8)  # Zeichenfläche verbreitern, Dreieck bleibt gleich groß
+    rand_x = rand + extra
     s = (breite - 2 * rand) / (max(xs) - min(xs))
     hoehe = (max(ys) - min(ys)) * s + 2 * rand
 
     def px(p):
-        x = (p[0] - min(xs)) * s + rand
+        x = (p[0] - min(xs)) * s + rand_x
         y = (max(ys) - p[1]) * s + rand if not spiegeln else (p[1] - min(ys)) * s + rand
         return (x, y)
 
@@ -146,6 +150,7 @@ def dreieck_svg(text: str) -> str:
         ty = my + ny * 8 + (12 if ny > 0.3 else (-2 if ny < -0.3 else 4))
         teile.append(f'<text x="{tx:.1f}" y="{ty:.1f}" text-anchor="{anker}">{_esc(label)}</text>')
 
+    breite = breite + 2 * extra
     return (f'<svg width="{breite:.0f}" height="{hoehe:.0f}" viewBox="0 0 {breite:.0f} {hoehe:.0f}" '
             f'xmlns="http://www.w3.org/2000/svg" font-family="Liberation Sans, DejaVu Sans, sans-serif" '
             f'font-size="13">' + "".join(teile) + "</svg>")

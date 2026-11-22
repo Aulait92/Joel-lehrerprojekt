@@ -53,7 +53,7 @@ function absaetze(items, groesse, farbe) {
       ? { bullet: it.nummer ? { type: "number" } : true, paraSpaceAfter: 4, indentLevel: it.ebene || 0 }
       : { paraSpaceAfter: 6 };
     runs.forEach((r, j) => {
-      Object.assign(r.options, absatzOpt);
+      if (j === 0) Object.assign(r.options, absatzOpt);
       if (j === runs.length - 1 && !letzte) r.options.breakLine = true;
     });
     out.push(...runs);
@@ -220,7 +220,9 @@ function bauen(deck, design) {
     const istEnde = idx === gesamt - 1 && /geschafft|pause|ende|glückwunsch|abschluss/i.test(f.titel + JSON.stringify(f.inhalt));
     const master = design === "klassisch" ? (istTitel ? "KLASSISCH_TITEL" : "KLASSISCH_INHALT") : (istTitel ? "LERNPFAD_TITEL" : "LERNPFAD_INHALT");
     const slide = pres.addSlide({ masterName: master, sectionTitle: `Stunde ${deck.std}` });
-    slide.addText(f.titel, { placeholder: "title" });
+    const lang = f.titel.length;
+    const titelGroesse = design === "klassisch" ? (lang > 55 ? 22 : lang > 38 ? 26 : 32) : (lang > 55 ? 18 : lang > 38 ? 22 : 28);
+    slide.addText(f.titel, { placeholder: "title", fontSize: titelGroesse });
 
     if (design === "klassisch") {
       if (istTitel || istEnde) {
