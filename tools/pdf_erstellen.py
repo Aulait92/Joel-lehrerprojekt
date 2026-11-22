@@ -4,7 +4,8 @@ Erzeugt druckfertige PDFs aus den Markdown-Materialien einer Einheit.
 
     python3 tools/pdf_erstellen.py unterricht/mathematik-brueche-dezimalzahlen
 
-Ergebnis in <einheit>/material/pdf/ (und <einheit>/aufgabenpool/pdf/, falls vorhanden):
+Ergebnis in <einheit>/material/pdf/ (außerdem aufgabenpool/pdf/ und bewertung/pdf/ für Diagnose,
+Exit-Tickets und Klassenarbeit, falls vorhanden):
   - 00-kopiervorlagen.pdf   alle Materialien OHNE Lehrer- und Lösungsteile (zum Kopieren)
   - 00-komplett.pdf         alle Materialien vollständig (Lehrerteil, Kopiervorlagen, Lösungen)
   - M*.pdf                  jedes Material einzeln, vollständig
@@ -252,6 +253,13 @@ def main():
         pool_dateien = [pool / d for d in reihenfolge if (pool / d).exists()]
         if pool_dateien:
             sammlung(pool_dateien, pool / "pdf", einheit_titel, "Aufgabenpool", tmp, jobs)
+
+    bew = einheit / "bewertung"
+    diag = sorted(einheit.glob("02-diagnose*.md"))
+    bew_dateien = diag + sorted(bew.glob("*.md"), key=natuerlich) if bew.exists() else diag
+    if bew_dateien:
+        bew.mkdir(exist_ok=True)
+        sammlung(bew_dateien, bew / "pdf", einheit_titel, "Diagnose und Bewertung", tmp, jobs)
 
     if not jobs:
         sys.exit(f"Keine Materialien in {einheit}")
