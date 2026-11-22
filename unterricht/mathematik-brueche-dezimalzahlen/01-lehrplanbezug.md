@@ -69,7 +69,7 @@ und Vertiefung** (Bruch ↔ Dezimalzahl ↔ Prozent, Rechnen in allen Grundreche
 |---|---|---|
 | **C** | … Dezimalzahlen im Größenkontext addieren und subtrahieren (Geldbeträge); gleichnamige einfache Brüche anschaulich addieren. | … Preise zusammenrechnen und Wechselgeld ausrechnen. … ¼ + ¼ mit einem Bild ausrechnen. |
 | **D** | … gleichnamige und einfache ungleichnamige Brüche addieren und subtrahieren; Dezimalzahlen schriftlich addieren, subtrahieren sowie mit natürlichen Zahlen und Zehnerpotenzen multiplizieren/dividieren; Ergebnisse überschlagen. | … Brüche mit verschiedenen Nennern addieren, indem ich sie gleichnamig mache. … Dezimalzahlen stellengerecht untereinander schreiben und rechnen. … mit 10, 100, 1000 malnehmen und teilen (Komma verschieben). |
-| **E** | … Brüche und Dezimalzahlen in allen vier Grundrechenarten verständig verrechnen (auch Bruch · Bruch, Bruch : Bruch, Dezimalzahl · Dezimalzahl, Dezimalzahl : Dezimalzahl), Rechengesetze nutzen, Ergebnisse überschlagen und runden; Anteile von Größen berechnen. | … Brüche multiplizieren und dividieren (mit dem Kehrwert). … zwei Dezimalzahlen multiplizieren und weiß, wo das Komma hinkommt. … ¾ von 240 € ausrechnen. … vorher abschätzen, ob mein Ergebnis stimmen kann. |
+| **E** | … Brüche und Dezimalzahlen in allen vier Grundrechenarten verständig verrechnen (auch Bruch · Bruch, Bruch : Bruch, Dezimalzahl · Dezimalzahl, Dezimalzahl : Dezimalzahl), Rechengesetze nutzen, Ergebnisse überschlagen und runden; Anteile von Größen berechnen. | … Brüche multiplizieren und dividieren (mit dem Kehrwert). … zwei Dezimalzahlen multiplizieren und weiß, wo das Komma hinkommt. … ⅜ von 12,80 € ausrechnen (= 4,80 €). … vorher abschätzen, ob mein Ergebnis stimmen kann. |
 | **F** (Ausblick) | … Terme mit gebrochenen (auch negativen) Zahlen vorteilhaft berechnen, Rechenwege vergleichen und begründen; Prozentrechnung als Anwendung von Anteilen nutzen. | … einen Rechenausdruck mit Brüchen und Dezimalzahlen geschickt berechnen und meinen Weg begründen. |
 
 ### 3c) Anwenden und Modellieren (prozessbezogen)
@@ -78,7 +78,7 @@ und Vertiefung** (Bruch ↔ Dezimalzahl ↔ Prozent, Rechnen in allen Grundreche
 |---|---|---|
 | **C** | einfache Sachsituationen mit Anteilen bildlich darstellen und lösen | … eine Pizza-/Schokoladenaufgabe mit einer Skizze lösen. |
 | **D** | Sachaufgaben mit Brüchen/Dezimalzahlen lösen, Ergebnisse auf die Situation beziehen | … aus einem Rezept für 4 Personen eins für 6 Personen machen. |
-| **E** | mehrschrittige Sachprobleme modellieren, Darstellungen wechseln, Ergebnisse prüfen und bewerten | … Angebote („⅓ gratis“ vs. „25 % Rabatt“) vergleichen und begründen, welches günstiger ist. |
+| **E** | mehrschrittige Sachprobleme modellieren, Darstellungen wechseln, Ergebnisse prüfen und bewerten | … Angebote („⅓ mehr Inhalt“ oder „25 % Rabatt“?) vergleichen und begründen, welches günstiger ist. |
 | **F** | Modelle kritisch reflektieren, Grenzen benennen | … erklären, wann Runden bei Dezimalzahlen zu Fehlern führt. |
 
 ---
@@ -138,3 +138,14 @@ und Vertiefung** (Bruch ↔ Dezimalzahl ↔ Prozent, Rechnen in allen Grundreche
 **To-do für die Lehrkraft:** Teil C Mathematik als PDF in `lehrplan/` ablegen und die Standards
 in Abschnitt 3 (insbesondere die Stufenzuordnung D/E für Multiplikation/Division von Brüchen
 und periodische Dezimalzahlen) gegen das Original prüfen; ebenso das schulinterne Curriculum.
+
+**To-do (aus der Qualitätsprüfung, vor der Klassenarbeit erledigen):** Folgende Stufenzuordnungen
+sind besonders unsicher und im Original zu prüfen:
+- **Bruch · Bruch und Bruch : Bruch** – hier als **E** eingeordnet; im Original möglicherweise schon **D** (Jg. 5/6).
+- **Periodische Dezimalzahlen** – hier als **E** (Umwandeln) bzw. **F** (Rückverwandlung) eingeordnet.
+- **Anteile von Größen berechnen** (z. B. ⅜ von 12,80 €) – hier als **E** eingeordnet; evtl. **D**.
+
+**Folge:** Der Notenschlüssel der Klassenarbeit (`bewertung/klassenarbeit.md`, Abschn. 4.1) hängt
+von der Zuordnung der Aufgaben zu Pflicht- (C/D) und Wahlteil (E) ab. Liegt eine dieser Operationen
+im Original auf Stufe D, gehören die entsprechenden Aufgaben in den Pflichtteil – Punkteverteilung
+und Notengrenzen dann anpassen.

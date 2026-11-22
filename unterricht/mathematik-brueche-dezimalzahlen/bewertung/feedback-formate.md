@@ -1,6 +1,6 @@
 # Feedback-Formate: Brüche und Dezimalzahlen (Mathematik, Jg. 7, ISS Berlin)
 
-> **Grundlagen:** `04-verlaufsplanung.md` (Std. 7 Expertenteams mit 60-Sek.-Präsentation; Std. 8 Selbsteinschätzung „Ende“),
+> **Grundlagen:** `04-verlaufsplanung.md` (Std. 7 Expertenteams, 4 Präsentationen à 60 Sek. mit schriftlichem Peer-Feedback; Std. 8 Selbsteinschätzung „Ende“),
 > `02-diagnose.md` (Selbsteinschätzungsbogen Abschn. 7, Exit-Tickets), `kompetenzraster.md`, `klassenarbeit.md`.
 > **Alle Formate sind formativ und werden nicht benotet.** Datenschutz: In Projektdateien nur Kürzel (S01 …), Namen nur auf den Papierbögen in der Klasse.
 
@@ -15,10 +15,10 @@
 ## 1. Peer-Feedback-Kriterienkarte (Std. 7, Präsentation der Expertenteams)
 
 **Ablauf (passt in die 10 Min. Abschluss von Std. 7):**
-- Jedes Team präsentiert **eine Entscheidung in 60 Sekunden** (z. B. „Wir drucken die Aktion …, weil …“).
-- Ein **Feedback-Team** pro präsentierendem Team, festgelegt im Rotationsprinzip (Team 1 gibt Team 2 Feedback usw.). Jedes Team füllt **eine** Karte aus, also maximal 7 Karten pro Durchgang.
-- Pro Präsentation 30 Sek. Ankreuzen, danach liest **eine** Person aus dem Feedback-Team **einen Stern** vor. Den Wunsch bekommt das Team schriftlich (Karte wird übergeben). So bleibt es kurz und niemand wird vor der Klasse bloßgestellt.
-- Wenn die Zeit knapp ist: Exit-Ticket 3 hat Vorrang. Die Karten werden dann am Anfang von Std. 8 übergeben.
+- **Nur 4 Teams präsentieren** (2 × Snackbox-Rezept, 2 × Angebotsprüfer:innen) je **eine Entscheidung in 60 Sekunden** (z. B. „Wir drucken die Aktion …, weil …“). Die Auswahl wird zu Beginn von Std. 7 bekannt gegeben (Los oder freiwillig); die übrigen Teams sind Feedback-Teams.
+- Zu jeder Präsentation füllt **ein Feedback-Team** eine Karte aus (Zuordnung vorher an der Tafel), also 4 Karten.
+- Peer-Feedback **nur schriftlich**: 30 Sek. Ankreuzen pro Präsentation, die Karte wird dem Team direkt übergeben – **kein mündliches Vorlesen im Plenum**. So bleibt es kurz und niemand wird vor der Klasse bloßgestellt.
+- Zeitplan: 4 × 60 Sek. Präsentation + 4 × 30 Sek. Ankreuzen ≈ 6 Min.; **die letzten 4 Min. gehören fest dem Exit-Ticket 3**. Teams, die nicht präsentiert haben, hängen ihre Entscheidung als Zettel an die Tafel (Lehrkraft gibt in Std. 8 kurz Rückmeldung).
 
 **Einführung der Kriterien:** Die Karte wird **vor** der Teamarbeit ausgeteilt, damit die Teams wissen, worauf geachtet wird.
 
@@ -44,7 +44,7 @@
 
 **Hinweise für die Lehrkraft**
 - **Regeln vorher klären:** Feedback ist **freundlich, konkret, hilfreich**. Es geht um die Präsentation, nicht um die Person.
-- **Rechnung prüfen ist Aufgabe der Lehrkraft:** Kriterium 2 fragt nur nach Nachvollziehbarkeit. Ob das Ergebnis stimmt, klärt die Lehrkraft (z. B. ob „⅓ gratis“ vs. „25 % Rabatt“ richtig verglichen wurde).
+- **Rechnung prüfen ist Aufgabe der Lehrkraft:** Kriterium 2 fragt nur nach Nachvollziehbarkeit. Ob das Ergebnis stimmt, klärt die Lehrkraft (z. B. ob „⅓ mehr Inhalt“ vs. „25 % Rabatt“ richtig verglichen wurde).
 - **Sprachsensibel:** Für DaZ-Lernende reichen die Kreuze plus ein Satzanfang. Die Fachwörter aus Kriterium 4 stehen im Wortspeicher (M0.3).
 - **Auswertung (optional, 5 Min.):** Häufig angekreuzte ✋ bei Kriterium 3 → in Std. 8 das Satzmuster „Angebot … ist günstiger, weil …“ noch einmal kurz einüben.
 
@@ -158,7 +158,8 @@ Es dauert **8 Stunden**, das sind etwa [3] Wochen.
 
 **So können Sie zu Hause helfen** (ganz ohne Mathe-Wissen):
 - Lassen Sie Ihr Kind beim Einkaufen **Preise zusammenrechnen** und das Wechselgeld ausrechnen.
-- Fragen Sie: „Was ist billiger: **die Hälfte** gratis oder **30 %** Rabatt?“
+- Fragen Sie: „Was ist billiger: **3 für 2** oder **30 % Rabatt**?“
+  *(Lösung: Bei „3 für 2“ bezahlt man 2 von 3 Sachen, spart also ⅓ ≈ 33 %. Das ist mehr als 30 % → **„3 für 2“ ist billiger**.)*
 - Kochen oder backen Sie zusammen. Ihr Kind kann ein **Rezept umrechnen**, zum Beispiel für doppelt so viele Personen.
 - Fragen Sie nach der **„Das kann ich …“-Liste**. Ihr Kind kann Ihnen zeigen, was es schon kann.
 - Loben Sie auch kleine Fortschritte.

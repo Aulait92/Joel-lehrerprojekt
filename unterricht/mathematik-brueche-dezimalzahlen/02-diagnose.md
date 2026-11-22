@@ -31,7 +31,7 @@
 | Sprachsensibel | Aufgabenstellungen vorlesen erlaubt (für alle!). Wortspeicher steht oben auf dem Bogen. Bei DaZ-Lernenden Fehler bei Textaufgaben kurz mündlich nachfragen: Ist es ein Mathe- oder ein Sprachproblem? |
 | Keine Stigmatisierung | Auf dem Schülerbogen stehen **keine** Stufen (C/D/E) und keine Symbole. Die Aufgaben werden nur schwieriger. Die Stufenzuordnung steht nur in der Item-Tabelle (Abschnitt 3). |
 | Datenschutz | Schüler:innen schreiben ihren Vornamen auf den Bogen (bleibt in der Klasse). Ins Projekt / in `klassen/` gehen **nur Kürzel** (S01, S02 …). Die Zuordnungsliste bleibt bei Ihnen. |
-| Korrekturzeit | ca. 1–2 Min. pro Bogen mit dem Schlüssel (Abschnitt 4); für 28 Bögen ca. 45 Min. |
+| Korrekturzeit | ca. 1–2 Min. pro Bogen mit dem Schlüssel (Abschnitt 4); für ca. 27 Bögen ca. 45 Min. |
 | Ergänzung | Selbsteinschätzungsbogen (Abschnitt 7) direkt nach dem Test ausfüllen lassen (5 Min.) – der Vergleich Test ↔ Selbstbild ist oft aufschlussreich. |
 
 ---
@@ -60,6 +60,10 @@ Name: ______________________  Datum: ____________
 | ordnen | in eine Reihenfolge bringen: von klein nach groß |
 | begründen | sagen oder schreiben, **warum** |
 | das Prozent (%) | Hundertstel: 50 % = 50 von 100 |
+| größer / kleiner (> <) | 5 > 3 heißt „5 ist größer als 3“; 3 < 5 heißt „3 ist kleiner als 5“ |
+| zwischen | 4 liegt **zwischen** 3 und 5 |
+| ankreuzen ☒ / einkreisen | ein Kreuz in das Kästchen machen ☒ / einen Kreis um die Antwort malen |
+| das Kästchen ☐ | ein kleines leeres Viereck zum Ankreuzen |
 
 ---
 
@@ -258,8 +262,8 @@ Die Punktzahl ergibt die **Startgruppe**. Die **Fehlerbilder** zeigen den **näc
 > gemeinsamer Impuls im Plenum statt Einzelförderung.
 
 ### Schritt 4 – Mit der Selbsteinschätzung abgleichen
-- Test gut, Selbsteinschätzung viele 🔴 → **Ermutigen**; ggf. höhere Gruppe vorschlagen, Wahl lassen.
-- Test schwach, Selbsteinschätzung viele 🟢 → im Gespräch die Fehler gemeinsam ansehen (nicht bloßstellen).
+- Test gut, Selbsteinschätzung viele 🔴 ✗ → **Ermutigen**; ggf. höhere Gruppe vorschlagen, Wahl lassen.
+- Test schwach, Selbsteinschätzung viele 🟢 ✓ → im Gespräch die Fehler gemeinsam ansehen (nicht bloßstellen).
 - Bei 😀 „leicht“ und vollen Punkten → auf **Unterforderung** achten: 🌳 + ⭐-/F-Aufgaben.
 
 ### ⚠ Gruppen sind flexibel!
@@ -274,9 +278,9 @@ Die Punktzahl ergibt die **Startgruppe**. Die **Fehlerbilder** zeigen den **näc
 
 > Eintrag: **1** = richtig, **½** = teilweise, **0** = falsch, **–** = nicht bearbeitet.
 > Bei Fehlern das Fehlerbild-Kürzel dazuschreiben (z. B. „0 NZ“). **S** = evtl. Sprachhürde.
-> Nur Kürzel verwenden. Vorlage für 28 Schüler:innen, bei Bedarf Zeilen ergänzen.
+> Nur Kürzel verwenden. Vorlage mit Zeilen S01–S28 (Klasse ca. 27), bei Bedarf Zeilen ergänzen.
 
-| Kürzel | 1 | 2 | 3 | 4 | **C** | 5 | 6 | 7 | 8 | 9 | **D** | 10 | 11 | 12 | **E** | ⭐ | Selbst-einsch. (🟢/🟡/🔴 überwiegend) | Startgruppe | Fehlerbilder / Notiz |
+| Kürzel | 1 | 2 | 3 | 4 | **C** | 5 | 6 | 7 | 8 | 9 | **D** | 10 | 11 | 12 | **E** | ⭐ | Selbst-einsch. (🟢 ✓ / 🟡 ~ / 🔴 ✗ überwiegend) | Startgruppe | Fehlerbilder / Notiz |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | S01 | | | | | | | | | | | | | | | | | | | |
 | S02 | | | | | | | | | | | | | | | | | | | |
@@ -320,14 +324,14 @@ Die Punktzahl ergibt die **Startgruppe**. Die **Fehlerbilder** zeigen den **näc
 
 Name: ______________________
 
-**So geht's:** Lies jeden Satz und das Beispiel. Male einen Kreis in der passenden Farbe aus –
+**So geht's:** Lies jeden Satz und das Beispiel. Male einen Kreis in der passenden Farbe aus oder schreibe das Zeichen ✓ / ~ / ✗ hinein –
 einmal **am Anfang** der Einheit und einmal **am Ende**. Sei ehrlich: Es gibt keine Note!
 
-🟢 Das kann ich sicher. Ich kann es auch anderen erklären.
-🟡 Das kann ich manchmal. Ich bin noch unsicher.
-🔴 Das kann ich noch nicht. Ich brauche Hilfe.
+🟢 ✓ Das kann ich sicher. Ich kann es auch anderen erklären.
+🟡 ~ Das kann ich manchmal. Ich bin noch unsicher.
+🔴 ✗ Das kann ich noch nicht. Ich brauche Hilfe.
 
-| Nr. | Ich kann … | Beispiel | Anfang 🟢🟡🔴 | Ende 🟢🟡🔴 |
+| Nr. | Ich kann … | Beispiel | Anfang 🟢✓ 🟡~ 🔴✗ | Ende 🟢✓ 🟡~ 🔴✗ |
 |---|---|---|---|---|
 | | 🌱 | | | |
 | 1 | … einen Bruch an einem Bild zeigen und aufschreiben. | ▮▮▮▯ → ¾ | ○ | ○ |
@@ -344,8 +348,8 @@ einmal **am Anfang** der Einheit und einmal **am Ende**. Sei ehrlich: Es gibt ke
 | 10 | … erklären, warum ⅓ nicht genau 0,33 ist. | ⅓ = 0,333… | ○ | ○ |
 | 11 | … zwei Dezimalzahlen malnehmen. | 0,3 · 0,2 = 0,06 | ○ | ○ |
 | 12 | … Brüche malnehmen und teilen. | 8 : ½ = 16 | ○ | ○ |
-| 13 | … einen Anteil von einem Betrag ausrechnen. | ¾ von 240 € = 180 € | ○ | ○ |
-| 14 | … Angebote vergleichen und begründen, welches günstiger ist. | „⅓ gratis“ oder „25 % Rabatt“? | ○ | ○ |
+| 13 | … einen Anteil von einem Betrag ausrechnen. | ⅔ von 15 € = 10 € | ○ | ○ |
+| 14 | … Angebote vergleichen und begründen, welches günstiger ist. | „⅓ mehr Inhalt“ oder „25 % Rabatt“? | ○ | ○ |
 
 **Am Ende der Einheit:**
 
@@ -394,7 +398,7 @@ Wähle **eine** Aufgabe. Du darfst auch mehr machen.
   ______ < ______ < ______ < ______
   So habe ich verglichen: _______________________________________
 
-Heute habe ich verstanden: 🟢 ja  🟡 teilweise  🔴 noch nicht
+Heute habe ich verstanden: 🟢 ✓ ja  🟡 ~ teilweise  🔴 ✗ noch nicht
 
 > ✂ ----------
 
@@ -424,7 +428,7 @@ Wähle **eine** Aufgabe.
   ____________________________________________________________
   Richtig ist: ⅖ + ⅓ = ______
 
-Heute habe ich verstanden: 🟢 ja  🟡 teilweise  🔴 noch nicht
+Heute habe ich verstanden: 🟢 ✓ ja  🟡 ~ teilweise  🔴 ✗ noch nicht
 
 > ✂ ----------
 
@@ -447,22 +451,24 @@ Wähle **eine** Aufgabe.
   Wie viel Euro fehlen noch? ______ €
 
 🌿 Ein Rezept für **4 Personen** braucht **0,5 kg Mehl** und **¾ Liter Milch**.
-  Wie viel brauchst du für **8 Personen**?
+  Wie viel brauchst du für **10 Personen**?
   Mehl: ______ kg  Milch: ______ Liter
 
 🌳 Im Späti kostet ein Saft 2,40 €. Es gibt zwei Angebote:
   **A:** „Kauf 3, zahl 2“  **B:** „25 % Rabatt auf jede Flasche“
-  Du kaufst 3 Flaschen. Welches Angebot ist günstiger? Rechne und begründe.
+  a) Du kaufst 3 Flaschen. Welches Angebot ist günstiger? Rechne und begründe.
   ____________________________________________________________
+  ____________________________________________________________
+  b) Wie viele ⅜-l-Gläser kann man aus 3 l Saft füllen? Mehr oder weniger als 3? Rechne.
   ____________________________________________________________
 
-Heute habe ich verstanden: 🟢 ja  🟡 teilweise  🔴 noch nicht
+Heute habe ich verstanden: 🟢 ✓ ja  🟡 ~ teilweise  🔴 ✗ noch nicht
 
 > ✂ ----------
 
 **Lösungen:** 🌱 120 € bezahlt, 120 € fehlen |
-🌿 1 kg Mehl, 1½ Liter (= 1,5 l) Milch (Fehlerbild: ¾ · 2 = 6/8 → Zähler und Nenner verdoppelt) |
-🌳 A: 2 · 2,40 € = **4,80 €** (entspricht ⅓ gratis ≈ 33 % Rabatt); B: 3 · 2,40 € = 7,20 €, davon 25 % = 1,80 €, also **5,40 €** → **A ist günstiger**, weil ⅓ mehr ist als ¼ (25 %). (Prüft Stufe E, 01 Abschn. 3c.)
+🌿 Faktor 10 : 4 = 2,5 → 0,5 kg · 2,5 = **1,25 kg Mehl**, ¾ l · 2,5 = 15/8 l = **1⅞ l (= 1,875 l) Milch** (Fehlerbilder: nur verdoppelt → 1 kg / 1,5 l; additiv „+ 6“ gerechnet; ¾ · 2 = 6/8 → Zähler und Nenner verdoppelt) |
+🌳 a) A: 2 · 2,40 € = **4,80 €** (man bekommt ⅓ der Flaschen geschenkt = ⅓ ≈ 33 % Rabatt auf den Gesamtpreis – anders als ‚⅓ mehr Inhalt‘, das nur 25 % entspricht); B: 3 · 2,40 € = 7,20 €, davon 25 % = 1,80 €, also **5,40 €** → **A ist günstiger**, weil ⅓ mehr ist als ¼ (25 %). b) 3 : ⅜ = 3 · 8/3 = **8 Gläser** – mehr als 3, weil man durch eine Zahl kleiner als 1 teilt (Fehlerbild MG, wenn „weniger als 3“). (Prüft Stufe E, 01 Abschn. 3c.)
 
 ---
 

@@ -17,7 +17,7 @@
 | 2 ⭐ | **Escape-Room „Die Kasse ist gesperrt!“** | Abschlussstunde (Std. 8) | mittel–hoch | < 10 € |
 | 3 | U-Bahn-Linie als Zahlenstrahl (lebender Zahlenstrahl) | Std. 2 (Vergleichen/Ordnen) | gering | ca. 0 € |
 | 4 | Markthallen-Rezept-Challenge | Std. 5/6 (Rechnen, Anteile) | gering–mittel | ca. 0–5 € |
-| 5 | Prospekt-Detektiv:innen: „⅓ gratis oder 25 % Rabatt?“ | Std. 6/7 (Modellieren) | gering | 0 € |
+| 5 | Prospekt-Detektiv:innen: „⅓ mehr Inhalt oder 25 % Rabatt?“ | Std. 6/7 (Modellieren) | gering | 0 € |
 | 6 | Bruch-Domino & „Drei-Gesichter-Quartett“ | flexibel (Übung/Wiederholung) | mittel (einmalig) | Druck/Laminat |
 | 7 | Kiez-Erklärclips mehrsprachig | Std. 4–7 als Projektstrang | mittel | 0 € |
 
@@ -33,6 +33,8 @@ pro gelöstem Auftrag; die Klasse schaltet gemeinsam „Laden-Upgrades“ frei (
 Kurze Sprachnachricht- oder Zettel-„Briefe“ von Frau Yıldız eröffnen jede Stunde (2 Min., kann die Lehrkraft vorlesen).
 
 **Episodenplan (Vorschlag, mit Struktur-Agent abstimmen):**
+
+> **Hinweis:** Verbindlich ist die Reihenfolge in `04-verlaufsplanung.md`. Dieser Plan war der erste Entwurf und weicht in Details davon ab.
 
 | Std. | Schicht / Problem | Inhalt (vgl. 01, Abschnitt 3) |
 |---|---|---|
@@ -132,7 +134,7 @@ Konditionen, Erlaubnis und Termine vorab selbst klären.
 
 ---
 
-## 5 Prospekt-Detektiv:innen: „⅓ gratis oder 25 % Rabatt?“
+## 5 Prospekt-Detektiv:innen: „⅓ mehr Inhalt oder 25 % Rabatt?“
 
 **Kurzbeschreibung:**
 Die Klasse wertet echte Supermarkt-Prospekte (Papier, Briefkasten) aus und sucht „Angebotsfallen“: „3 für 2“, „⅓ mehr Inhalt“,
@@ -145,7 +147,7 @@ Die Klasse wertet echte Supermarkt-Prospekte (Papier, Briefkasten) aus und sucht
 **Differenzierung:**
 - 🌱 Preisvergleich mit Geldbeträgen, Hälfte/Viertel, vorgegebene Rechenschablone („alter Preis – neuer Preis = …“).
 - 🌿 Grundpreise berechnen, Prozent als Hundertstel, „3 für 2“ als Anteil.
-- 🌳 „⅓ gratis“ vs. „25 % Rabatt“ – warum ist das *gleich*? (⅓ mehr Ware ≙ ¼ des neuen Preises gespart); eigene Mogel-Angebote
+- 🌳 „⅓ mehr Inhalt“ vs. „25 % Rabatt“ – warum ist das *gleich*? (⅓ mehr Ware ≙ ¼ des neuen Preises gespart); eigene Mogel-Angebote
   erfinden und von anderen Teams prüfen lassen.
 
 **Aufwand:** ⏱ gering (Prospekte sammeln, ggf. Schüler:innen mitbringen lassen) · 💶 0 €.

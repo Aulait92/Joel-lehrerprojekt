@@ -50,7 +50,7 @@ Name: ______________________  Datum: ____________  Klasse: ______
 - **Tipp:** Mach zuerst Teil A. Wähle dann in Teil B die Variante, bei der du dich **sicher** fühlst. Wenn noch Zeit ist, probiere eine höhere.
 - Schreib deine Rechenwege auf. Auch für einen richtigen Weg gibt es Punkte.
 
-**Wortspeicher:** Zähler · Nenner · erweitern · kürzen · gleichnamig · Hauptnenner · Kehrwert · Dezimalzahl · periodisch · Anteil · Prozent · Grundpreis (Preis für 1 kg) · begründen (= sagen, **warum**)
+**Wortspeicher:** Zähler · Nenner · erweitern · kürzen · gleichnamig · Hauptnenner · Kehrwert · Dezimalzahl · periodisch · Anteil · Prozent · Grundpreis (Preis für 1 kg) · der Rabatt (= so viel wird vom Preis abgezogen) · das Wechselgeld (= das Geld, das man beim Bezahlen zurückbekommt) · der Überschlag (= ungefähr rechnen mit runden Zahlen) · begründen (= sagen, **warum**)
 
 ---
 
@@ -175,7 +175,7 @@ b) Mia bezahlt mit einem 5-€-Schein. Wie viel Wechselgeld bekommt sie? (1 P.)
 c) Am Ende hat der Stand 80 € eingenommen. Ein Viertel davon wird gespendet. Wie viel Euro sind das? (1 P.)
 
 **B3 – Variante 2** (7 P.)
-Jonas bekommt **30 €** Taschengeld im Monat. Er gibt **2/5** davon für Handy-Guthaben aus und **0,25** davon für Snacks. Den Rest spart er.
+Jonas bekommt **30 €** Taschengeld im Monat. Er gibt **2/5** davon für Handy-Guthaben aus und **0,25 vom Taschengeld** für Snacks. Den Rest spart er.
 a) Wie viel Euro gibt er für das Handy aus und wie viel für Snacks? (2 P.)
 b) Welcher Anteil des Taschengelds bleibt übrig? Schreibe als Bruch und in Prozent. (3 P.)
 c) Wie viel Euro spart Jonas im Monat? Prüfe dein Ergebnis auf einem zweiten Weg. (2 P.)
@@ -290,6 +290,7 @@ d) Auf Packung B steht außerdem: *„¼ mehr Inhalt – das ist so gut wie 25 %
 | **Fachleistungsdifferenzierung an der ISS** (Grundniveau G / Erweiterungsniveau E mit getrennt ausgewiesener Note) | Die Sek-I-VO sieht an der ISS eine Leistungsdifferenzierung in bestimmten Fächern vor (u. a. Mathematik). **Ab welcher Jahrgangsstufe** und ob in Kursen oder binnendifferenziert, regelt die Schule im Rahmen der VO. Falls eure Schule in Jg. 7 bereits Noten **auf G- bzw. E-Niveau** ausweist, muss das Modell angepasst werden. Möglich wäre z. B.: E-Niveau-Note nur bei mind. zwei Varianten 2 oder 3, sonst Ausweisung auf G-Niveau mit eigenem Schlüssel. Wie G/E auf RLP-Stufen abgebildet werden, legt die Schule fest. | **unsicher** → **vor dem Schreiben der Arbeit mit Schulleitung / Fachkonferenz klären** |
 | **Zieldifferent** unterrichtete Schüler:innen (sonderpädagogischer Förderbedarf „Lernen“ oder „Geistige Entwicklung“) | Sie werden nicht nach diesem Schlüssel bewertet, sondern nach den Zielen ihres **Förderplans**: eigene Aufgaben, z. B. nur Teil A + Variante 1, oder ein angepasster Bogen. Die Form der Rückmeldung (Note mit Hinweis oder verbale Beurteilung) richtet sich nach den sonderpädagogischen Regelungen. | Grundsatz sicher; **Details mit der sonderpädagogischen Lehrkraft / Schulleitung klären** |
 | **Nachteilsausgleich** | Verändert die **Form**, nicht die **Anforderungen**: gleiche Aufgaben, gleicher Schlüssel. Grundlage sind die Berliner Regelungen zum Nachteilsausgleich (Sek-I-VO / Ausführungsvorschriften). Über die Gewährung entscheidet die Schule. | Grundsatz sicher; **genaue Fundstelle, zuständiges Gremium und Zeugnisvermerk bitte prüfen** |
+| **DaZ-Lernende** (z. B. Willkommensklassen-Übergang, geringe Deutschkenntnisse) | Mögliche Maßnahmen: zweisprachiges Wörterbuch, Vorlesen, Zeitzuschlag, sprachlich vereinfachte Aufgabenstellung bei gleichem mathematischen Anspruch. Ob und wie das zulässig ist (Nachteilsausgleich, Aussetzen der Bewertung, Zeugnisvermerk), regeln die Berliner Vorgaben zur Sprachförderung und die Schule. | **unsicher** → **mit der DaZ-Koordination der Schule klären** (vor der Arbeit) |
 | Gewichtung im Halbjahr | Das Verhältnis schriftlich / mündlich / sonstige Leistungen legt die Fachkonferenz fest | schulspezifisch |
 
 ---
@@ -325,6 +326,84 @@ Gleiche Aufgaben, gleiche Punkte, gleicher Schlüssel. Nur die **Bedingungen** �
 | Ergänzend (je nach Förderbedarf) | Wortspeicher als eigenes Blatt; Kästchenpapier für Rechnungen; reizarmer Arbeitsplatz. |
 
 **Nicht Teil des Nachteilsausgleichs:** weniger oder leichtere Aufgaben, Hilfekarten mit Lösungswegen, ein milderer Notenschlüssel. Solche Anpassungen wären eine **zieldifferente** Bewertung (siehe Abschn. 4.2) und brauchen eine eigene Grundlage.
+
+---
+
+## 6b. Zieldifferenter Bogen (Entwurf)
+
+> **Nur für zieldifferent unterrichtete Schüler:innen** (sonderpädagogischer Förderbedarf „Lernen“ oder „Geistige Entwicklung“, s. Abschn. 4.2).
+> **Entwurf – vor dem Einsatz mit der sonderpädagogischen Lehrkraft abstimmen** und an die Ziele des individuellen **Förderplans** anpassen (Aufgaben streichen, ergänzen oder Zahlen ändern).
+> **Bewertung:** kein Notenschlüssel aus Abschn. 5, sondern **verbale Rückmeldung nach Förderplan** (Formulierungshilfe unten). Ob zusätzlich eine Note mit Hinweis erteilt wird, regeln die sonderpädagogischen Vorgaben bzw. die Schule.
+> **Gestaltung:** Bogen auf A4 mit **16 pt**, eine Aufgabe pro halber Seite, viel Schreibraum. Erlaubt: Rechengeld, Bruchstreifen (M0.4), Wortspeicher, Vorlesen. Zeit: 45 Min. (ggf. mehr nach Förderplan).
+
+> ✂ ---------- Kopiervorlage zieldifferenter Bogen ----------
+
+### Was kann ich? – Brüche und Geld
+
+Name: ______________________  Datum: ____________
+
+**Wortspeicher:** der Bruch · der Anteil · grau · größer · einkreisen ◯ · das Wechselgeld (das Geld, das du zurückbekommst) · bezahlen
+
+**Aufgabe 1** Welcher Anteil vom Rechteck ist grau?
+
+```
+┌──────┬──────┬──────┬──────┬──────┐
+│██████│██████│      │      │      │
+│██████│██████│      │      │      │
+└──────┴──────┴──────┴──────┴──────┘
+```
+
+Das Rechteck hat ______ Teile. ______ Teile sind grau.
+Als Bruch: ______
+
+**Aufgabe 2** Schreibe als Preis mit Komma: **7 Euro und 5 Cent** = ________ €
+
+**Aufgabe 3** Kreise den **größeren** Bruch ein. Du darfst die Bruchstreifen benutzen.
+
+⅕  oder  ⅓
+
+**Aufgabe 4** Wie viel Geld ist das? Zähle.
+
+[Bild: Rechengeld – eine 2-€-Münze, eine 1-€-Münze, eine 50-ct-Münze, eine 20-ct-Münze, eine 5-ct-Münze]
+
+```
+ ( 2 € )  ( 1 € )  ( 50 ct )  ( 20 ct )  ( 5 ct )
+```
+
+Das sind ______ € und ______ ct = ________ €
+
+**Aufgabe 5** Rechne. Du darfst Rechengeld benutzen.
+
+4,75 € + 2,60 € = ________ €
+
+**Aufgabe 6** Beim Schulfest kostet ein Stück Kuchen **1,20 €**, ein Becher Saft **0,85 €**.
+
+a) Mia kauft 2 Stück Kuchen und 1 Saft. Wie viel muss sie bezahlen?
+  Rechnung: ______________________  Mia bezahlt ________ €.
+
+b) Mia bezahlt mit einem 5-€-Schein. Wie viel **Wechselgeld** bekommt sie?
+  Rechnung: ______________________  Mia bekommt ________ € zurück.
+
+> ✂ ---------- Ende zieldifferenter Bogen ----------
+
+**Herkunft der Aufgaben:** 1 = A1 (nur Bruch), 2 = A2, 3 = A3a, 4 = neu (Rechengeld-Bild), 5 = A7a, 6 = B3 Variante 1 a/b.
+**[Bild]-Platzhalter** in Aufgabe 4 vor dem Kopieren durch Münzbilder (z. B. Rechengeld-Kopiervorlage M4.2 oder Schulbestand) ersetzen; alternativ echtes Rechengeld auf den Tisch legen.
+
+**Lösungen**
+
+| Nr. | Lösung | Bezug Förderziel (Beispiele) | Typisches Fehlerbild |
+|---|---|---|---|
+| 1 | 5 Teile, 2 grau → **2/5** | Anteil im Bild erkennen und als Bruch schreiben | 2/3 → TT (Teil-Teil) |
+| 2 | **7,05 €** | Geldbeträge mit Komma schreiben | 7,5 € → KT |
+| 3 | **⅓** | Stammbrüche mit Material vergleichen | ⅕ → NZ |
+| 4 | 3 € und 75 ct = **3,75 €** (2 € + 1 € = 3 €; 50 ct + 20 ct + 5 ct = 75 ct) | Geld zählen, Euro und Cent bündeln | 3,075 € / 3,57 € → KT |
+| 5 | **7,35 €** (4 € + 2 € = 6 €; 75 ct + 60 ct = 135 ct = 1,35 €) | Geldbeträge addieren mit Übertrag | 6,135 € → KT |
+| 6 | a) 1,20 € + 1,20 € + 0,85 € = **3,25 €**  b) 5,00 € − 3,25 € = **1,75 €** | Einkaufssituation lösen, Wechselgeld bestimmen | b) Folgefehler aus a) als richtig werten |
+
+**Verbale Rückmeldung (Formulierungshilfe, an Förderplan-Ziele anpassen):**
+- *Das kannst du schon:* „Du kannst einen Anteil im Bild als Bruch aufschreiben.“ · „Du kannst Geld richtig zählen und Preise mit Komma schreiben.“ · „Du kannst ausrechnen, wie viel Wechselgeld du bekommst.“
+- *Das übst du als Nächstes:* „Beim Zusammenrechnen von Cent-Beträgen über 100 ct an den Übertrag denken (100 ct = 1 €).“ · „Brüche mit dem Bruchstreifen vergleichen: Je mehr Teile, desto kleiner ist ein Teil.“
+- *Hinweis für den Förderplan:* gezeigte Ziele abhaken bzw. mit „sicher / mit Hilfe / noch nicht“ dokumentieren; Hilfsmittel (Rechengeld, Bruchstreifen, Vorlesen) vermerken.
 
 ---
 

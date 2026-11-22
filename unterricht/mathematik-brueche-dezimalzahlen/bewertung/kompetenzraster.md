@@ -7,8 +7,8 @@
 > Die Stufenbuchstaben stehen nur in diesem Lehrkraft-Kopf und in Abschnitt 3. Die Schülerversion (Abschnitt 1) zeigt nur Symbole.
 
 **Einsatz**
-- **Zu Beginn der Einheit (Std. 1)** austeilen und in den Hefter legen lassen. Die Schüler:innen sehen so vorher, was am Ende geprüft wird.
-- **Nach jedem Exit-Ticket** (Std. 2, 5, 7) Kästchen abhaken: ☐ → ◐ (geht schon, noch unsicher) → ☑ (sicher).
+- **Ab Std. 8 / zur Vorbereitung der Klassenarbeit** austeilen (Abschluss Std. 8: Feld „Mein nächster Schritt“ ausfüllen) und in den Hefter legen lassen. Die Schüler:innen sehen so vor der Arbeit, was geprüft wird. Während der Einheit dient allein der Selbsteinschätzungsbogen aus 02 (Std. 1 und 8) als Selbsteinschätzungs-Instrument.
+- **Kästchen abhaken** (ab Std. 8, beim Üben für die Arbeit): ☐ → ◐ (geht schon, noch unsicher) → ☑ (sicher). Die Exit-Tickets aus Std. 2, 5, 7 helfen beim Ausfüllen.
 - **Vor der Lernerfolgskontrolle (Std. 8)** als Lernplan nutzen: „Welche Zeile übe ich noch?“
 - Nr. in eckigen Klammern [02-Nr.] = derselbe Satz wie im Selbsteinschätzungsbogen aus 02, Abschn. 7.
 
