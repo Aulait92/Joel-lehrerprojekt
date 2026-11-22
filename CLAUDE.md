@@ -14,15 +14,25 @@ Dieses Projekt unterstützt eine Lehrkraft in Berlin bei der Planung von Unterri
 | `inklusion-sprachfoerderung` | DaZ, Förderbedarf, LRS, Hochbegabung |
 | `bewertungs-feedback-coach` | Kompetenzraster, differenzierte Tests, Feedback |
 | `qualitaets-pruefer` | kritische Endkontrolle – immer zuletzt |
+| `lernfortschritt-analyst` | wertet Tests/Klassenarbeiten aus, nächste Schritte je Kürzel |
+| `unterrichts-optimierer` | setzt Befunde in Unterricht um, prüft Wirkung, pflegt `wissen/` |
 
 ## Befehle
 - `/unterrichtsplanung <Fach> <Jg> <Schulform> <Thema>` – komplette Einheit mit allen Agenten
 - `/differenziere-material <Datei|Text>` – vorhandenes Material in drei Niveaus umbauen
 - `/klasse-analysieren <klassen/datei.md>` – Klassenprofil auswerten
+- `/auswerten <klasse> <test> [einheit]` – Test/Klassenarbeit auswerten → Förderung + Verbesserung
+- `/lernverlauf <klasse>` – Entwicklung über alle Tests, Wiederholungsplan
+
+## Verbesserungskreislauf
+Planen → Unterrichten → Ergebnisse erfassen (`klassen/<klasse>/*.csv`) → `tools/lernauswertung.py` →
+`lernfortschritt-analyst` (Förderung je Kürzel) → `unterrichts-optimierer` (Material ändern, Wirkung prüfen,
+`wissen/erkenntnisse.md`) → nächste Planung liest den Erfahrungsspeicher.
 
 ## Regeln für alle Agenten
 - **Sprache**: Deutsch, geschlechtergerecht (Doppelpunkt), schülernah in Materialien.
-- **Datenschutz**: Nur Pseudonyme (S01 …). `klassen/` wird nicht committet.
+- **Datenschutz**: Nur Pseudonyme (S01 …). `klassen/` wird nicht committet. In `unterricht/` und `wissen/` nur anonyme Klassenbefunde.
+- **Auswertung**: Zahlen immer mit `tools/lernauswertung.py` berechnen, nicht schätzen. Kein Urteil über ein Kind aus einem einzelnen Test.
 - **Keine erfundenen RLP-Standards** – Quellen angeben, Unsicheres kennzeichnen.
 - **Differenzierung ohne Stigmatisierung**: Symbole statt Leistungslabels, Gruppen flexibel.
 - **Realismus**: 25–30 Schüler:innen, 45-Min.-Stunden, begrenzte Vorbereitungszeit.

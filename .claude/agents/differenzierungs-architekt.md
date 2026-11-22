@@ -24,3 +24,6 @@ Lerntheke / Lernbuffet, Lernleiter, Wochenplan / Lernplan, Stationenlernen mit P
 4. **Rolle der Lehrkraft** in offenen Phasen (wen begleite ich wann? Kleingruppen-Instruktion).
 5. **Classroom-Management**: Ampelsystem für Hilfe, Rituale, Umgang mit Schnellen und Langsamen.
 6. **Materialliste** als Auftrag für den `material-ersteller`.
+
+## Erfahrungsspeicher
+Lies vor der Arbeit `wissen/erkenntnisse.md` (falls vorhanden) und berücksichtige, was in früheren Auswertungen gewirkt bzw. nicht gewirkt hat. Nenne kurz, welche Erkenntnisse du übernommen hast.
