@@ -27,7 +27,7 @@
 | Pflicht | 5 | Fehler finden: Hypotenuse zu kurz | 3 | G | Umstellen | UMS, PLAU |
 | Pflicht | 6 | Richtig/falsch zu Verhältnissen | 2 | G | Verhältnisse | LIN, PLAU, HYP |
 | Block A | 🪶 / ◼ / ◼◼ | Baumhöhe mit Augenhöhe / zweiter Standpunkt / Höhen- und Tiefenwinkel aus dem Fenster | 6 / 8 / 10 | F / G / H | Modellieren/Messen u. a. | AUG, VER, UMS, LIN, RUND |
-| Block B | 🪶 / ◼ / ◼◼ | Sinussatz mit Paaren / Boje auf dem See / SSW-Grundstück | 6 / 8 / 10 | F / G / H | Sinussatz | PAAR, PLAU, SSW, FALL |
+| Block B | 🪶 / ◼ / ◼◼ | Sinussatz mit Paaren / Boje auf dem See (mit Zerlegung) / SSW-Grundstück | 6 / 8 / 10 | F / G / H | Sinussatz, Zerlegung (◼) | PAAR, PLAU, SSW, FALL, RW |
 | Block C | 🪶 / ◼ / ◼◼ | Kosinussatz mit Schema / Kiezgarten SWS + Satzwahl / Sonnensegel SSS | 6 / 8 / 10 | F / G / H | Kosinussatz, Satzwahl, Zerlegung | KVZ, KRF, KZU, FALL |
 
 ### 3. Zusammenhang Niveau ↔ Note
@@ -293,9 +293,9 @@ breite: 240
 ```
 
 **a)** **Berechne** den Winkel bei der Boje.  (1 P.)
-**b)** **Berechne** die Entfernung von A zur Boje.  (3 P.)
+**b)** **Berechne** die Entfernung von A zur Boje. **Prüfe** dein Ergebnis mit der Regel „Dem größten Winkel liegt die größte Seite gegenüber.“  (3 P.)
 **c)** Tom rechnet: AC = 120 · sin(58°) : sin(45°) ≈ 144 m. **Erkläre** seinen Fehler. Welche Strecke hat Tom berechnet?  (2 P.)
-**d)** **Prüfe** dein Ergebnis aus b) mit der Regel „Dem größten Winkel liegt die größte Seite gegenüber.“  (2 P.)
+**d)** **Berechne** den Abstand der Boje vom Steg AB. Zeichne dazu die passende Höhe ein.  (2 P.)
 
 <div class="rechenfeld" style="height:6cm"></div>
 
@@ -376,7 +376,7 @@ breite: 260
 | Winkel berechnen | 4, A◼b | |
 | Modellieren/Messen | Block A | |
 | Sinussatz | Block B | |
-| Kosinussatz / Zerlegung | Block C | |
+| Kosinussatz / Zerlegung | Block C, B◼d | |
 | Satzwahl | C🪶a, C◼a/d, C◼◼b | |
 
 Mein nächster Schritt im Kompetenzraster: ______________________________
@@ -444,9 +444,9 @@ Alle Werte sind zweimal gerechnet (TR-Werte auf 4 Nachkommastellen). „A / R / 
 | Teil | Lösung | P. | Kürzel |
 |---|---|---|---|
 | a | γ = 180° − 58° − 77° = **45°** | 1 | **PLAU** |
-| b | AC = b liegt β = 77° gegenüber, AB = c = 120 m liegt γ = 45° gegenüber (Paar, 1). b / sin(77°) = 120 / sin(45°) ⇒ b = 120 · sin(77°) / sin(45°) (1) = 120 · 0,9744 / 0,7071 = 116,92 / 0,7071 ≈ **165 m** (genau 165,4) (1) | 3 | Toms Fehler (144 m) → **PAAR** |
+| b | AC = b liegt β = 77° gegenüber, AB = c = 120 m liegt γ = 45° gegenüber (Paar und Ansatz b / sin(77°) = 120 / sin(45°), 1). b = 120 · sin(77°) / sin(45°) = 120 · 0,9744 / 0,7071 = 116,92 / 0,7071 ≈ **165 m** (genau 165,4) (1). Prüfung: 77° ist der größte Winkel, AC = 165 m die größte Seite (165 m > 120 m, weil 77° > 45°; mit BC ≈ 144 m aus c: 120 < 144 < 165 ✓) (1). | 3 | Toms Fehler (144 m) → **PAAR**; Prüfung fehlt → **PLAU** |
 | c | Tom hat AC mit dem Winkel bei A (58°) gepaart. AC liegt aber dem Winkel bei **B** gegenüber (1). Berechnet hat er die Strecke **BC** (≈ 143,9 m), denn BC liegt dem 58°-Winkel gegenüber (1). | 2 | – |
-| d | Winkel: 45° < 58° < 77° ⇒ Seiten: AB < BC < AC (1). 120 m < 144 m < 165 m ✓, AC ist als größte Seite plausibel (1). (Ohne BC reicht: AC = 165 m > AB = 120 m, weil 77° > 45°.) | 2 | **PLAU** |
+| d | Höhe von C auf AB einzeichnen (Fußpunkt F, rechter Winkel bei F); im rechtwinkligen Teildreieck AFC ist AC die Hypotenuse und der Abstand CF die Gegenkathete von 58° (1). CF = AC · sin(58°) = 165,36 · 0,8480 ≈ **140 m** (genau 140,2; mit gerundetem AC = 165 m: 139,9 m ≈ 140 m) (1). Kontrolle: CF = BC · sin(77°) = 143,92 · 0,9744 ≈ 140,2 m ✓; F liegt zwischen A und B (AF ≈ 87,6 m, FB ≈ 32,4 m). Folgefehler aus b) nicht doppelt abziehen. | 2 | AC · cos 58° ≈ 87,6 m → **VER**; AC · sin 77° ≈ 161 m → **AG**/**RW**; Abstand = AC → keine Höhe (**RW**) |
 
 **◼◼ Doppelgewicht (10 P.)** – SSW-Fall (im RLP nicht ausdrücklich genannt, Erweiterung; in Std. 6 an Station 4 behandelt)
 

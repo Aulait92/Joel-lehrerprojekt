@@ -61,7 +61,7 @@ Legende Sozialform: EA Einzelarbeit, PA Partnerarbeit (Tandem), GA Gruppenarbeit
 | Gemeinsames Rechnen | 49–56 (7′) | Die Dreiecke vom Stundenbeginn. Schüler:innen diktieren, MWB-Kontrolle des Ergebnisses c = 5/sin 38° ≈ 8,12 cm. Rückbezug: „Was geht jetzt?“ | 🪶 diktieren die Seitenwahl, ◼◼ begründen | UG | M1.1 |
 | Exit-Ticket | 56–60 (4′) | ET1 Verhältnisse. Abgabe an der Tür. | – | EA | ET1 (Diagnostiker) |
 
-*Hinweis zum vorhandenen Merkblatt:* In der Tafel-PDF stehen im Beispiel handschriftlich „γ = 30°“ und beim Merksatz „beträgt diese 45°“. Für das Lösungsblatt gilt γ = 90° und der Satz „…, dann sind auch die Verhältnisse entsprechender Seiten gleich“ (siehe M1.5).
+*Hinweis zum vorhandenen Merkblatt:* In der Tafel-PDF stehen im Beispiel handschriftlich „γ = 30°“ und beim Merksatz „beträgt diese 45°“. Für das Lösungsblatt gilt γ = 90° und der Satz „…, dann sind auch die Verhältnisse entsprechender Seiten gleich“ (siehe M1.4, Teil F).
 
 ### Std. 2 – Winkel berechnen und Gleichungen systematisch umstellen
 
@@ -82,7 +82,7 @@ Legende Sozialform: EA Einzelarbeit, PA Partnerarbeit (Tandem), GA Gruppenarbeit
 |---|---|---|---|---|---|
 | Start im Raum | 0–6 (6′) | Fahrplan. **MSA-Einstieg entfällt heute**: 2 MSA-Aufgaben stehen als „Wartezeit-Aufgabe“ auf der Protokoll-Rückseite. Trupp-Kisten ausgeben, Sicherheitsregeln (3 Punkte). MWB-Kontrollfrage: „Was müsst ihr am Ende addieren?“ (Augenhöhe, AUG). | Protokoll in 3 Niveaus, Wahl im Trupp (ein Trupp kann gemischte Protokolle führen) | Plenum | M3.1, M3.2–M3.4, M3.5 |
 | Weg + Sammeln | 6–10 (4′) | Geschlossen zum Hof, Treffpunkt am Kegel, Pfiff = Start | – | – | Kegel |
-| Messen | 10–35 (25′) | Standpunkt 1: Abstand zur Wand, Höhenwinkel (3× messen, Mittelwert), Augenhöhe der peilenden Person. **Rollenwechsel nach jeder Messung**, alle peilen einmal. Standpunkt 2 (d m weiter weg, Winkel messen) ist Pflicht für ◼ und ◼◼. Wer früher fertig ist: Wartezeit-Aufgabe. | 🪶 1 Standpunkt, Formel-Lücken · ◼ Augenhöhe, Standpunkt 2 messen, Fehler abschätzen · ◼◼ Standpunkt 2 schon draußen auswerten: Welcher Abstand liefert den kleinsten Fehler? | GA (Trupp) | M3.2–M3.4, Geometer, Maßbänder |
+| Messen | 10–35 (25′) | Standpunkt 1: Abstand zur Wand, Höhenwinkel (jede:r im Trupp misst einmal, Mittelwert), Augenhöhe der peilenden Person. **Rollenwechsel nach jeder Messung**, alle peilen einmal. Standpunkt 2 (d m weiter weg, Winkel messen) ist Pflicht für ◼ und ◼◼. Wer früher fertig ist: Wartezeit-Aufgabe. | 🪶 1 Standpunkt, Formel-Lücken · ◼ Augenhöhe, Standpunkt 2 messen, Fehler abschätzen · ◼◼ Standpunkt 2 schon draußen auswerten: Welcher Abstand liefert den kleinsten Fehler? | GA (Trupp) | M3.2–M3.4, Geometer, Maßbänder |
 | Pfiff + Rückweg | 35–39 (4′) | Sammeln, Material zählen, zurück | – | – | M3.6 Packliste |
 | Auswertung | 39–53 (14′) | 8′ im Trupp rechnen (Protokoll Teil B). 4′: Jeder Trupp trägt sein Ergebnis an der Tafel auf einem Zahlenstrahl ein (Bewegung). 2′ UG: „Warum streuen die Werte?“ (MESS, AUG, Runden) | 🪶 Rechenschema im Protokoll · ◼◼ Fehlerbetrachtung | GA → UG | M3.1 |
 | Vergleich mit dem echten Wert | 53–56 (3′) | Höhe laut Hausmeister oder Bauplan (falls verfügbar), sonst Median der Klasse. Ausblick: „Was, wenn wir nicht bis an die Wand dürfen?“ → Std. 4 | – | UG | M3.1 |
@@ -122,7 +122,7 @@ Legende Sozialform: EA Einzelarbeit, PA Partnerarbeit (Tandem), GA Gruppenarbeit
 | MSA-Einstieg | 0–8 (8′) | MSA-Basisaufgaben | – | EA | M6.1 |
 | Auftrag | 8–11 (3′) | Rundgang mit 4 Stationen, Laufkarte, Gong-Regel | – | Plenum | M6.1 |
 | Lösungsschema | 11–17 (6′) | 4 Schritte: Skizze → Paar finden → ansetzen und umstellen → Plausibilität (Winkelsumme, größte Seite liegt dem größten Winkel gegenüber). MWB 3-2-1: 3 Skizzen „Welches Paar?“ und „Geht Sinussatz?“ (FALL) | – | LV, MWB | M6.1 |
-| Stationen | 17–49 (32′) | 4 Stationen à 8′ (Fernsehturm-Peilung, Spreebreite, Drehleiter/Kran, Dachgiebel), Gong zum Wechsel, Gruppen zu dritt. **Nach Station 2: 1′ Stopp**, Büro-Rekord-Balken an der Tafel. | Jede Station hat eine 🪶-, ◼- und ◼◼-Karte, die Gruppe wählt. ◼◼-Karte an Station 4: SSW mit zwei Lösungen. | GA (3er), Bewegung | M6.2–M6.4, M6.5 Laufkarte, M6.6, M6.7 |
+| Stationen | 17–49 (32′) | 4 Stationen à 8′ (Fernsehturm-Peilung, Spreebreite, Drehleiter/Kran, Dachgiebel), Gong zum Wechsel, Gruppen zu dritt. **Nach Station 2: 1′ Stopp**, Büro-Rekord-Balken an der Tafel. | Jede Station hat eine 🪶-, ◼- und ◼◼-Karte, die Gruppe wählt. ◼◼-Karte an Station 4: SSW mit zwei Lösungen. | GA (3er), Bewegung | M6.2–M6.4, M6.5 Laufkarte, M6.6 |
 | Auswertung + Teaser | 49–56 (7′) | Codes prüfen, Büro-Rekord. Fehler-Detektiv mit 1 Folie: Sinussatz bei SWS angesetzt → zwei Unbekannte. „Hier versagt er – nächste Stunde.“ | – | UG | M6.1 |
 | Exit-Ticket | 56–60 (4′) | ET6 Sinussatz anwenden | – | EA | ET6 |
 
@@ -150,7 +150,7 @@ Legende Sozialform: EA Einzelarbeit, PA Partnerarbeit (Tandem), GA Gruppenarbeit
 | Gutachten Teil 1 | 19–29 (10′) | Teams zu dritt, A3: Skizze + Methodenwahl. **Methoden-Check:** Am Ende zeigt jedes Team seine Methode auf einer Karte, die Lehrkraft gibt ein Daumen-Signal. | 🪶 rechtwinkliger Teilauftrag + Methodenkarte · ◼ ein schiefwinkliger Teil · ◼◼ beide Sätze + Fehlerabschätzung | GA (3er) | M8.2–M8.4 |
 | Gutachten Teil 2 | 29–41 (12′) | Rechnung + Plausibilitätsprüfung + Antwortsatz. Rollen: Rechnung, Skizze, Prüfung. | wie oben | GA | M8.2–M8.5, M8.6 |
 | Galeriegang | 41–50 (9′) | Gutachten auslegen, 2 Runden à 4′ mit Feedback-Klebezetteln (1 Stärke, 1 Prüffrage) | – | Bewegung | M8.1 |
-| „Was geht jetzt?“ | 50–56 (6′) | Rückbezug auf das Ziel aus Std. 1 (die beiden Dreiecke + ein schiefwinkliges). Selbsteinschätzung mit Ich-kann-Liste. | – | EA | M8.1, M8.7 (optional) |
+| „Was geht jetzt?“ | 50–56 (6′) | Rückbezug auf das Ziel aus Std. 1 (die beiden Dreiecke + ein schiefwinkliges). Selbsteinschätzung mit Ich-kann-Liste. | – | EA | M8.1, Selbsteinschätzung aus 02-diagnose.md, Abschn. 7 |
 | Exit-Ticket | 56–60 (4′) | ET8 Satzwahl | – | EA | ET8 |
 
 ---
@@ -176,7 +176,7 @@ Legende Sozialform: EA Einzelarbeit, PA Partnerarbeit (Tandem), GA Gruppenarbeit
 
 **Vorbereitung (Lehrkraft, 1–2 Wochen vorher):**
 - Schulleitung und Hausmeister informieren. Messbereich auf dem Hof festlegen (kein Fahrzeug- oder Radverkehr, keine Pausenaufsicht einer anderen Klasse). Dachhöhe beim Hausmeister oder im Bauplan erfragen, das ist der Kontrollwert.
-- Geometer zählen und am Fenster testen: Wird der Höhenwinkel abgelesen oder 90° − α? (Fehlerbild MESS). Ein Gerät je Trupp, bei 28 Schüler:innen also 7 Trupps à 4. Fehlende Geräte durch Peilgeräte aus Trinkhalm, Geodreieck und Lot ersetzen (M3.8, optional).
+- Geometer zählen und am Fenster testen: Wird der Höhenwinkel abgelesen oder 90° − α? (Fehlerbild MESS). Ein Gerät je Trupp, bei 28 Schüler:innen also 7 Trupps à 4. Fehlende Geräte durch Peilgeräte aus Trinkhalm, Geodreieck und Lot ersetzen (M3.9, optional – nicht erstellt).
 - **Doppelbesetzung** anfragen (die Tafel der Lehrkraft nennt zwei Lehrkräfte). Draußen ist sie sehr hilfreich. Ohne zweite Lehrkraft: höchstens 2 Messplätze, beide in Sichtweite.
 - Trupp-Kisten packen (M3.6): Geometer, Maßband (≥ 20 m), Zollstock für die Augenhöhe, Klemmbrett, Bleistift, Protokolle, Kegel.
 - Standpunkte mit Kreide vormarkieren (Wandabstand zum Beispiel 10/15/20 m), damit die Trupps nicht aufeinander warten.
@@ -186,8 +186,8 @@ Legende Sozialform: EA Einzelarbeit, PA Partnerarbeit (Tandem), GA Gruppenarbeit
 **Sicherheitsregeln (3 auf der Folie, mehr behält niemand):** (1) Nur im Kegelbereich, niemand klettert, niemand lehnt sich aus Fenstern. (2) Nie in die Sonne peilen, Maßband langsam einrollen. (3) Ein Pfiff heißt: sofort Sammeln am Treffpunkt.
 
 **Messprotokoll (M3.2–M3.4), Teil A draußen, Teil B im Raum:**
-- 🪶: 1 Standpunkt. Tabelle: Abstand e, Winkel (3×, Mittelwert vorstrukturiert), Augenhöhe. Teil B: h = e · tan(α) + Augenhöhe als Lückenformel, Skizze vorgegeben.
-- ◼: zusätzlich Standpunkt 2 (d ≥ 8 m weiter weg, nur messen). Teil B: Skizze selbst beschriften, Höhe berechnen, Messfehler abschätzen („Was passiert bei ±1°?“).
+- 🪶: 1 Standpunkt. Tabelle: Abstand e, Winkel (4×, jede:r peilt einmal, Mittelwert vorstrukturiert), Augenhöhe. Teil B: h = e · tan(α) + Augenhöhe als Lückenformel, Skizze vorgegeben.
+- ◼: zusätzlich Standpunkt 2 (d **mindestens 10 m, besser 15 m** weiter weg – je größer d, desto genauer; **für Standpunkt 1 und 2 peilt dieselbe Person** (gleiche Augenhöhe), erst danach wird getauscht; nur messen). Teil B: Skizze selbst beschriften, Höhe berechnen, Messfehler abschätzen („Was passiert bei ±1°?“).
 - ◼◼: zusätzlich Teil C: Zwei-Standpunkte-Auswertung versuchen. Forschungsfrage: Welcher Abstand liefert den kleinsten Fehler? Optional mit Neigungsmesser-App vergleichen.
 - Rückseite aller Protokolle: 2 MSA-Basisaufgaben als „Wartezeit-Aufgabe“.
 
@@ -328,7 +328,7 @@ Diskussionen im Plenum vermeiden („Wir klären das gleich, jetzt zählt Aufgab
 | M6.4 | Stationskarten ◼◼ (4 Stationen) | Pflicht | dieselben Kontexte, mehrschrittig. Station 4: SSW mit zwei Lösungen (Prüfung 180° − β) |
 | M6.5 | Laufkarte mit Code | Pflicht | 4 Felder (Station, gewählte Karte, Ergebnis, Buchstabe), Laufrichtung, Gong-Regel |
 | M6.6 | Lösungsblatt Stationen 🪶 / ◼ / ◼◼ | Pflicht | 3 Abschnitte, Codes, Hinweis SSW |
-| M6.7 | Expertenkarte SSW | optional | Für Schnelle, Ergänzung zu M5.6 |
+| M6.7 | Expertenkarte SSW | optional (nicht erstellt) | Für Schnelle, Ergänzung zu M5.6 |
 | M7.1 | Folien Std. 7 | Pflicht | Fahrplan „Auftrag 7/8: Funkmasten“. SWS-Problem + MWB. Entwicklung „Pythagoras + Korrektur“ (γ < 90°, = 90°, > 90°, gern mit GeoGebra-Screenshot). TR-Tastenfolge. 2 MWB-Kontrollrechnungen. 4-Ecken „Welcher Satz?“ (5 Situationen). Exit-Folie. |
 | M7.2 | AB7 🪶 „Kosinussatz“ | Pflicht | Einsetzschema mit Farben, Skizzen gegeben. ★3 Aufgaben Seite gesucht (SWS), Rechenreihenfolge vorstrukturiert (erst a² + b², dann 2ab · cos γ, dann Differenz, dann Wurzel). Code. |
 | M7.3 | AB7 ◼ | Pflicht | ★Seiten in Sachaufgaben (Kranausleger, dreieckiges Grundstück im Kiez, Entfernung der Funkmasten). Fehler finden (KVZ/KRF). Code. |
@@ -342,7 +342,7 @@ Diskussionen im Plenum vermeiden („Wir klären das gleich, jetzt zählt Aufgab
 | M8.4 | Gutachten-Auftrag ◼◼ (A3) | Pflicht | Beide Sätze nötig. Fehlerabschätzung (±1° bei einem Winkel). Alternative Methode zur Kontrolle. |
 | M8.5 | Lösungsblatt Gutachten 🪶 / ◼ / ◼◼ | Pflicht | 3 Abschnitte, Bewertungshinweise für den Galeriegang |
 | M8.6 | Methodenkarte „Welcher Satz passt?“ (Entscheidungsbaum) = Hilfekarten Std. 8 | Pflicht | H1 Entscheidungsbaum · H2 Fallkürzel WSW/SWW/SSW/SWS/SSS mit Bild · H3 durchgerechnetes Mini-Gutachten |
-| M8.7 | Selbsteinschätzung „Was geht jetzt?“ (Ich-kann-Liste aus 01, Abschnitt 3) | optional | Nur, falls der `bewertungs-feedback-coach` kein Kompetenzraster liefert |
+| M8.7 | Selbsteinschätzung „Was geht jetzt?“ (Ich-kann-Liste aus 01, Abschnitt 3) | optional (nicht erstellt – stattdessen Selbsteinschätzung aus 02-diagnose.md, Abschn. 7) | Nur, falls der `bewertungs-feedback-coach` kein Kompetenzraster liefert |
 | M5.9 | GeoGebra-Datei Sinussatz/Kosinussatz | optional | Dynamische Prüfung, Lehrkraft-Demo |
 
 **Pflichtmaterialien gesamt: 53** (Paket A 12 · Paket B 14 · Paket C 27). Optional: 6 (M1.7, M2.7, M3.9, M5.9, M6.7, M8.7).
