@@ -127,7 +127,7 @@ sin(30°) = ________  sin(60°) ≈ ________  ☐ Jonas hat recht ☐ Jonas hat 
 | Item | Stufe | Kompetenz (CSV) | Bezug (01) | Fehlerbild bei falscher Antwort (01, Abschn. 7) |
 |---|---|---|---|---|
 | a) = 1 | **F** | Seiten benennen | Grundlage für G S. 45; K6 | **HYP**: r oder s angekreuzt (längste Seite in ungewohnter Lage nicht erkannt) |
-| b) = 2 | **F** | Voraussetzungen | Pythagoras E S. 43; sinnvolle Genauigkeit F S. 45 | **PLAU**: √33 ≈ 5,7 (subtrahiert) oder 65 bzw. 11 – Hypotenuse kürzer als bzw. „falsch lang“; **RUND**: 8 oder 8,06225…; **HYP**: 7,0 als Hypotenuse behandelt |
+| b) = 2 | **F** | Voraussetzungen | Pythagoras E S. 43; sinnvolle Genauigkeit F S. 45 | **PLAU**: √33 ≈ 5,7 (subtrahiert) oder 65 bzw. 11 – Hypotenuse kürzer als eine Kathete bzw. unsinnig lang; **RUND**: 8 oder 8,06225…; **HYP**: 7,0 als Hypotenuse behandelt |
 | c) = 3 | **F** | Umstellen | Umstellen von Formeln E S. 54 | **UMS**: 0,04 (0,6 : 15) oder 25 (15 : 0,6) |
 | d) = 4 | **G** | Verhältnisse | Längenverhältnisse bei Ähnlichkeit E S. 49 → Kernidee Std. 1 | ①: 5,5 (additiv +1,5, ohne eigenes Kürzel, in der Notiz vermerken); ② „größer“ → **LIN** (Verhältnis wächst mit der Dreiecksgröße, sin als „Länge“ gedacht) |
 | e) = 5 | **G** | Umstellen | Umstellen mit Variable im Nenner; TR (K5) | **UMS**: 2,59 (0,35 · 7,4) oder 0,05 (0,35 : 7,4); **RUND**: 21 oder 21,142857 |
@@ -676,7 +676,7 @@ breite: 240
 | Niveau | Lösung | 2 / 1 / 0 | Fehlerbilder |
 |---|---|---|---|
 | 🪶 F | ① **R** (a = 7 · sin 35°) ② **K** (zwei Seiten + eingeschlossener Winkel) ③ **S** (Seite + gegenüberliegender Winkel bekannt) ④ **K** (drei Seiten) | 4 richtig / 3 richtig / sonst | ② oder ④ mit S → **FALL**; R bei ②–④ → **RW** |
-| ◼ G | Kosinussatz, weil zwei Seiten und der **eingeschlossene** Winkel gegeben sind (kein Paar Seite/Gegenwinkel). a² = 81 + 36 − 2 · 9,0 · 6,0 · cos(52°) = 117 − 108 · 0,6157 ≈ 117 − 66,49 = 50,51; a ≈ **7,1 cm** | Wahl + a / a richtig ohne Begründung oder Wahl richtig mit Rechenfehler / sonst | Sinussatz versucht → **FALL**; + 66,49 → ≈ 13,1 cm → **KVZ**; (117 − 108) · cos 52° → **KRF** |
+| ◼ G | Kosinussatz, weil zwei Seiten und der **eingeschlossene** Winkel gegeben sind (kein Paar Seite/Gegenwinkel). a² = 81 + 36 − 2 · 9,0 · 6,0 · cos(52°) = 117 − 108 · 0,6157 ≈ 117 − 66,49 = 50,51; a ≈ **7,1 cm** | Wahl + a / a richtig ohne Begründung oder Wahl richtig mit Rechenfehler / sonst | Sinussatz versucht → **FALL**; + 66,49 → ≈ 13,5 cm → **KVZ**; (117 − 108) · cos 52° → **KRF** |
 | ◼◼ H | Größter Winkel γ gegenüber 11,0 cm: cos γ = (36 + 81 − 121) / (2 · 6 · 9) = −4 / 108 ≈ −0,0370; γ ≈ **92,1°**. Begründung: Mit sin⁻¹ (Sinussatz) erhält man nur Winkel bis 90°; ein stumpfer Winkel würde übersehen. Die beiden kleineren Winkel sind sicher spitz. Zusatz: α ≈ 33,0° (gegenüber 6,0 cm), β ≈ 54,8° (gegenüber 9,0 cm). | γ + Begründung / nur γ / sonst | γ per Sinussatz als 87,9° → **SSW**/**FALL**; Winkel nicht der passenden Seite gegenüber → **KZU** |
 
 ---
