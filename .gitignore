@@ -1,3 +1,6 @@
 # Klassendaten bleiben lokal (Datenschutz)
 klassen/*
 !klassen/.gitkeep
+
+# Node-Abhängigkeiten der Werkzeuge
+tools/node_modules/

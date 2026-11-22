@@ -1,0 +1,8 @@
+{
+  "name": "lehrerprojekt-tools",
+  "private": true,
+  "description": "Hilfswerkzeuge: PowerPoint-Export (praesentation_bauen.js)",
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}
