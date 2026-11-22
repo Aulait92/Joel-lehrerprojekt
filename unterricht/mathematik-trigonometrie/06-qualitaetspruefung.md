@@ -61,4 +61,31 @@ Grundsatz: Folie + drei ABs + **ein** Lösungsdokument + Exit-Ticket; Hilfekarte
 **Mindestumfang:** ca. 40 von 53 Materialien; mit Klassensätzen in Klarsichthüllen für ◼/◼◼ ca. 350–450 A4-Seiten für die ganze Einheit (Schätzung).
 
 ## Umsetzung
-*(wird nach der Nacharbeit ergänzt)*
+Nacharbeit am 22.11.2026 (alle Befunde aus 06 und 06a außer Datenschutz `vorhandenes-material/` – **Entscheidung der Lehrkraft**, dort nichts geändert). Jede geänderte Zahl mit `python3` nachgerechnet; **kein Codewort verändert**. PDFs neu erzeugt (`tools/pdf_erstellen.py`, fehlerfrei).
+
+| Datei | Änderung |
+|---|---|
+| `material/_anleitung.md` | Regel „Freigabe = ★-Pflicht“ (★-Spalten fett, keine verlangten Zwischenergebnisse als Lockbuchstaben); neuer Abschnitt „Kopieren“ |
+| `material/M1.1-folien-std1.md` | Teil A: Ablauf ohne MSA, Zeile „Wenn die Zeit knapp wird“; Fahrplan + Folie 3: Einstellungstest **statt** MSA-Basisaufgaben; Folie 10: Pflicht AB1 ◼ (A1, A2, A4, A5); Folie 11: ★-Aufgaben fett + Freigabe-Satz |
+| `material/M1.2-ab1-feder.md` | Wortspeicher kompakt (3 Spalten + Formelzeile), Seitenumbruch vor A5 (jetzt 3 Schülerseiten, Leiter-Skizze bei A5), Freigabe-Satz, ★-Spalten fett |
+| `material/M1.3-ab1-doppelgewicht.md` | A6b neu (Bogenmaß → Grad, „kein Dreieckswinkel“), Freigabe-Satz, ★-Spalten fett |
+| `material/M1.4-loesung-ab1.md` | Teil A Freigabe-Buchstaben; Code-Streifen AB1 ◼ mit ★ (A2, A4, A5) + Freigabe-Satz; Teil E 6b neu: 30 rad ≈ 1718,9° ≈ 4,8 Umdrehungen, kein Dreieckswinkel; Herleitung −0,99 als „Info für die Lehrkraft“ |
+| `material/M2.1`, `M3.1`, `M6.1`, `M7.1`, `M8.1` (Folien) | Zeile „Wenn die Zeit knapp wird“ (Std. 2 −7′, Std. 3 Auswertung 8′/Zahlenstrahl in Std. 4, Std. 6 −8′, Std. 7 −3′, Std. 8 −4′); M2.1/M5.1/M7.1 Freigabe-Hinweis auf der Code-Folie |
+| `material/M2.2`–`M2.4`, `M7.2`–`M7.4` | Freigabe-Satz unter der Code-Tabelle, ★-Spalten fett (M2.2–M2.4 zusätzlich Teil A „Code“) |
+| `material/M3.1-folien-std3.md` | Folien 3/6: 🪶 4 × peilen; Standpunkt 2 mind. 10 m, besser 15 m; dieselbe Person peilt beide Standpunkte |
+| `material/M3.2-messprotokoll-feder.md` | 4 × peilen/Augenhöhe, Rollentabelle und Messtabelle mit Messung 4, Aufgabe 1 „( … ) : 4“ + Hinweis „bei 3 Messungen : 3“ |
+| `material/M3.3`, `M3.4` (Messprotokolle) | d mind. 10 m, besser 15 m; „Für Standpunkt 1 und 2 peilt dieselbe Person“ |
+| `material/M3.5-loesung-erwartung-std3.md` | Mittelwert-Beispiel mit 4 Werten; Forschungsfrage ±0,414 m / ±0,409 m; Hinweis „getrenntes Mitteln nur näherungsweise“ (Beispiel 13,270 vs. 13,269 m) + ◼◼-Reflexionsfrage |
+| `material/M3.7-plan-b-regen.md` | Trupp 3 α₁ = 31,5° (h = 13,74 m), Trupp 6 α₁ = 37,0° (h = 12,95 m); Median 13,28 m, Mittelwert 13,30 m, mit Ausreißer 13,29 m / 13,87 m; tan 27,8° = 0,5272402 |
+| `material/M4.1-folien-std4.md` | Zeile „Wenn die Zeit knapp wird“; Folie 10 Moderation: Abweichung 1–2 m mit eigenen Daten |
+| `material/M4.2`–`M4.4` | Zuordnung „Aufgabe → Buchstabe“ als Tabelle (behebt 3 Code-Kollisionen), Satz „Trage nur die Ergebnisse aus der Zeile ‚Aufgabe‘ ein“, Freigabe-Satz, ★ fett |
+| `material/M4.6-hilfekarten-std4.md` | Teil A „Zahlen“ korrigiert (7,5 cm/44°/58° bzw. 12,0 m/42°/28°/1,60 m) |
+| `material/M5.1-folien-std5.md` | Teil A: 13,25 m ≈ 13,2 m, Zeile „Wenn die Zeit knapp wird“; Folie 2 = Musterbeispiel 1 aus Std. 4 (h_c = 45,0 · sin 52° = a · sin 68°, a ≈ 38,2 m); Folie 9: Bauzaun-Rückbezug mit S₁L, 13,25 m ≈ 13,2 m, Vergleichszeile aus 06a, Moderationssatz Messgenauigkeit |
+| `material/M5.3`–`M5.5` | Teil A: Wahlaufgaben = Bonusbuchstaben; Freigabe-Satz, ★-Spalten fett; M5.5 Rundungshinweis 13,2/13,3 m |
+| `material/M7.1-folien-std7.md` | Folie 5: c-Werte nicht mehr vorgegeben (c = ?), Moderation „Gruppen messen c selbst“ + erwartete Werte (Python): 4,36 / 5,83 / 7,00 cm |
+| `material/M8.2-gutachten-feder.md` | neuer ★ Teil 2c Methodenwahl (SWS → Kosinussatz); Teil A Pflicht ergänzt |
+| `material/M8.5-loesung-gutachten.md` | Lösung Teil 2c mit Bewertung und Fehlerbildern; Teil A Pflicht 🪶 |
+| `04-verlaufsplanung.md` | Z. 64 → M1.4, Teil F; Z. 179 → M3.9 (nicht erstellt); M6.7 gestrichen; M8.7 → Selbsteinschätzung 02, Abschn. 7; Abschn. 3b d ≥ 10 m/besser 15 m, dieselbe Person; 🪶 4 Messungen; Materialliste M6.7/M8.7 „nicht erstellt“ |
+| `bewertung/klassenarbeit.md` | Block B ◼ d) neu: Abstand Boje–Steg über die Höhe, CF = AC · sin 58° ≈ 140 m (140,2); Regel „größter Winkel ↔ größte Seite“ jetzt Plausibilitätspunkt in b); Punkte 1/3/2/2 = 8 unverändert; Übersicht + Rückmeldetabelle |
+| `auswertung/klassenarbeit.schluessel.csv` | B-G-b/B-G-d Beschreibung, B-G-d Kompetenz „Zerlegung“ (max_punkte unverändert, Summe Block B ◼ = 8) |
+| `material/pdf/`, `bewertung/pdf/` | neu erzeugt |
