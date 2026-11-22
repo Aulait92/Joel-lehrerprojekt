@@ -1,0 +1,3025 @@
+                         Mathematik
+Teil C
+
+Mathematik
+
+
+
+Jahrgangsstufen 1 – 10
+Inhaltsverzeichnis
+1   Kompetenzentwicklung im Fach Mathematik                          3
+    1.1 Ziele des Unterrichts                                        3
+    1.2 Fachbezogene Kompetenzbereiche                               5
+
+2   Kompetenzen und Standards                                       11
+    2.1 Prozessbezogene mathematische Standards                     19
+        [K1] Mathematisch argumentieren                             19
+        [K2] Probleme mathematisch lösen                            19
+        [K3] Mathematisch modellieren                               20
+        [K4] Mathematische Darstellungen verwenden                  20
+        [K5] Mit symbolischen, formalen und technischen Elementen
+             der Mathematik umgehen                                 20
+        [K6] Mathematisch kommunizieren                             21
+    2.2 Inhaltsbezogene mathematische Standards                     22
+        [L1] Zahlen und Operationen                                 22
+        [L2] Größen und Messen                                      24
+        [L3] Raum und Form                                          26
+        [L4] Gleichungen und Funktionen                             28
+        [L5] Daten und Zufall                                       30
+
+3   Themen und Inhalte                                              32
+    3.1 Themenbereich „Zahlen und Operationen“                      34
+    3.2 Themenbereich „Größen und Messen“                           40
+    3.3 Themenbereich „Raum und Form“                               46
+    3.4 Themenbereich „Gleichungen und Funktionen“                  52
+    3.5 Themenbereich „Daten und Zufall“                            58
+    3.6 Wahlpflichtfach                                             62
+                                                                             C Mathematik
+
+
+
+1      Kompetenzentwicklung im Fach Mathematik
+
+1.1    Ziele des Unterrichts
+
+Mathematik erfordert lebendiges und forschendes Entdecken und Handeln sowie eine
+altersgerechte Auseinandersetzung mit Möglichkeiten und Grenzen mathematischer Sicht-
+weisen. Der Mathematikunterricht befähigt die Schülerinnen und Schüler, ausgehend von ihren
+mathematischen Vorerfahrungen Zusammenhänge zu erkunden, Strukturen zu untersuchen,
+Beziehungen zwischen Begriffen aufzudecken, Vorgehensweisen und Darstellungsformen zu
+finden und begründet auszuwählen. Damit werden die Grundlagen für strukturiertes Denken
+und für die lebenslange Auseinandersetzung mit mathematischen Anforderungen des
+täglichen Lebens und der Berufswelt gelegt sowie Anknüpfungspunkte für weiteres, nach-
+haltiges Lernen im Fach Mathematik geschaffen.
+Ziel des Unterrichts ist die Entwicklung von Fähigkeiten und Fertigkeiten, die sich in drei
+Schwerpunkte gliedern lassen:
+­ Die Schülerinnen und Schüler nehmen natürliche, technische, soziale und kulturelle
+  Erscheinungen und Vorgänge mithilfe der Mathematik wahr, erforschen sie, setzen sich
+  mit ihnen auseinander und beurteilen sie unter Nutzung mathematischer Aspekte.
+­ Die Schülerinnen und Schüler erkennen Mathematik mit ihrer fachspezifischen Sprache,
+  ihren Symbolen, Bildern, Darstellungen und Formeln als ein eigenes, geordnetes Konzept
+  und nutzen sie, um mathematische Aufgaben zu beschreiben und zu bearbeiten.
+­ Die Schülerinnen und Schüler befassen sich mit spezifisch mathematischen und alltäg-
+  lichen Problemen, setzen sich mit ihnen kreativ und zunehmend selbstbestimmt
+  auseinander und entwickeln dadurch auch über die Mathematik hinausgehende, nützliche
+  heuristische Fähigkeiten.
+Diese drei Schwerpunkte müssen in der gesamten Schulzeit im Mathematikunterricht
+berücksichtigt werden.
+Im Mathematikunterricht der Grundschule erwerben die Schülerinnen und Schüler die grund-
+legenden Kompetenzen der mathematischen Allgemeinbildung. Damit werden die Voraus-
+setzungen für weiteres Lernen in den Bildungsgängen der Sekundarstufen und für die lebens-
+lange, erfolgreiche Auseinandersetzung mit mathematikhaltigen Anforderungen geschaffen.
+Für die Einbettung der Mathematik in die Lebenswelt der Schülerinnen und Schüler sind
+Alltagsbezüge und andere Verknüpfungen mit der realen Welt (Kontexte) in allen Phasen des
+Unterrichts bedeutsam. Bei der Auswahl von Kontexten sind auch die vielfältigen Interessen
+von Kindern und Jugendlichen zu berücksichtigen. Die Auseinandersetzung mit den Kontexten
+bietet verstärkt die Möglichkeit, Sprach-, Medien- und Verbraucherbildung zu fördern. Die
+Vermittlung von Strategien zum Lesen von kontextbezogenen Aufgaben und Fachtexten ist ein
+Schwerpunkt eines sprachsensiblen und differenzierten Mathematikunterrichts.
+Der Aufbau der mathematischen Kompetenzen erfolgt spiralförmig und greift immer wieder auf
+vorhandene Vorstellungen zurück. Das Ziel ist ein verständnisorientierter Erwerb von
+mathematischen Begriffen und Verfahrensweisen. Tragfähige Vorstellungen sind die Basis für
+erfolgreiches mathematisches Lernen. Sie sind keine Sammlung von einzelnen Begriffen,
+Werkzeugen und Ideen, sondern führen zur Ausbildung eines Netzes, das sich durch
+Erweiterung von bewährten und durch Zugewinn von neuen Vorstellungen zu einem immer
+leistungsfähigeren System subjektiver Erfahrungsbereiche, Handlungsvorstellungen und
+Erklärungsmodelle entwickelt.
+
+
+
+
+                                                                             Seite 3 von 62
+C Mathematik
+
+
+Fehlende oder unvollständige Vorstellungen zu Zahlen, Operationen und Strategien können
+beispielsweise eine Ursache für Rechenschwierigkeiten und Verständnislücken sein, denen
+man frühzeitig präventiv entgegenwirken sollte. Kinder mit Schwierigkeiten im Rechnen
+können zwar oft mithilfe von konkreten Materialen eine Handlung durchführen, diese jedoch
+nicht beschreiben. Hierzu ist eine besondere Unterstützung durch die Lehrkraft erforderlich,
+z. B. durch die fortlaufende Anregung der Lernenden zum Sprechen über mathematische
+Strukturen und Handlungen. Dadurch wird eine Grundlage für das mathematische Operieren in
+der Vorstellung gelegt.
+Zur Diagnose von Lernvoraussetzungen sind individuelle Lernstandserhebungen und der
+Einsatz diagnostischer Aufgaben notwendig. Die Analyse der Ergebnisse bietet die Grundlage
+für eine differenzierte Unterrichtsplanung und für entsprechende Lernangebote. Dazu sind
+passende Aufgaben erforderlich. Unterschiedliche Kenntnisse und Fähigkeiten der
+Schülerinnen und Schüler erfordern Aufgabenformate, die hinsichtlich ihrer Anforderungen und
+Bearbeitungsmöglichkeiten variiert werden können. Differenzierte Aufgabenstellungen
+ermöglichen individuelle Lösungen auf unterschiedlichen Niveaus. Zusätzlich ist eine
+Unterscheidung zwischen Aufgaben zum Initiieren von Lernprozessen (Lernaufgaben) und
+Aufgaben zum Überprüfen des Leistungsstandes (Leistungsaufgaben) erforderlich.
+Die Art und Weise, wie den Schülerinnen und Schülern Gelegenheit gegeben wird, sich mit
+mathematischen Fragen auseinanderzusetzen, ist entscheidend dafür, dass eine positive
+Grundhaltung zum Fach aufgebaut werden kann. Die Schülerinnen und Schüler werden
+durchgängig ermutigt, in die Mathematik forschend vorzudringen und lebendig und
+phantasievoll mit mathematikhaltigen Problemen umzugehen. Forschend-entdeckendes
+Lernen ermöglicht es dabei in besonderem Maße, Fragen zu entwickeln und zu stellen,
+verschiedene Lern- und Lösungsstrategien zu entwickeln und anzuwenden sowie selbsttätig
+neue Inhalte und Zusammenhänge zu erschließen. In vielfältiger Weise werden dabei
+Kompetenzen erworben bzw. weiterentwickelt und mit dem Vorwissen in Beziehung gesetzt.
+Diese Herangehensweise an mathematische Fragestellungen wird genutzt, um den Lernenden
+Gelegenheit zu geben, Handlungskompetenz und ein immer tieferes Verständnis für
+mathematische Zusammenhänge zu erwerben.
+Dem Üben und Vertiefen kommt im Fach Mathematik eine wichtige Rolle zu, um sicheres und
+vernetztes Wissen zu erhalten. Produktives Üben dient der Vertiefung von Einsichten, der
+Geläufigkeit und geistigen Beweglichkeit. Automatisierendes Üben festigt das Grundwissen
+und basiert auf einem sicheren Verständnis der zu übenden Begriffe und Verfahren. Dabei
+bezieht sich das Üben nicht nur auf die letzte Phase des Aneignungsprozesses, sondern alle
+Phasen des Unterrichts sollten Anteile von Übung und Wiederholung enthalten. Das Üben von
+Fertigkeiten, das Reflektieren von Begriffen, das Untersuchen von Strukturen, das Lösen von
+Problemen – all dies kann in Übungsaufgaben angesprochen werden. Bei der Gestaltung von
+Übungen ist eine angemessene Individualisierung erforderlich, die die unterschiedlichen
+Fähigkeiten der Lernenden berücksichtigt. Schülerinnen und Schüler werden dabei
+zunehmend befähigt, eigenverantwortlich zu üben.
+
+
+
+
+Seite 4 von 62
+                                                                                C Mathematik
+
+
+1.2    Fachbezogene Kompetenzbereiche
+
+Die Qualität mathematischer Bildung zeigt sich in prozessbezogenen und inhaltsbezogenen
+mathematischen Kompetenzen, die stets miteinander verknüpft sind. Sie lässt sich daran
+messen, inwieweit die Schülerinnen und Schüler in der Lage sind, ihr Wissen funktional und
+flexibel einzusetzen, um innermathematische und kontextbezogene Probleme zu bearbeiten
+und begründete mathematische Urteile abzugeben.
+Die drei Dimensionen des Kompetenzmodells für das Fach Mathematik sind
+­ die prozessbezogenen mathematischen Kompetenzen
+­ die inhaltsbezogenen mathematischen Kompetenzen, die in Leitideen geordnet sind
+­ die Anforderungsbereiche, die eine Orientierung für den kognitiven Anspruch
+  mathematischen Handelns geben.
+
+
+Prozessbezogene mathematische                 Inhaltsbezogene mathematische
+Kompetenzbereiche                             Kompetenzbereiche (Leitideen)
+
+      [K1] Mathematisch argumentieren               [L1] Zahlen und Operationen
+
+      [K2] Probleme mathematisch lösen              [L2] Größen und Messen
+
+      [K3] Mathematisch modellieren                 [L3] Raum und Form
+
+      [K4] Mathematische Darstellungen              [L4] Gleichungen und Funktionen
+           verwenden
+
+  x   [K5] Mit symbolischen, formalen und           [L5] Daten und Zufall
+           technischen Elementen der
+           Mathematik umgehen
+
+      [K6] Mathematisch kommunizieren
+
+
+Anforderungsbereiche
+Anforderungsbereich I: Reproduzieren
+Dieser Anforderungsbereich umfasst die Wiedergabe und direkte Anwendung von
+grundlegenden Begriffen, Sätzen und Verfahren in einem abgegrenzten Gebiet und einem
+wiederholenden Zusammenhang.
+Anforderungsbereich II: Zusammenhänge herstellen
+Dieser Anforderungsbereich umfasst das Bearbeiten bekannter Sachverhalte, indem
+Kenntnisse, Fähigkeiten und Fertigkeiten verknüpft werden, die in der Auseinandersetzung
+mit Mathematik auf verschiedenen Gebieten erworben wurden.
+Anforderungsbereich III: Verallgemeinern und Reflektieren
+Dieser Anforderungsbereich umfasst das Bearbeiten komplexer Gegebenheiten u. a. mit dem
+Ziel, zu eigenen Problemformulierungen, Lösungen, Begründungen, Folgerungen,
+Interpretationen oder Wertungen zu gelangen.
+
+
+
+
+                                                                             Seite 5 von 62
+C Mathematik
+
+
+Prozessbezogene mathematische Kompetenzen
+Die prozessbezogenen mathematischen Kompetenzen werden nicht isoliert, sondern stets im
+Verbund mit den inhaltsbezogenen mathematischen Kompetenzen erworben. Dafür muss der
+Mathematikunterricht so gestaltet werden, dass die Schülerinnen und Schüler diese
+Kompetenzen schrittweise und individuell gemäß ihren Lernvoraussetzungen und Vor-
+erfahrungen, ihrem Lerntyp und Lerntempo entwickeln können. Die sechs prozessbezogenen
+mathematischen Kompetenzen erfassen die zentralen Aspekte mathematischen Arbeitens. Sie
+stehen dabei in unterschiedlichem Maße mit den inhaltbezogenen mathematischen
+Kompetenzen in Verbindung. Während in bestimmten Themengebieten bereits frühzeitig ein
+erweitertes Niveau einer prozessbezogenen mathematischen Kompetenz erreicht werden
+kann, kann das in anderen Themengebieten ggf. auch noch nicht der Fall sein.
+Im Folgenden werden die prozessbezogenen mathematischen Kompetenzbereiche des
+Kompetenzmodells im Mathematikunterricht beschrieben. Die Beschreibung führt die
+Aussagen der Bildungsstandards im Fach Mathematik für den Primarbereich (KMK, 2004) und
+der Bildungsstandards im Fach Mathematik für den Hauptschul- und Mittleren Schulabschluss
+(KMK, 2003 und 2004) zusammen. Diese Beschreibungen sind Grundlage für die Formu-
+lierung der Standards im anschließenden Kapitel.
+
+
+
+                 Mathematisch                              Probleme
+                 argumentieren                            mathematisch
+                                                             lösen
+
+
+
+
+       Mathematisch               Prozessbezogene                 Mathematische
+        modellieren                mathematische                  Darstellungen
+                                    Kompetenzen                    verwenden
+
+
+
+                                                       Mit symbolischen,
+                  Mathematisch                           formalen und
+                 kommunizieren                            technischen
+                                                         Elementen der
+                                                      Mathematik umgehen
+
+
+    [K1] Mathematisch argumentieren
+Mathematisches Argumentieren beginnt mit dem Erkunden von Situationen.
+Die Schülerinnen und Schüler stellen Fragen, die für die Mathematik charakteristisch sind:
+Gibt es …? Wie verändert sich…? Ist das immer so …? Warum ist das so…?
+Davon ausgehend stellen sie Vermutungen auf und begründen diese nachvollziehbar durch
+mathematische Argumentationen wie Erläuterungen, Begründungen und Beweise. Auch das
+Beschreiben und Begründen von Lösungswegen ist ein Teil des mathematischen Argumen-
+tierens.
+
+
+
+
+Seite 6 von 62
+                                                                               C Mathematik
+
+
+    [K2] Probleme mathematisch lösen
+Mathematisches Problemlösen findet statt, wenn ein unbekannter Lösungsweg entwickelt oder
+aus verschiedenen Lösungswegen ausgewählt werden muss. Die Schülerinnen und Schüler
+erschließen dabei Zusammenhänge und stellen Vermutungen auf. Anschließend lösen sie das
+Problem unter Verwendung heuristischer Strategien und Hilfsmittel, prüfen ihr Ergebnis und
+reflektieren ihren Lösungsweg bzw. ihr Vorgehen.
+
+    [K3] Mathematisch modellieren
+Beim mathematischen Modellieren werden in der Regel reale Situationen in mathematische
+Modelle übersetzt, dort gelöst und zurück in die reale Situation übertragen. Es können auch
+mathematische Situationen durch reale Handlungen oder Bilder beschrieben werden, die dann
+als Modell verwendet werden können. Mathematisches Modellieren lässt sich damit als eine
+Verknüpfung der Schritte Vereinfachen, Mathematisieren, Bearbeiten, Interpretieren und
+Validieren beschreiben.
+
+    [K4] Mathematische Darstellungen verwenden
+Die Mathematik bietet verschiedene, sich gegenseitig ergänzende Darstellungsformen:
+­ enaktive Darstellungen (z. B. mit Mehrsystemblöcken, Würfeln)
+­ verbale Beschreibungen (geschriebener oder gesprochener Text)
+­ numerische Darstellungen (z. B. in Tabellenform)
+­ grafische Darstellungen (z. B. Skizzen, Figuren, Funktionsgraphen)
+­ mathematisch-symbolische Darstellungen (z. B. Terme)
+Mathematisches Arbeiten zeichnet sich durch Auswählen, Anfertigen und Interpretieren
+solcher Darstellungen aus. Durch den flexiblen, problemangemessenen Wechsel zwischen
+ihnen werden mathematische Vorstellungen aktiviert und gefestigt.
+Durch die Förderung dieser Kompetenz wird auch ein Beitrag zur Medienbildung geleistet.
+
+    [K5] Mit symbolischen, formalen, technischen Elementen der Mathematik umgehen
+Das zielgerichtete mathematische Arbeiten erfordert den Umgang mit symbolischen, formalen
+und technischen Elementen. Die Schülerinnen und Schüler wählen daher angemessene
+Verfahren und Werkzeuge (z. B. gedächtnismäßig beherrschte Aufgaben, Formeln) sinnvoll
+aus und reflektieren ihre Wahl.
+Bei der Nutzung mathematischer Hilfsmittel (z. B. Taschenrechner, Tabellenkalkulation,
+Geometriesoftware) spielt auch die Medienbildung eine wichtige Rolle.
+
+    [K6] Mathematisch kommunizieren
+Die Kommunikation über mathematische Zusammenhänge bzw. mit mathematischen Mitteln
+umfasst u. a. das verstehende Zuhören sowie das verständige Lesen mathematikhaltiger
+Texte. Die Sprache ist das zentrale Verständigungsmittel, um beim Arbeiten an mathema-
+tischen Problemen die Gedanken zu strukturieren und darzulegen. Dieses erfolgt in münd-
+licher und in schriftlicher Form. Mathematisches Kommunizieren bietet wichtige Ansatzpunkte,
+den Unterricht sprachsensibel zu gestalten. Die dazu notwendigen sprachlichen Fähigkeiten
+sollen im Mathematikunterricht ausgehend von der Alltagssprache gezielt angebahnt und auch
+vertieft werden. Dafür müssen im Unterricht Aufgabenstellungen genutzt werden, die eine
+gemeinsame Bearbeitung durch alle Schülerinnen und Schüler ermöglichen und damit
+Sprechanlässe bieten.
+
+
+
+                                                                              Seite 7 von 62
+C Mathematik
+
+
+Inhaltsbezogene mathematische Kompetenzbereiche (Leitideen)
+Im Folgenden werden die inhaltsbezogenen mathematischen Kompetenzbereiche (Leitideen)
+des Kompetenzmodells im Mathematikunterricht beschrieben. Die Beschreibung führt die
+Aussagen der Bildungsstandards im Fach Mathematik für den Primarbereich (KMK, 2004) und
+der Bildungsstandards im Fach Mathematik für den Hauptschul- und Mittleren Schulabschluss
+(KMK, 2003 und 2004) zusammen. Diese Leitideen sind Grundlage für die Formulierung der
+Standards im anschließenden Kapitel.
+
+
+
+                   Zahlen                                  Größen
+                    und                                     und
+                 Operationen                               Messen
+
+
+
+
+                                  Inhaltsbezogene
+          Daten                    mathematische                     Raum
+           und                      Kompetenzen                       und
+          Zufall                     (Leitideen)                     Form
+
+
+
+
+                                   Gleichungen
+                                       und
+                                   Funktionen
+
+
+
+    [L1] Zahlen und Operationen
+Die Schülerinnen und Schüler entwickeln, ausgehend von den natürlichen Zahlen, tragfähige
+Vorstellungen zu Zahlen, Operationen und Strategien in verschiedenen Zahlenbereichen, die
+sie z. B. durch den Wechsel zwischen verschiedenen Darstellungsformen nachweisen.
+Sie erfassen und nutzen Beziehungen zwischen Rechenoperationen, entwickeln Rechen-
+strategien und nutzen diese zum Rechnen, auch in Kontexten.
+
+
+    [L2] Größen und Messen
+Die Schülerinnen und Schüler entwickeln im handelnden Umgang tragfähige Größen-
+vorstellungen. Größen werden gemessen, geschätzt und verglichen. Dabei verinnerlichen die
+Lernenden die Grundidee des Messens und verstehen den Aufbau von Skalierungen. Sie
+operieren kontextbezogen mit Maßen und Einheiten insbesondere anhand von Größen, die im
+täglichen Leben eine Rolle spielen.
+In geometrischen Sachverhalten werden Längen, Flächeninhalte, Volumina und Winkelgrößen
+bestimmt und berechnet.
+
+
+
+
+Seite 8 von 62
+                                                                               C Mathematik
+
+
+    [L3] Raum und Form
+Die Schülerinnen und Schüler orientieren sich im Raum und in der Ebene. Dabei sammeln sie
+Erfahrungen zu Eigenschaften von geometrischen Objekten, Prozessen und Beziehungen. Sie
+erfassen zeichnerische Darstellungen und entwickeln ihre eigenen zeichnerischen Fähigkeiten.
+Ebene Figuren und Körper werden analysiert, klassifiziert und durch Skizzen, Konstruktionen,
+Netze, Schrägbilder oder Modelle dargestellt. Dabei sollen die Schülerinnen und Schüler auch
+die Fähigkeit entwickeln, sich geometrische Objekte vorzustellen und mit ihnen in der
+Vorstellung zu operieren.
+Durch die Darstellung geometrischer Situationen mithilfe von Koordinaten werden geo-
+metrische Probleme der analytischen Bearbeitung zugänglich.
+Eigenschaften und Beziehungen geometrischer Objekte werden beschrieben und Gesetz-
+mäßigkeiten begründet, um sie in Sachzusammenhängen zu nutzen.
+
+    [L4] Gleichungen und Funktionen
+Variablen, Terme und Gleichungen werden strukturell zur Beschreibung von inner- und
+außermathematischen Situationen verwendet. Ausgehend von den Rechengesetzen für
+Zahlen entwickeln die Schülerinnen und Schüler ein Verständnis für das Operieren mit
+Variablen.
+Bereits in der Primarstufe nutzen und verstehen die Schülerinnen und Schüler strukturierte
+Darstellungen. Sie erkennen und beschreiben Gesetzmäßigkeiten in geometrischen bzw.
+arithmetischen Mustern und gehen dazu über, in Sachsituationen funktionale Zusammen-
+hänge zur Beschreibung und Problemlösung zu nutzen.
+Funktionen sind ein zentrales Mittel zur mathematischen Beschreibung quantitativer
+Zusammenhänge. Mit ihnen lassen sich Phänomene der Abhängigkeit und der Veränderung
+erfassen und analysieren. Damit sind Funktionen zur Bearbeitung einer Vielzahl von
+Realsituationen aus Natur, Wissenschaft und Gesellschaft als Modelle geeignet.
+Das Arbeiten mit Funktionen ist gekennzeichnet durch den Wechsel zwischen verschiedenen
+Darstellungsformen.
+
+    [L5] Daten und Zufall
+Die Schülerinnen und Schüler sammeln und dokumentieren Daten, stellen sie grafisch dar,
+fassen sie mithilfe statistischer Kennwerte numerisch zusammen, beschreiben und inter-
+pretieren sie.
+Ausgehend von Wahrscheinlichkeitsschätzungen und experimentellen Untersuchungen
+werden Zufallserscheinungen in alltäglichen Situationen beschrieben. Auf der Basis von
+kombinatorischen Überlegungen sowie durch Verfahren und Begriffe der Wahrscheinlich-
+keitsrechnung können Zufallserscheinungen verstanden sowie qualitativ und quantitativ erfasst
+werden. Auf diese Weise gelangen die Lernenden zu fundierten und kontrollierten Urteilen in
+realen Entscheidungssituationen und entwickeln ein grundlegendes Verständnis für
+Simulationen und Prognosen.
+
+
+
+
+                                                                              Seite 9 von 62
+C Mathematik
+
+
+
+
+Seite 10 von 62
+BERLIN                                                                         C Mathematik
+
+
+2      Kompetenzen und Standards
+
+Regelungen für das Land Berlin
+
+Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen
+Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem,
+über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu
+welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an
+den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und
+zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen
+angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti-
+gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen,
+den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus-
+setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge
+erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen
+Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres
+individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende
+einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren
+individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot
+berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es
+ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den
+Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit
+steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren
+Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H
+gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde-
+rungen an die Schülerinnen und Schüler.
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform
+gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangs-
+stufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der
+darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden
+differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen
+Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte
+Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungs-
+vorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur
+Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen
+und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag
+der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des
+schulinternen Curriculums abgestimmt.
+
+
+
+
+                                                                             Seite 11 von 62
+C Mathematik                                                                   BERLIN
+
+
+Für Grundschulen und Grundstufen der Gemeinschaftsschulen sowie an
+weiterführenden Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Schulanfangsphase          Niveaustufen A, B, in Teilen C
+Jahrgangsstufen 3 – 4      Niveaustufe C, in Teilen D
+Jahrgangsstufe 5           Niveaustufen C – D
+Jahrgangsstufe 6           Niveaustufe D, in Teilen E
+
+
+
+
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen
+werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufe    3        Niveaustufe B, in Teilen C
+Jahrgangsstufen   4–6      Niveaustufe C
+Jahrgangsstufen   7–8      Niveaustufe D
+Jahrgangsstufen   9 – 10   Niveaustufen D – E
+
+
+
+
+Zur Vorbereitung auf den der Berufsbildungsreife gleichwertigen Abschluss werden in den
+Jahrgangsstufen 9 und 10 auch Angebote auf dem Niveau F unterbreitet.
+Je nach dem Grad der Lernbeeinträchtigung erreichen die Schülerinnen und Schüler die
+gesetzten Standards nicht im vollen Umfang bzw. nicht zum vorgegebenen Zeitpunkt. Dem
+trägt eine individuelle Ausrichtung des Unterrichtsangebots Rechnung.
+
+Für die Integrierte Sekundarschule gilt:
+grundlegendes Niveau:
+Jahrgangsstufen 7 – 8      Niveaustufen D – E, in Teilen F
+Jahrgangsstufen 9 – 10     Niveaustufe F, in Teilen G
+erweitertes Niveau:
+Jahrgangsstufen 7 – 8      Niveaustufe E, in Teilen F
+Jahrgangsstufen 9 – 10     Niveaustufen F – G
+
+
+
+
+Seite 12 von 62
+BERLIN                                                                         C Mathematik
+
+
+Für das Gymnasium gilt:
+Jahrgangsstufe 7        Niveaustufe E
+Jahrgangsstufe 8        Niveaustufe F
+Jahrgangsstufe 9        Niveaustufe G
+Jahrgangsstufe 10       Niveaustufe H
+
+
+
+
+Die folgende Darstellung veranschaulicht die im Berliner Schulsystem in den Jahrgangsstufen
+1 bis 10 möglichen Lerngeschwindigkeiten im Überblick und zeigt die Durchlässigkeit des
+Schulsystems. Sie bietet zudem eine Grundlage für eine systematische Schullaufbahn-
+beratung. In der Darstellung ist auch erkennbar, welche Anforderungen Schülerinnen und
+Schüler erfüllen müssen, die die Voraussetzungen für den Erwerb der Berufsbildungsreife erst
+am Ende der Jahrgangsstufe 10 erreichen. Dieses Niveau können auch Schülerinnen und
+Schüler mit dem sonderpädagogischen Förderschwerpunkt Lernen erreichen, wenn sie den
+der Berufsbildungsreife gleichwerten Abschluss anstreben.
+
+
+
+
+                                                                            Seite 13 von 62
+C Mathematik                                                                         BERLIN
+
+
+Der Unterricht im Fach Mathematik und die nachfolgend beschriebenen Standards richten
+sich nach der innermathematischen Kompetenzentwicklung. Die in Kapitel 2.2 aufgelisteten
+inhaltsbezogenen Standards sind dabei unmittelbar an die in Kapitel 3 dargestellten Themen
+und Inhalte gekoppelt. Zusätzlich wird die Gestaltung des Unterrichts auf den einzelnen
+Niveaustufen auch durch die prozessbezogenen mathematischen Kompetenzen sowie die
+verschiedenen Anforderungsbereiche bestimmt. (siehe auch Kapitel 3, S. 32 f.)
+Für die Jahrgangsstufen 1 bis 6 kann als Orientierung dienen, dass in der Regel die Niveau-
+stufe B am Ende der Jahrgangsstufe 2, C am Ende der Jahrgangsstufe 4 und D am Ende der
+Jahrgangsstufe 6 erreicht werden soll.
+Die Standards der Niveaustufen E und F sowie G und H sind innerhalb der Doppeljahrgangs-
+stufen 7/8 sowie 9/10 geeignet miteinander zu verzahnen.
+Insbesondere an Gymnasien können durch geeignete inhaltliche Verknüpfungen in der Jahr-
+gangsstufe 8 Vorgriffe auf die in G bzw. H beschriebenen Standards erfolgen.
+Die Niveaustufe H beschreibt die Eingangsvoraussetzungen für die Qualifikationsphase. In
+Klassen, die in 13 Jahren zum Abitur führen, kann sie auch am Ende der Jahrgangsstufe 11
+erreicht werden.
+Die Anforderungen für die jeweiligen Jahrgangsstufen werden im schulinternen Curriculum
+festgelegt. Dies gilt auch für das Wahlpflichtfach Mathematik.
+Beim Unterrichten muss berücksichtigt werden, dass Lernende die noch nicht bewältigten
+Niveaustufen in späteren Jahrgangsstufen erreichen können. Deshalb beschreiben zwar z. B.
+die Standards in Stufe D den Übergang in die Sekundarstufe, es ist aber möglich, dass auch in
+Jahrgangsstufe 7 noch auf der Niveaustufe D unterrichtet werden muss.
+
+
+
+
+Seite 14 von 62
+BRANDENBURG                                                                    C Mathematik
+
+
+Regelungen für das Land Brandenburg
+
+Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen
+Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem,
+über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu
+welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an
+den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und
+zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen
+angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti-
+gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen,
+den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus-
+setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge
+erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen
+Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres
+individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende
+einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren
+individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot
+berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es
+ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den
+Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit
+steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren
+Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H
+gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde-
+rungen an die Schülerinnen und Schüler.
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform
+gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangs-
+stufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der
+darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden
+differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen
+Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte
+Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungs-
+vorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur
+Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen
+und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag
+der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des
+schulinternen Curriculums abgestimmt.
+
+
+
+
+                                                                             Seite 15 von 62
+C Mathematik                                                               BRANDENBURG
+
+
+Grundschule
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen
+und Schüler in der Regel im Bildungsgang der Grundschule Niveaustufen durchlaufen bzw.
+erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an
+die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht
+werden können.
+Für Grundschulen und für Primarstufen von Ober- und Gesamtschulen sowie
+für weiterführende allgemeinbildende Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Jahrgangsstufen 1 – 2      Niveaustufen A und B
+Jahrgangsstufen 3 – 4      Niveaustufe C
+Jahrgangsstufen 5 – 6      Niveaustufe D
+
+
+
+
+Förderschwerpunkt Lernen
+Die folgende tabellarische Darstellung beschreibt, zu welchen Zeitpunkten Schülerinnen und
+Schüler in der Regel im Bildungsgang zum Erwerb des Abschlusses der Schule mit dem
+sonderpädagogischen Förderschwerpunkt Lernen Niveaustufen durchlaufen bzw. erreichen.
+Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die
+Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden
+können.
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen
+werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufen 1 – 2      Niveaustufen A und B
+Jahrgangsstufe 3           Niveaustufe B
+Jahrgangsstufen 4 – 6      Niveaustufe C
+Jahrgangsstufen 7 – 8      Niveaustufe D
+Jahrgangsstufen 9 – 10     Niveaustufen D und E
+
+
+
+
+Schülerinnen und Schüler, für die sonderpädagogischer Förderbedarf im Förderschwerpunkt
+Lernen festgestellt worden ist und die dem Bildungsgang Förderschule Lernen gemäß
+§ 30 BbgSchulG zugeordnet sind, erhalten im Unterricht Lernangebote, die ein Erreichen der
+Niveaustufen A, B, C, D und E ermöglichen sollen. Hierbei sind die individuellen Lernvoraus-
+setzungen der Schülerinnen und Schüler zu berücksichtigen.
+In diesem Bildungsgang wird mit der Niveaustufe E das gemeinsame Bildungsziel am Ende
+der Jahrgangsstufe 10 abgebildet.
+Zur Vorbereitung auf den der Berufsbildungsreife entsprechenden Abschluss wird in den
+Jahrgangsstufen 9 und 10 schülerbezogen auch auf dem Niveau F unterrichtet.
+
+
+
+
+Seite 16 von 62
+BRANDENBURG                                                                     C Mathematik
+
+
+Schulen der Sekundarstufe I
+Ausgehend vom grundlegenden, erweiterten und vertieften Anspruchsniveau unterscheidet
+sich der Unterricht in der Sekundarstufe I in der Art der Erschließung, der Vertiefung und dem
+Grad der Komplexität der zugrunde gelegten Themen und Inhalte. Bei der inneren
+Organisation in Klassen und Kursen ist dies zu berücksichtigen.
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen
+und Schüler in der Regel in den verschiedenen Bildungsgängen der Sekundarstufe I
+Niveaustufen durchlaufen bzw. erreichen. Der Unterricht enthält immer auch Angebote auf der
+jeweils höheren Niveaustufe.
+Am Unterricht in Fächern ohne äußere Fachleistungsdifferenzierung nehmen Schülerinnen
+und Schüler mit unterschiedlichen Lernvoraussetzungen teil. Die dem Unterricht zugrunde
+gelegte Niveaustufe ist daher so zu wählen, dass sie für alle Lernenden eine optimale
+Förderung ermöglicht.
+
+a) Oberschule
+In der EBR-Klasse des kooperativen Modells und im A-Kurs des integrativen Modells wird
+im Unterricht eine grundlegende Bildung vermittelt. Den einzelnen Jahrgangsstufen sind
+hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe 7        Niveaustufen D und E
+Jahrgangsstufe 8        Niveaustufen E und F
+Jahrgangsstufe 9        Niveaustufe F
+Jahrgangsstufe 10       Niveaustufen F und G
+
+
+
+
+In der FOR-Klasse des kooperativen Modells sowie im B-Kurs des integrativen Modells
+wird im Unterricht eine erweiterte Bildung vermittelt. Den einzelnen Jahrgangsstufen sind
+hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe 7        Niveaustufe E
+Jahrgangsstufe 8        Niveaustufen E und F
+Jahrgangsstufe 9        Niveaustufen F und G
+Jahrgangsstufe 10       Niveaustufe G
+
+
+
+
+In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass
+sowohl eine grundlegende als auch eine erweiterte Bildung vermittelt wird. Hierbei sind die
+für die Oberschule dargestellten Niveaustufen zugrunde zu legen.
+
+
+
+
+                                                                              Seite 17 von 62
+C Mathematik                                                                BRANDENBURG
+
+
+b) Gesamtschule
+
+Im G-Kurs der Gesamtschule wird zur Sicherung der Durchlässigkeit zum E-Kurs neben der
+grundlegenden Bildung auch die erweiterte Bildung vermittelt. Im E-Kurs der
+Gesamtschule wird zur Sicherung der Durchlässigkeit zum G-Kurs neben der vertieften
+Bildung auch die erweiterte Bildung vermittelt.
+In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass
+eine grundlegende, erweiterte und vertiefte Bildung vermittelt wird. Hierbei sind die für die
+Oberschule und das Gymnasium dargestellten Niveaustufen zugrunde zu legen.
+
+c) Gymnasium
+In den Klassen des Gymnasiums wird im Unterricht eine vertiefte Bildung vermittelt. Den
+einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe 7        Niveaustufe E
+Jahrgangsstufe 8        Niveaustufe F
+Jahrgangsstufe 9        Niveaustufe G
+Jahrgangsstufe 10       Niveaustufe H
+
+
+
+
+Der Unterricht im Fach Mathematik und die nachfolgend beschriebenen Standards richten
+sich nach der innermathematischen Kompetenzentwicklung. Die in Kapitel 2.2 dargestellten
+inhaltsbezogenen Standards sind dabei unmittelbar an die in Kapitel 3 dargestellten Themen
+und Inhalte gekoppelt. Zusätzlich wird die Gestaltung des Unterrichts auf den einzelnen
+Niveaustufen auch durch die prozessbezogenen mathematischen Kompetenzen sowie die
+verschiedenen Anforderungsbereiche bestimmt. (siehe auch Kapitel 3, S. 32 f.)
+Für die Jahrgangsstufen 1 bis 6 kann als Orientierung dienen, dass in der Regel die Niveau-
+stufe B am Ende der Jahrgangsstufe 2, C am Ende der Jahrgangsstufe 4 und D am Ende der
+Jahrgangsstufe 6 erreicht werden soll.
+Die Standards der Niveaustufen E und F sowie G und H sind innerhalb der Doppeljahrgangs-
+stufen 7/8 sowie 9/10 geeignet miteinander zu verzahnen.
+Insbesondere an Gymnasien können durch geeignete inhaltliche Verknüpfungen in der Jahr-
+gangsstufe 8 Vorgriffe auf die in G bzw. H beschriebenen Standards erfolgen.
+Die Niveaustufe H beschreibt die Eingangsvoraussetzungen für die Qualifikationsphase. In
+Klassen, die in 13 Jahren zum Abitur führen, kann sie auch am Ende der Jahrgangsstufe 11
+erreicht werden.
+Die Anforderungen für die jeweiligen Jahrgangsstufen werden im schulinternen Curriculum
+festgelegt. Dies gilt auch für das Wahlpflichtfach Mathematik.
+Beim Unterrichten in allen Schulformen muss berücksichtigt werden, dass Lernende die noch
+nicht bewältigten Niveaustufen in späteren Jahrgangsstufen erreichen können. Deshalb
+beschreiben zwar z. B. die Standards in Stufe D den Übergang in die Sekundarstufe, es ist
+aber möglich, dass auch in Klasse 7 noch auf der Niveaustufe D unterrichtet werden muss.
+
+
+
+
+Seite 18 von 62
+                                                                               C Mathematik
+
+
+
+2.1     Prozessbezogene mathematische Standards
+
+Die Entwicklung der prozessbezogenen Standards durchzieht den gesamten Mathematikunter-
+richt. In Jahrgangsstufe 1 muss mit dieser Entwicklung begonnen werden. Bei jedem Thema
+bis einschließlich Jahrgangsstufe 10 spielen die prozessbezogenen Standards – akzentuiert
+und geeignet auf die Themen verteilt – eine wichtige Rolle. Das Erreichen der Standards ist
+abhängig von Thema, Inhalt, Komplexitätsgrad und Anforderungsbereich, sie können auf jeder
+Niveaustufe und bei jeder Leitidee in verschiedenen Ausprägungen nachgewiesen werden.
+
+
+      [K1] Mathematisch argumentieren
+
+                            Die Schülerinnen und Schüler können
+Fragen stellen, die für   Beispiele oder      Routineargumenta-      Fehler erkennen,
+die Mathematik            Gegenbeispiele      tionen wiedergeben     beschreiben und
+charakteristisch sind     für mathematische   Begründungen           korrigieren
+(Gibt es …?               Aussagen finden     nachvollziehen und     Ergebnisse bezüglich
+Wie verändert sich …?     mathematische       zunehmend              ihres Anwendungs-
+Ist das immer so …?)      Aussagen            selbstständig          kontextes bewerten
+Zusammenhänge und         hinterfragen und    entwickeln             mehrschrittige
+Strukturen erkennen       auf Korrektheit     mehrschrittige         Argumentationen,
+und Vermutungen zu        prüfen              Argumentationen zur    Begründungen und
+mathematischen                                Begründung und zum     Beweise kritisch
+Situationen aufstellen                        Beweisen               hinterfragen
+die Plausibilität von                         mathematischer
+Vermutungen                                   Aussagen entwickeln
+begründen
+
+
+      [K2] Probleme mathematisch lösen
+
+                            Die Schülerinnen und Schüler können
+Aufgaben bearbeiten, zu        Lösungsstrategien              Zusammenhänge erkennen
+denen sie noch keine           (z. B. vom Probieren zum       und Lösungsstrategien auf
+Routinestrategie haben         systematischen Probieren)      ähnliche Sachverhalte
+(sich zu helfen wissen)        entwickeln und nutzen          übertragen
+mathematische Kenntnisse,      heuristische Hilfsmittel zum   Lösungswege reflektieren
+Fähigkeiten und Fertigkeiten   Problemlösen anwenden          Plausibilität von Ergebnissen
+bei der Bearbeitung von                                       überprüfen
+Problemen anwenden
+Probleme selbst formulieren
+
+
+
+
+                                                                             Seite 19 von 62
+C Mathematik
+
+
+    [K3] Mathematisch modellieren
+
+                          Die Schülerinnen und Schüler können
+
+relevante Informationen aus Sachtexten und   Sachaufgaben zu Termen, Gleichungen und
+anderen Darstellungen entnehmen              bildlichen Darstellungen formulieren
+reale Situationen strukturieren und          mathematische Lösungen in Bezug auf die
+vereinfachen                                 Ausgangssituation prüfen und interpretieren
+Sachsituationen in die Sprache der           zu einem mathematischen Modell
+Mathematik übersetzen und entsprechende      verschiedene Realsituationen angeben
+Aufgaben innermathematisch lösen             verwendete Modelle reflektieren
+reale Situationen mit mathematischen
+Modellen beschreiben
+
+
+
+    [K4] Mathematische Darstellungen verwenden
+
+                          Die Schülerinnen und Schüler können
+geeignete Darstellungen für   eine Darstellung in eine      verschiedene Darstellungen
+das Bearbeiten mathema-       andere übertragen             vergleichen
+tischer Sachverhalte und      zwischen verschiedenen        Darstellungen bewerten oder
+Probleme auswählen, nutzen    Darstellungen und             interpretieren
+und entwickeln                Darstellungsebenen
+Darstellungen zielgerichtet   wechseln (übersetzen)
+verändern
+
+
+    [K5] Mit symbolischen, formalen, technischen Elementen der Mathematik umgehen
+
+                          Die Schülerinnen und Schüler können
+Tabellen, Terme,             formale Rechenstrategien       mathematische Hilfsmittel
+Gleichungen und Diagramme (schnelles Kopfrechnen und        und Werkzeuge sachgerecht
+zur Beschreibung von         automatisierte Verfahren)      auswählen und flexibel
+Sachverhalten nutzen         ausführen                      einsetzen
+Variablen und Funktionen zur mathematische Verfahren
+Bearbeitung von Aufgaben     routiniert ausführen
+nutzen                       Kontrollverfahren nutzen
+symbolische und formale      Lösungs- und Kontroll-
+Sprache in natürliche        verfahren hinsichtlich ihrer
+Sprache übersetzen und       Effizienz bewerten
+umgekehrt
+
+
+
+
+Seite 20 von 62
+                                                                             C Mathematik
+
+
+   [K6] Mathematisch kommunizieren
+
+                          Die Schülerinnen und Schüler können
+eigene Vorgehens-       relevante             mathematische Fach-       Aufgaben
+weisen beschreiben,     Informationen aus     begriffe und Zeichen      gemeinsam
+Lösungswege anderer     Sachtexten und        bei der Beschreibung      bearbeiten
+nachvollziehen und      anderen               und Dokumentation         Verabredungen
+gemeinsam Lösungs-      Darstellungen         von Lösungswegen          treffen und
+wege reflektieren       entnehmen und         sachgerecht               einhalten
+mathematische           sich darüber mit      verwenden
+Zusammenhänge           anderen austauschen mathematische
+adressatengerecht       mathematische         Zusammenhänge
+beschreiben             Informationen in      unter Nutzung von
+eigene Problem-         mathematikhaltigen    Fachsprache und
+bearbeitungen und       Darstellungen und in geeigneten Medien
+Einsichten dokumen-     nicht aufbereiteten,  mündlich und
+tieren und darstellen   authentischen Texten schriftlich präsentieren
+                        erfassen, analysieren
+                        und bewerten
+
+
+
+
+                                                                           Seite 21 von 62
+C Mathematik
+
+
+2.2     Inhaltsbezogene mathematische Standards
+
+Die nachfolgend dargestellten inhaltsbezogenen mathematischen Standards gelten in enger
+Verflechtung mit den zuvor dargestellten prozessbezogenen mathematischen Standards.
+Mit der Formulierung „(auch …)“ wird bei gleich formulierten Standards die Progression in der
+Entwicklung der Kompetenzen ausgedrückt
+
+      [L1] Zahlen und Operationen
+
+                                         Zahlvorstellungen
+
+      Zahlen auffassen               Zahlen                      Zahlbeziehungen
+      und darstellen                 ordnen                      beschreiben
+                                 Die Schülerinnen und Schüler können
+      kleine Anzahlen                kleine Anzahlen             Mengen zerlegen
+ A
+      bestimmen                      vergleichen
+      natürliche Zahlen              natürliche Zahlen           Zahlbeziehungen der
+      bis 100 darstellen             bis 100 ordnen              natürlichen Zahlen bis 100
+ B
+                                                                 beschreiben
+
+
+      natürliche Zahlen              natürliche Zahlen           Zahlbeziehungen der
+      bis 1 Million darstellen       bis 1 Million ordnen        natürlichen Zahlen bis
+ C
+                                                                 1 Million beschreiben
+
+
+      Zahlen darstellen              Zahlen ordnen               Zahlbeziehungen
+      (auch gebrochene Zahlen)       (auch gebrochene Zahlen)    beschreiben
+ D
+                                                                 (auch gebrochene Zahlen)
+
+
+      Zahlen darstellen              Zahlen ordnen               Zahlbeziehungen
+      (auch rationale Zahlen)        (auch rationale Zahlen)     beschreiben
+ E
+                                                                 (auch rationale Zahlen)
+
+
+   Zahlen darstellen                 Zahlen ordnen               Zahlenbereiche zueinander
+   (auch Zahlen in                   (auch Zahlen in             in Beziehung setzen
+ F
+   Potenzschreibweise)               Potenzschreibweise)
+
+
+   Zahlen darstellen                 Zahlen ordnen               Zahlenbereiche zueinander
+ G (auch reelle Zahlen)              (auch reelle Zahlen)        in Beziehung setzen
+                                                                 (auch reelle Zahlen)
+      Zahlen sachgerecht             Näherungsverfahren zur      ---
+      darstellen                     Bestimmung reeller Zahlen
+ H
+                                     nutzen
+
+
+
+
+Seite 22 von 62
+                                                                            C Mathematik
+
+
+
+
+                     Operationsvorstellungen und Rechenstrategien
+
+    Operationsvorstellungen                   Rechenverfahren und -strategien
+    entwickeln                                anwenden
+                            Die Schülerinnen und Schüler können
+    additive und subtraktive Handlungen       die Reihenfolge bei additiven Handlungen
+A
+    ausführen                                 vertauschen
+  Zusammenhänge zwischen den vier             Rechenstrategien und Gesetze der
+  Grundrechenoperationen im Zahlenraum        Grundrechenoperationen im Bereich der
+B
+  der natürlichen Zahlen bis 100              natürlichen Zahlen bis 100 situations-
+  beschreiben                                 angemessen nutzen
+  Zusammenhänge zwischen den vier             Rechenstrategien, -verfahren, -regeln
+  Grundrechenoperationen im Zahlenraum        und Gesetze der Grundrechenoperationen
+C
+  der natürlichen Zahlen bis 1 Million        im Bereich der natürlichen Zahlen bis
+  beschreiben                                 1 Million situationsangemessen nutzen
+  Zusammenhänge zwischen den vier          Rechenstrategien, -verfahren, -regeln und
+  Grundrechenoperationen beschreiben       Gesetze der Grundrechenoperationen
+D
+  (auch im Bereich der gebrochenen Zahlen) nutzen
+                                           (auch im Bereich der gebrochenen Zahlen)
+  Zusammenhänge zwischen den                  Rechenstrategien, -verfahren, -regeln und
+  Grundrechenoperationen beschreiben          Gesetze der Grundrechenoperationen
+E
+  (auch im Bereich der rationalen Zahlen)     nutzen
+                                              (auch im Bereich der rationalen Zahlen)
+  Zusammenhänge zwischen den                  erworbene Rechenverfahren und
+  Rechenoperationen beschreiben               -strategien vertiefend auf neue
+F
+  (auch für Potenzen)                         Sachverhalte und im Zusammenhang
+                                              anwenden
+  Zusammenhänge zwischen den                  Rechenstrategien, -verfahren, -regeln und
+G Rechenoperationen beschreiben               -gesetze nutzen
+  (auch im Bereich der reellen Zahlen)        (auch im Bereich der reellen Zahlen)
+  Zusammenhänge zwischen den                  Rechenstrategien, -verfahren, -regeln und
+  Rechenoperationen beschreiben               -gesetze nutzen
+H
+  (auch beim Rechnen mit Potenzen mit         (auch beim Rechnen mit Potenzen mit
+  rationalen Exponenten)                      rationalen Exponenten)
+
+
+
+
+                                                                         Seite 23 von 62
+C Mathematik
+
+
+     [L2] Größen und Messen
+
+                              Größenvorstellungen und Messen
+
+     Vorstellungen zu Größen                  Größenangaben
+     und ihren Einheiten nutzen               bestimmen
+                            Die Schülerinnen und Schüler können
+     ausgewählte Alltagssituationen und       einzelne Objekte bezüglich ihrer Länge
+ A
+     Messinstrumente einander zuordnen        direkt vergleichen
+     die Größen Geld, Zeit und Länge sowie    Längen messen und
+ B
+     ihre Einheiten unterscheiden             Zeitpunkte ablesen
+   die verschiedenen Größen und ihre          Größen messen
+ C Einheiten nutzen                           (auch Massen und Flächeninhalte)
+   (auch Masse)
+   die verschiedenen Größen und ihre          Größen messen
+   Einheiten nutzen                           (auch Volumina und Winkelgrößen)
+ D
+   (auch Flächeninhalt, Volumen und
+   Winkelgrößen)
+   die verschiedenen Größen und ihre          Größen messen und Maße aus
+   Einheiten nutzen                           ausgewählten Darstellungen entnehmen
+ E
+   (auch weitere Einheiten zu den
+   bekannten Größen)
+   die verschiedenen Größen und ihre          Größenangaben bestimmen auch im
+   Einheiten nutzen                           Rahmen neuer Sachverhalte
+ F
+   (auch unter Verwendung von
+   Zehnerpotenzen)
+   die verschiedenen Größen und ihre          Größen messen und Maße aus
+ G Einheiten systematisch beschreiben         Darstellungen entnehmen
+
+
+   die verschiedenen Größen und ihre          Größen bestimmen
+ H Einheiten systematisch beschreiben         (auch bei krummlinig begrenzten Figuren)
+   (auch Winkel im Grad- und Bogenmaß)
+
+
+
+
+Seite 24 von 62
+                                                                             C Mathematik
+
+
+
+
+                                    Rechnen mit Größen
+
+    Größen in Sachzusammenhängen
+    berechnen
+                            Die Schülerinnen und Schüler können
+    ---
+A
+
+    mit Größenangaben zu Geld, Länge und Zeitspanne innerhalb einer Einheit rechnen
+B
+
+  mit Größenangaben rechnen
+C (auch mit Massen und auch in verschiedenen Einheiten)
+
+
+    mit Größenangaben rechnen
+    (auch mit Flächeninhalten, Volumina und Winkelgrößen)
+D
+
+
+  mit Größenangaben rechnen
+  (auch mit zusammengesetzten Größen und auch bei ausgewählten geometrischen
+E
+  Objekten)
+
+
+    mit Größenangaben rechnen
+    (auch bei ausgewählten Pyramiden und zusammengesetzten geometrischen Objekten)
+F
+
+
+  mit Größenangaben rechnen
+G (auch bei Pyramiden, Kegeln und Kugeln sowie zusammengesetzten Körpern
+  und auch mithilfe trigonometrischer Beziehungen)
+  mit Größenangaben rechnen
+H (auch bei schiefen Körpern)
+
+
+
+
+                                                                           Seite 25 von 62
+C Mathematik
+
+
+    [L3] Raum und Form
+
+                                   Geometrische Objekte
+
+    Geometrische Objekte und Beziehungen zwischen             Geometrische Objekte
+    ihre Eigenschaften       geometrischen Objekten           darstellen
+    beschreiben              beschreiben
+                            Die Schülerinnen und Schüler können
+   geometrische Objekte          Lagebeziehungen von          ausgewählte Körperformen
+ A in der Umwelt                 realen Objekten im Raum      und ebene Figuren
+   wiedererkennen                beschreiben                  nachfahren
+   ausgewählte geometrische      Lagebeziehungen              ausgewählte geometrische
+ B Objekte unterscheiden         zwischen geometrischen       Objekte herstellen und
+                                 Objekten beschreiben         zeichnen
+   ausgewählte geometrische      Beziehungen zwischen         Modelle ausgewählter
+   Objekte qualitativ            ausgewählten geome-          Körper herstellen und
+ C
+   beschreiben                   trischen Objekten            weitere ebene geometrische
+                                 beschreiben                  Figuren zeichnen
+   weitere geometrische          Beziehungen zwischen         geometrische Körper (auch
+   Objekte qualitativ            geometrischen Objekten       Prismen) darstellen und
+ D beschreiben                   (auch Winkel) beschreiben    ebene geometrische
+                                 und zur Systematisierung     Figuren zeichnen
+                                 nutzen
+   geometrische Objekte          Beziehungen zwischen         ausgewählte geometrische
+   beschreiben                   geometrischen Objekten       Körper (auch Zylinder)
+ E
+   (auch quantitativ)            beschreiben                  darstellen und ebene
+                                 (auch Sätze über Dreiecke)   Figuren konstruieren
+   geometrische Objekte und      Beziehungen zwischen         geometrische Körper
+   ihre Zusammensetzungen        geometrischen Objekten für   darstellen
+   beschreiben                   Berechnungen nutzen          (auch gerade quadratische
+ F
+   (auch gerade quadratische     (auch gerade quadratische    Pyramiden)
+   Pyramiden)                    Pyramiden und auch in
+                                 Zusammensetzungen)
+   geometrische Objekte          Beziehungen zwischen       geometrische Körper (auch
+   beschreiben                   geometrischen Objekten für Kegel und Pyramiden)
+ G (auch Differenz- und          Argumentationen nutzen     darstellen und zusammen-
+   Teilkörper sowie Differenz-                              gesetzte Körper und
+   und Teilflächen)                                         Differenzkörper skizzieren
+   Eigenschaften von             geometrische Objekte         ---
+ H geometrischen Objekten        klassifizieren
+   begründen
+
+
+
+
+Seite 26 von 62
+                                                                         C Mathematik
+
+
+
+
+                                Geometrische Abbildungen
+
+    Geometrische Abbildungen                  Geometrische Abbildungen
+    und ihre Eigenschaften nutzen             ausführen
+
+
+                            Die Schülerinnen und Schüler können
+    deckungsgleiche Figuren finden            Bewegungsanweisungen ausführen
+A
+
+
+  Lageveränderungen umgangssprachlich         Lageveränderungen in Ebene und Raum
+B beschreiben                                 ausführen
+
+
+    Kongruenzabbildungen erkennen             Lage- und Größenveränderungen bei
+                                              geometrischen Figuren ausführen
+C
+
+
+    Eigenschaften von Kongruenzabbildungen    ausgewählte Kongruenzabbildungen
+    beschreiben und nutzen                    ausführen
+D
+
+
+
+  Eigenschaften von Abbildungen nutzen        ausgewählte Abbildungen ausführen
+  (auch Vergrößerungen und                    (auch Vergrößerungen und
+E
+  Verkleinerungen)                            Verkleinerungen)
+
+
+    Eigenschaften von Abbildungen auf neue    ausgewählte Abbildungen ausführen (auch
+    Sachverhalte übertragen                   mithilfe von Geometriesoftware)
+F
+
+
+
+  erworbene Kompetenzen vertiefend in         Abbildungen von räumlichen Figuren
+  komplexeren Zusammenhängen                  ausführen
+G anwenden
+
+
+
+  Eigenschaften von Abbildungen für           ---
+H Argumentationen nutzen
+
+
+
+
+                                                                       Seite 27 von 62
+C Mathematik
+
+
+     [L4] Gleichungen und Funktionen
+
+                                     Terme und Gleichungen
+
+     Terme und Gleichungen                       Gleichungen und Gleichungssysteme
+     darstellen                                  lösen
+
+
+                               Die Schülerinnen und Schüler können
+     Mengen mit vorgegebener Anzahl von          Mengenunterschiede ausgleichen
+ A
+     Objekten legen
+     Terme und Gleichungen mit einer             einfache Gleichungen mit einer
+ B
+     Rechenoperation darstellen                  Rechenoperation lösen
+   Terme und Gleichungen darstellen              einfache Gleichungen lösen
+ C (auch mit mehreren Rechenoperationen)         (auch mit mehreren Rechenoperationen)
+
+
+   Terme und Gleichungen darstellen              einfache Gleichungen lösen
+ D (auch im Bereich der gebrochenen Zahlen)      (auch im Bereich der gebrochenen Zahlen)
+
+
+     Terme und Gleichungen darstellen            lineare Gleichungen und Verhältnis-
+     (auch im Bereich der rationalen Zahlen)     gleichungen lösen
+ E
+                                                 (auch mit Äquivalenzumformungen)
+
+
+   Terme und Gleichungen darstellen              Gleichungen und lineare
+ F (auch lineare Gleichungssysteme)              Gleichungssysteme lösen
+
+
+     Terme und Gleichungen darstellen            Gleichungen (auch quadratische
+     (auch für quadratische Zusammenhänge)       Gleichungen) und lineare
+                                                 Gleichungssysteme lösen
+ G
+
+
+
+
+     Terme und Gleichungen darstellen            Gleichungen (auch Potenzgleichungen mit
+     (auch für potenzielle und exponentielle     rationalen Exponenten und
+     Zusammenhänge)                              Exponentialgleichungen) und lineare
+                                                 Gleichungssysteme lösen
+ H
+
+
+
+
+Seite 28 von 62
+                                                                             C Mathematik
+
+
+
+
+                                Zuordnungen und Funktionen
+
+    Zuordnungen und              Zuordnungen und               Eigenschaften funktio-
+    Funktionen                   Funktionen                    naler Zusammenhänge
+    untersuchen                  darstellen                    nutzen
+                              Die Schülerinnen und Schüler können
+    Objekte ordnen               Musterfolgen nachbilden       in Musterfolgen Lücken
+A
+                                                               schließen
+    Zuordnungen und Muster       Zuordnungen und Muster        Muster fortsetzen
+B
+    erkennen                     herstellen
+  Bildungsregeln für Zuord-      Zuordnungen und Muster        einzelne Werte zu
+C nungen und Muster              verschieden darstellen        Zuordnungen ermitteln
+  beschreiben
+  direkt proportionale Zuord-    Zuordnungen darstellen        zu direkt proportionalen
+D nungen von anderen Zu-         (auch direkt proportionale)   Zuordnungen Berechnungen
+  ordnungen unterscheiden                                      durchführen
+  Eigenschaften von             zwischen verschiedenen         zu Zuordnungen (auch
+  Zuordnungen beschreiben       Darstellungen von Zuord-       indirekt proportionalen)
+E
+  (auch indirekt proportionale) nungen (auch indirekt          Berechnungen durchführen
+                                proportionalen) wechseln
+  Eigenschaften von linearen     zwischen verschiedenen        zu linearen Funktionen
+F Funktionen beschreiben         Darstellungen von linearen    Berechnungen durchführen
+                                 Funktionen wechseln
+  Eigenschaften von              zwischen verschiedenen        die verschiedenen
+  Funktionen beschreiben         Darstellungen von             Funktionstypen sach-
+  (auch quadratische und         Funktionen wechseln           gerecht anwenden
+G trigonometrische Funktionen    (auch quadratische und        (auch quadratische und
+  sowie Exponential-             trigonometrische Funktionen   trigonometrische Funktionen
+  funktionen)                    sowie Exponential-            sowie Exponential-
+                                 funktionen)                   funktionen)
+  Eigenschaften von Funktio-     unterschiedliche Darstel-     die verschiedenen
+  nen beschreiben                lungen von Funktionen         Funktionstypen sachgerecht
+  (auch Potenz-, Exponential-    (auch Potenz- und             anwenden
+  und ausgewählte                Exponentialfunktionen)        (auch Potenzfunktionen mit
+H
+  ganzrationale Funktionen)      interpretieren und zwischen   ganzzahligen und positiven
+  und Umkehrfunktionen           ihnen wechseln                rationalen Exponenten
+  angeben                                                      sowie Exponential-
+                                                               funktionen)
+
+
+
+
+                                                                           Seite 29 von 62
+C Mathematik
+
+
+     [L5] Daten und Zufall
+
+                                             Daten
+
+     Daten                      Daten                        Statistische Erhebungen
+     erheben                    darstellen                   auswerten
+                             Die Schülerinnen und Schüler können
+     Objekte mit vorgegebenen   Objekte sortieren            Anzahlen sortierter Objekte
+ A
+     Eigenschaften finden                                    vergleichen
+     Daten sammeln              Daten in vorgegebener Form Informationen aus
+ B
+                                darstellen                 Datendarstellungen ablesen
+     Daten sammeln und          verschiedene                 Informationen/Kennwerte
+     strukturieren              Darstellungsformen für       aus verschiedenen
+ C
+                                Daten nutzen                 Darstellungsformen
+                                                             vergleichen
+   Daten sammeln und            Daten darstellen             weitere Kennwerte von
+ D strukturieren                (auch Messwerte)             Datenerhebungen
+   (auch Messwerte)                                          bestimmen
+   statistischen Erhebungen     Daten darstellen             verschiedene Kennwerte
+ E nach Vorgaben planen und     (auch Kreisdiagramme)        zueinander in Beziehung
+   durchführen                                               setzen
+   statistische Erhebungen      Daten darstellen             statistische Erhebungen
+ F planen und durchführen       (auch mithilfe von           untersuchen
+                                Tabellenkalkulation)
+   statistische Erhebungen   Daten präsentieren              statistische Erhebungen
+   unter Nutzung von                                         kritisch bewerten
+ G
+   technischen Medien planen
+   und durchführen
+     ---                        ---                          verschiedene Kennwerte
+ H                                                           interpretieren
+
+
+
+
+Seite 30 von 62
+                                                                            C Mathematik
+
+
+
+
+                         Zählstrategien und Wahrscheinlichkeiten
+
+    Zählstrategien                             Wahrscheinlichkeiten von Ereignissen
+    anwenden                                   bestimmen
+                            Die Schülerinnen und Schüler können
+    verschiedene Anordnungen herstellen        das Zufallsgerät Würfel im Spiel erproben
+A
+
+    Lösungen zu kombinatorischen               einfache Zufallsexperimente durchführen
+B
+    Fragestellungen durch Aufzählen darstellen und Ergebnisse ermitteln
+    Lösungen von kombinatorischen Fragen       Ergebnisse bei einstufigen Zufalls-
+    systematisch darstellen                    experimenten beschreiben und nach
+C
+                                               gemeinsamen Eigenschaften
+                                               zusammenfassen
+  Lösungen zu kombinatorischen Fragen          die relative Häufigkeit von Ergebnissen
+D begründen                                    bei einstufigen Zufallsexperimenten und
+                                               Spielen inhaltlich einschätzen
+    Baumdiagramme erstellen und nutzen         Wahrscheinlichkeiten von Ereignissen
+E                                              bei zweistufigen Zufallsexperimenten
+                                               vergleichen
+  erworbene Kompetenzen vertiefend auf         erworbene Kompetenzen vertiefend auf
+F weitere kombinatorische Fragestellungen      weitere Zufallsexperimente anwenden
+  anwenden
+  kombinatorische Überlegungen zur             Wahrscheinlichkeiten von Ereignissen
+  Berechnung von Wahrscheinlichkeiten          bestimmen
+G
+  nutzen                                       (auch bei mehrstufigen Zufalls-
+                                               experimenten)
+  Zählstrategien zum Bestimmen von             Wahrscheinlichkeiten von Ereignissen
+H Anzahlen einsetzen                           ermitteln und vergleichen
+                                               (auch auf der Basis von Simulationen)
+
+
+
+
+                                                                          Seite 31 von 62
+C Mathematik
+
+
+3      Themen und Inhalte
+
+Die fünf Leitideen des Mathematikunterrichts „Zahlen und Operationen“, „Größen und
+Messen“, „Raum und Form“, „Gleichungen und Funktionen“ sowie „Daten und Zufall“ stellen
+die Themenfelder dar, die den Unterricht auf jeder Niveaustufe inhaltlich prägen. Sie gliedern
+sowohl die in Kapitel 2 dargestellten Standards als auch die im Folgenden beschriebenen
+Inhalte. Die Inhalte wiederum konkretisieren die in Kapitel 2 dargestellten Standards. Die
+Tabellenstruktur aus Kapitel 2 bleibt dabei erhalten.
+Die in den Tabellenspalten untereinanderstehenden Felder stellen das kumulative Lernen auf
+den verschiedenen Niveaustufen dar. Die Inhalte der vorangehenden Stufen sind in der Regel
+inhaltliche Voraussetzung für die nachfolgenden Stufen. In der Formulierung „(auch…)“
+werden speziell Inhalte genannt, die im Vergleich zu vorhergehenden Stufen hinzukommen.
+Die in Stufe B beschriebenen Inhalte sind notwendig zur Erreichung der Kompetenzen in der
+Schuleingangsphase bzw. Schulanfangsphase. Die Niveaustufe C orientiert sich an den
+Bildungsstandards der KMK für die Primarstufe. Für den Übergang von der Grundschule in die
+Integrierte Sekundarschule bzw. in die Oberschule oder das Gymnasium am Ende der
+Jahrgangsstufe 6 dienen die Inhalte der Niveaustufe D als Orientierung. Die in Stufe G
+beschriebenen Inhalte sind notwendig zur Erlangung der Kompetenzen für den MSA (in Berlin)
+bzw. die FOR (in Brandenburg). In Stufe G sind auch die Inhalte zur Erlangung des EBBR (in
+Berlin) bzw. EBR (in Brandenburg) enthalten. Stufe H beschreibt die Eingangs-
+voraussetzungen für die zweijährige Form der gymnasialen Oberstufe.
+Für Lernende, die den Übergang in die zweijährige gymnasiale Oberstufe anstreben, sind Teile
+der Niveaustufe F und G bereits in der Doppeljahrgangsstufe 7/8 so zu realisieren, dass auch
+Stufe H in der Doppeljahrgangsstufe 9/10 vollständig erreicht werden kann.
+Die ausgewiesenen Themenbereiche werden für Schülerinnen und Schüler, die wegen einer
+erheblichen und langandauernden Beeinträchtigung ihres Lern- und Leistungsverhaltens
+sonderpädagogische Förderung erhalten oder für die sonderpädagogischer Förderbedarf im
+Förderschwerpunkt Lernen 1 festgestellt wurde, schülerbezogen berücksichtigt. Sie werden
+entsprechend der Lebensbedeutsamkeit für die Schülerinnen und Schüler ausgewählt. In der
+Leitidee „Zahlen und Operationen“ werden hierfür Inhalte in der Form „[ggf. …]“ genannt.
+Der Kompetenzerwerb erfolgt in einem permanenten Zusammenspiel von prozess- und
+inhaltsbezogenen mathematischen Kompetenzen unter Berücksichtigung der drei verschie-
+denen Anforderungsbereiche. Die Inhalte sind dabei immer im Kontext prozessbezogener
+mathematischer Kompetenzen zu sehen. Dabei spielen auch die Vorgaben aus den Basis-
+curricula zur Sprach- und Medienbildung eine wichtige Rolle. Solche Beziehungen sowie die
+Vereinbarungen bezüglich der Verwendung der Fachsprache sollten im schulinternen
+Curriculum sichtbar werden.
+Zur Herausbildung einer mathematischen Allgemeinbildung ist es unerlässlich, die
+Verbindungen und Bezüge der verschiedenen mathematischen Inhalte untereinander
+aufzuzeigen. Dies sollte nicht nur aus innermathematischer Sicht erfolgen, sondern
+insbesondere auch durch die Anwendung von mathematischen Methoden in Wissenschaft und
+Gesellschaft. Die Inhalte der einzelnen Tabellenfelder zu jeder Leitidee sollen deshalb nicht
+nebeneinander, sondern stets in sinnvoller Verknüpfung – auch über mehrere Leitideen
+hinweg – unterrichtet werden. Auch dazu sind entsprechende Festlegungen im schulinternen
+Curriculum erforderlich.
+
+
+
+
+1
+  In Brandenburg sind diese Schülerinnen und Schüler dem Bildungsgang Förderschule Lernen gemäß
+§ 30 BbgSchulG zugeordnet.
+
+
+Seite 32 von 62
+                                                                                  C Mathematik
+
+
+Die dargestellten mathematischen Inhalte sind auch in passende, für Schülerinnen und
+Schüler relevante bzw. transparente Sachkontexte einzubetten. Bei der Auswahl der Kontexte
+sollen die vielfältigen Lebenswelten und der unterschiedliche Stand der Kompetenzentwicklung
+berücksichtigt werden. Verknüpfungen mit Kontexten anderer Fächer und den übergreifenden
+Themen sind ggf. zu nutzen. Dazu gehören insbesondere auch Themen in globalen
+Zusammenhängen, aktuelle Bezüge, Verbraucherbildung, Berufsorientierung u. a. Die
+verwendeten Kontexte sollen ein gemeinsames Arbeiten auf mehreren Niveaustufen
+ermöglichen.
+Die Unterrichtsgestaltung soll von der gleichberechtigten Teilhabe aller Lernenden,
+unabhängig von ihrer Herkunft, Kultur, Sprache, Religion, Weltanschauung, ihrer körperlichen
+und geistigen Potenziale, ihrem Geschlecht, ihrer sexueller Orientierung, ihrem Alter sowie
+wirtschaftlichem und sozialem Status geprägt sein. In diesem Sinne leistet das Fach seinen
+Beitrag dazu, dass Schülerinnen und Schüler sich zunehmend aktiv für einen vorurteilsfreien
+und respektvollen Umgang der Menschen untereinander einsetzen können.
+Der Unterricht muss eine individuelle Lernentwicklung ermöglichen, die z. B. durch
+Lernbegleitinstrumente wie Lerntagebücher, Kompetenzraster oder Selbsteinschätzungen
+gestützt wird. Die Verwendung von Diagnoseinstrumenten erhält in diesem Zusammenhang
+eine erhöhte Bedeutung für eine individualisierte, verständnisorientierte Unterrichtsgestaltung.
+Auf der Basis der Diagnose ist eine Differenzierung im Mathematikunterricht in vielerlei
+Hinsicht möglich, z. B. können Arbeitsformen, Zeiten, Umfänge, Anforderungsniveaus sowie
+Aufgabenformate variiert werden.
+Die Kontexte und Inhalte bilden die Grundlage für differenzierte Aufgabenstellungen und eine
+Materialauswahl, die alle Schülerinnen und Schüler herausfordern. Die Lernenden erhalten
+Gelegenheit, ihre Fähigkeiten und Fertigkeiten im Umgang mit den Themenbereichen und
+Inhalten allein und in der Zusammenarbeit mit anderen unter Beweis zu stellen. Sie erfahren
+dabei, in welchem Maße sie die gesetzten Standards erreichen bzw. was sie tun können, um
+ihre Kompetenzen zu vertiefen und zu erweitern. Dabei werden u. a. Kooperation, Eigen-
+verantwortlichkeit für das Lernen und Selbstständigkeit gefördert.
+Die Organisation vielfältiger Gesprächsanlässe innerhalb der gesamten Lerngruppe ist
+unerlässlich, um sich z. B. über Denk- und Vorgehensweisen auszutauschen, verschiedene
+Arbeitsergebnisse zu diskutieren und die Struktur und Verwendung von Arbeitsmaterialien zu
+besprechen.
+In der Auseinandersetzung mit den mathematischen Inhalten und durch die Kommunikation
+darüber entwickeln die Schülerinnen und Schüler schrittweise individuelle Vorstellungen von
+mathematischen Begriffen und Zusammenhängen. In dem Maße, wie diese Vorstellungen
+präziser und komplexer werden, ergibt sich die Notwendigkeit, mathematische Fachbegriffe zu
+verwenden und übliche Konventionen einzuhalten. Die Lehrkräfte geben ausreichend
+Gelegenheit zur Kommunikation zwischen Schülerinnen und Schülern und lassen zu, dass
+diese sowohl in der Umgangssprache als auch in der Fachsprache, in Wort- und
+Symbolsprache geführt wird. In Erarbeitungsphasen, bei offenen Fragestellungen, Problem-
+löseprozessen und Untersuchungen mit Kontextbezug ist die Forderung nach vollständiger
+und korrekter Verwendung der mathematischen Fachsprache nicht immer notwendig.
+In einem zeitgemäßen Mathematikunterricht können alle Medien und Hilfsmittel genutzt
+werden, die für das Lernen und das Anwenden von Mathematik infrage kommen. Besondere
+Bedeutung haben die Medien und Hilfsmittel, die forschendes oder experimentelles Arbeiten
+ermöglichen, die Sachverhalte, Zusammenhänge und Beziehungen visuell darstellen oder die
+im Hinblick auf die Berufswelt besonders wichtig sind. Gleichzeitig leistet der
+Mathematikunterricht einen Beitrag zur Herausbildung grundlegender Kulturtechniken, z. B.
+von Handschrift, manuellem Geschick und Kopfrechnen.
+
+
+
+
+                                                                                Seite 33 von 62
+C Mathematik
+
+
+3.1     Themenbereich „Zahlen und Operationen“ – Niveaustufen A, B, C
+
+                                           Zahlvorstellungen
+
+      Zahlen auffassen                  Zahlen                          Zahlbeziehungen
+      und darstellen                    ordnen                          beschreiben
+   schnelles Erfassen von Mengen        Aufsagen der Zahlreihe bis 10   Zerlegen einer Gesamtmenge
+   (z. B. strukturierte Mengenbilder)   Vergleichen (mehr als,          in Teilmengen
+ A Übersetzen zwischen kleinen          weniger als, gleich viel) von
+   natürlichen Zahlen als Menge         Mengen bis 10 (z. B. durch
+   und Wort und umgekehrt               1:1-Zuordnung der Elemente)
+   Schreiben von Ziffern                Zählen bis 100 [ggf. bis 20] in  Automatisieren der additiven
+   Auffassen und Darstellen von         verschiedenen Schritten vorwärts Zahlzerlegungen bis 10 sowie
+   natürlichen Zahlen bis 100 [ggf.     und rückwärts                    der Ergänzung bis 10
+   bis 20] als strukturierte Menge,     Vergleichen und Ordnen von       additives Zerlegen von
+   als Bild, als Wort und mit Ziffern   natürlichen Zahlen bis 100 [ggf. natürlichen Zahlen bis 100
+   Wechsel zwischen den                 bis 20] stellenweise sowie am    [ggf. bis 20]
+   Zahldarstellungen natürlicher        Zahlenstrahl und Zahlenstrich    Finden und Beschreiben von
+   Zahlen bis 100 [ggf. bis 20]         (auch mit Relationszeichen)      Gemeinsamkeiten und
+   Bündeln und Entbündeln von           Angeben von Vorgänger,           Unterschieden zwischen
+   Mengen bis 100 [ggf. bis 20]         Nachfolger und                   gegebenen Zahlen
+ B                                      Nachbarzehnern                   Unterscheiden von geraden
+   Erkennen von Stellenwerten und
+   Verwenden des Zehnersystems                                           und ungeraden Zahlen
+   Schätzen von Anzahlen bis 100
+   [ggf. bis 20]
+
+
+
+
+   Darstellen von natürlichen Zahlen Zählen bis 1 Mio. [ggf. bis        Prüfen und Begründen der
+   bis 1 Mio. [ggf. bis 10 000] als     10 000] in verschiedenen        Teilbarkeit natürlicher Zahlen
+   Bild, als Wort, mit Ziffern          Schritten vor- und rückwärts    (z. B. 27 ist nicht durch 5
+   (auch in der Stellenwerttafel)       Vergleichen und Ordnen von      teilbar, weil beim Teilen ein
+   Wechsel zwischen den                 natürlichen Zahlen bis 1 Mio.   Rest bleibt)
+   Zahldarstellungen natürlicher        [ggf. bis 10 000]               Nutzen der Regeln für die
+   Zahlen bis 1 Mio. [ggf. bis          Angeben der Nachbarzahlen       Teilbarkeit durch 2, 5, 10 und
+   10 000]                              (Nachbarhunderter,              100
+   Erklären der Stellenwerte und        Nachbartausender etc.)          Angeben von Vielfachen und
+ C deren  Zusammenhänge        mithilfe Anwenden von Rundungsregeln     Teilern einer Zahl
+   des Prinzips der wiederholten                                        Nennen und Erkennen von
+   Bündelung                                                            Quadratzahlen (bis 100)
+   Schätzen von Anzahlen größer
+   als 100 mithilfe von Rastern und
+   Vergleichsmengen
+
+
+
+
+Seite 34 von 62
+                                                                                        C Mathematik
+
+
+
+
+                         Operationsvorstellungen und Rechenstrategien
+
+   Operationsvorstellungen                      Rechenverfahren und -strategien
+   entwickeln                                   anwenden
+  Ausführen von Handlungen nach                 Vertauschen der Reihenfolge beim Hinzufügen und
+  dynamischen Situationsbeschreibungen          Vergleichen der dabei entstandenen Gesamtmengen
+A des Hinzufügens und des Wegnehmens
+  mit Material (z. B. Hinzulegen eines Stifts
+  zu anderen)
+
+  Entwickeln von Vorstellungen zu den           Beschreiben von Aufgabenfamilien
+  Grundrechenoperationen in dynamischen         (z. B. 5 + 3 = 8 │ 3 + 5 = 8 │ 8 – 5 = 3 │ 8 – 3 = 5)
+  und statischen Situationen:                   unter Nutzung der Umkehroperationen und des
+  − zur Addition                                Vertauschungsgesetzes (Kommutativgesetz) bei der
+    (Hinzufügen, Vereinigen)                    Addition und Multiplikation
+  − zur Subtraktion                             Nutzen, Darstellen und Beschreiben operativer
+    (Wegnehmen, Unterschied)                    Strategien für das (gestützte) Kopfrechnen:
+  − zur Multiplikation                          − Verdoppeln und Halbieren
+    (wiederholtes Hinzufügen gleicher           − Nachbaraufgaben (z. B. Verdoppeln plus eins)
+    Anzahlen, Erfassen multiplikativer          − schrittweises Rechnen bei der Addition und
+B   Strukturen)                                    Subtraktion über 10 hinaus
+  − zur Division (Aufteilen, Verteilen)         − Analogien bei gleichartigen Additionen und
+   Wechseln zwischen Rechengeschichte,             Subtraktionen (z. B. 12 + 3 mithilfe von 2 + 3)
+   Notation, Handlung und Bild zu den           − Zerlegungsstrategien
+   Grundrechenoperationen im Zahlenraum         flexibles und automatisiertes Lösen der Aufgaben des
+   der natürlichen Zahlen bis 100 [ggf. bis 20] „kleinen 1+1“ (bis Summe 20)
+   Beschreiben von Zusammenhängen               Berechnen von Produkten über auswendig gelernte
+   zwischen den vier Grundrechen-               Kernaufgaben (z. B. 6∙7 = 6∙5 + 6∙2)
+   operationen im Zahlenraum der natürlichen
+   Zahlen bis 100 [ggf. bis 20]                 Durchführen von Kontrollrechnungen unter Nutzung
+   (z. B. Umkehroperationen)                    der Umkehroperationen
+
+  Sichern von Vorstellungen zu den              Nutzen, Darstellen, Beschreiben von Zahlbezie-
+  Grundrechenoperationen in statischen und      hungen und Rechengesetzen für vorteilhaftes
+  dynamischen Situationen im Zahlenraum         Rechnen und halbschriftliche Rechenverfahren
+  der natürlichen Zahlen bis 1 Mio. [ggf. bis   (Kommutativgesetz, Assoziativgesetz, Distributiv-
+  10 000]                                       gesetz, gleich- und gegensinniges Verändern,
+  Wechseln zwischen Rechengeschichte,           „kleines 1x1“ und bekannte Teilbarkeitsregeln)
+  Notation, Handlung, Bild zu den Grund-        Verknüpfen mehrerer Grundrechenoperationen unter
+  rechenoperationen im Zahlenraum der           Beachtung der Punkt-vor-Strich-Regel und der
+  natürlichen Zahlen bis 1 Mio. [ggf. bis       Klammerregeln im Bereich der natürlichen Zahlen
+  10 000]                                       Nutzen der Teilbarkeitsregeln (für 2, 5, 10 und 100)
+C Darstellen und Beschreiben der
+                                                situationsangemessenes Verwenden von bekannten
+  Zusammenhänge zwischen den vier               Rechenverfahren und -strategien
+  Grundrechenoperationen im Zahlenraum
+                                                flexibles automatisiertes Lösen der Aufgaben des
+  der natürlichen Zahlen bis 1 Mio. [ggf. bis
+                                                „kleinen 1x1“
+  10 000]
+                                                Ausführen der schriftlichen Rechenverfahren der
+  Beschreiben der vier Grundrechen-
+                                                Addition, Subtraktion und Multiplikation sowie
+  operationen (auch unter Verwendung der
+                                                Beschreiben und Erklären einzelner Rechenschritte in
+  Fachbegriffe)
+                                                nachvollziehbarer Weise
+                                                Überschlagen, Abschätzen und Überprüfen von
+                                                Rechenergebnissen
+
+
+
+
+                                                                                      Seite 35 von 62
+C Mathematik
+
+
+       Themenbereich „Zahlen und Operationen“ – Niveaustufen D, E
+
+                                        Zahlvorstellungen
+
+    Zahlen auffassen                Zahlen                          Zahlbeziehungen
+    und darstellen                  ordnen                          beschreiben
+   Beschreiben der Anteile von      Anordnen von gebrochenen        Nutzen der Teilbarkeitsregeln
+   Ganzen als gemeine Brüche und    Zahlen am Zahlenstrahl          (auch für die Teiler 3, 4, 6, 9,
+   Abgrenzen von Verhältnissen      Vergleichen und Ordnen von      25 und 50) zum Prüfen
+   Übersetzen von gebrochenen       gemeinen Brüchen durch          natürlicher Zahlen auf
+   Zahlen (gemeine Brüche und       direktes Vergleichen,           Teilbarkeit
+   Dezimalzahlen) zwischen Bild,    gleichnamig Machen und am       Erkennen von Primzahlen
+   Wort und Symbol                  Zahlenstrahl                    Angeben von Vielfachen
+   Erweitern der Stellenwerttafel   Vergleichen und Ordnen          großer Zahlen
+   (nach rechts)                    von Dezimalzahlen               Angeben gemeinsamer Teiler
+   Kürzen und Erweitern von         stellenweise und am             und Vielfache zweier
+ D Brüchen                          Zahlenstrahl                    natürlicher Zahlen
+   Verwenden gemischter Zahlen      Runden von Dezimalzahlen        Erläutern der Notwendigkeit der
+   nur in Alltagszusammenhängen     Erklären der Dichtheit der      Zahlenbereichserweiterung
+                                    gebrochenen Zahlen auch am      bezüglich der gebrochenen
+                                    Zahlenstrahl                    Zahlen anhand von Beispielen
+                                    (im Sinne von: Zwischen zwei    Beschreiben von
+                                    gebrochenen Zahlen ist immer    Zahlbeziehungen innerhalb
+                                    noch eine weitere.)             eines Zahlenbereiches (auch
+                                                                    unter dem Aspekt der
+                                                                    Teilbarkeit) und zwischen
+                                                                    natürlichen und gebrochenen
+                                                                    Zahlen
+   Beschreiben von Prozenten als Vergleichen und Ordnen von         Beschreiben der Beziehung
+   weitere Darstellungsform für     − Prozentangaben                zwischen Prozentsatz,
+   gebrochene Zahlen                − rationalen Zahlen             Prozentwert und Grundwert
+   Identifizieren von negativen     Runden von rationalen Zahlen    Verwenden von Betrag und
+   Zahlen (negative ganze Zahlen    Erklären der Dichtheit der      Gegenzahl
+   und negative gebrochene          rationalen Zahlen auch an der   Erläutern die Notwendigkeit der
+   Zahlen) und Verknüpfen mit       Zahlengeraden                   Zahlenbereichserweiterung
+   Alltagssituationen                                               bezüglich der negativen Zahlen
+   Darstellen von rationalen Zahlen                                 anhand von Beispielen
+ E mit Ziffern und an der                                           Beschreiben der Beziehung
+   Zahlengeraden (Erweiterung des                                   zwischen der Menge der
+   Zahlenstrahls zur Zahlen-                                        ganzen Zahlen und der Menge
+   geraden)                                                         der natürlichen Zahlen
+   Darstellen des Ergebnisses einer
+   Division als gebrochene Zahl und
+   als Dezimalzahl (auch
+   periodische Dezimalzahlen)
+   Unterscheiden von Vorzeichen
+   bei rationalen Zahlen und
+   Rechenzeichen
+
+
+
+
+Seite 36 von 62
+                                                                                    C Mathematik
+
+
+
+
+                       Operationsvorstellungen und Rechenstrategien
+
+   Operationsvorstellungen                    Rechenverfahren und -strategien
+   entwickeln                                 anwenden
+  Zuordnen der Vorstellungen der Anteil-      Prüfen und Übertragen der operativen Strategien
+  bildung zur Multiplikation und der des      und der schriftlichen Rechenverfahren für Addition,
+  Aufteilens zur Division im Bereich der      Subtraktion, Multiplikation und Division natürlicher
+  gebrochenen Zahlen                          Zahlen auf das Rechnen mit gebrochenen Zahlen
+  Wechseln zwischen Sachverhalt, Notation,    situationsangemessenes Verwenden der
+  Handlung, Bild zu den Grundrechen-          Kopfrechenstrategien und der Rechenverfahren
+  operationen im Bereich der gebrochenen      Verknüpfen mehrerer Grundrechenoperationen unter
+  Zahlen                                      Beachtung der Punkt-vor-Strich-Regel und der
+  Prüfen der Übertragbarkeit der bisherigen   Klammerregeln im Zahlenbereich der gebrochenen
+  Vorstellungen zu den Grundrechen-           Zahlen
+D operationen auf den Bereich der             Ausführen der schriftlichen Rechenverfahren für
+  gebrochenen Zahlen                          natürliche Zahlen (auch der Division mit
+  Unterscheiden zwischen Erweitern und        ausgewählten zweistelligen Divisoren)
+  Vervielfachen bzw. Kürzen und Dividieren    Ausführen und Beschreiben des Rechnens mit
+  eines Bruches                               gemeinen Brüchen
+  Verwenden von gebrochenen Zahlen als        Angeben von Ergebnissen mit sinnvoller
+  Operator (z. B. zwei Drittel von 60 Euro)   Genauigkeit (auch bei Dezimalzahlen)
+                                              Überschlagen, Abschätzen und Überprüfen von
+                                              Rechenergebnissen (auch im Bereich der
+                                              gebrochenen Zahlen)
+
+
+  Erweiterung der Vorstellungen zu den        Nutzen, Darstellen und Beschreiben von Strategien
+  Grundrechenoperationen im Bereich der       und Gesetzen bei der Prozentrechnung
+  rationalen Zahlen im Sinne von:             (auch Dreisatz und Verhältnisgleichungen)
+  − Addition und Subtraktion als Änderung     Prüfen und Übertragen der bekannten operativen
+     eines Zustandes                          Strategien, Gesetze und Verfahren auf das Rechnen
+  − Addition als Zusammenfassung von          mit rationalen Zahlen (auch unter Verwendung eines
+     mehreren Änderungen                      Taschenrechners)
+  − Subtraktion als Unterschied               Durchführen von einfachen Rechnungen und
+     (z. B. Abstand zwischen –2 und 5)        Überschlagsrechnungen mit rationalen Zahlen im
+  − Subtraktion als Addition der Gegenzahl    Kopf
+E
+  − Multiplikation mit (–1) als Inversion
+                                              Angeben von Ergebnissen mit sinnvoller
+     (Spiegelung am Nullpunkt)
+                                              Genauigkeit (auch beim Rechnen mit rationalen
+  − Division als Multiplikation mit dem       Zahlen)
+     Kehrwert der rationalen Zahl
+                                              Überschlagen, Abschätzen und Überprüfen von
+  Wechseln der Darstellungsformen             Rechenergebnissen (auch im Bereich der rationalen
+  (Sachkontexte, Notation, Bild) zu den       Zahlen)
+  Grundrechenoperationen im Bereich der
+  rationalen Zahlen.
+  Nutzen von Prozentsätzen als Operatoren
+
+
+
+
+                                                                                 Seite 37 von 62
+C Mathematik
+
+
+       Themenbereich „Zahlen und Operationen“ – Niveaustufen F, G, H
+
+                                         Zahlvorstellungen
+
+     Zahlen auffassen                 Zahlen                         Zahlbeziehungen
+     und darstellen                   ordnen                         beschreiben
+   Darstellen von Potenzen, ins-      Vergleichen und Ordnen         Beschreiben der Beziehung
+   besondere Zehnerpotenzen mit       von rationalen Zahlen (auch    der Menge der rationalen
+   natürlichem Exponenten             Potenzen mit natürlichen       Zahlen zu allen bereits
+ F Darstellen von rationalen Zahlen   Exponenten)                    bekannten Zahlenbereichen
+   (auch mithilfe von Zehner-         Runden von rationalen Zahlen
+   potenzen mit natürlichen           (auch in Potenzschreibweise)
+   Exponenten)
+     Nennen von Pi und einiger        Vergleichen und Ordnen von     Untersuchen und Beschreiben
+     Quadratwurzeln natürlicher       reellen Zahlen über            der Teilmengenbeziehungen
+     Zahlen als Beispiele für         Näherungswerte                 aller bisher bekannten
+     irrationale Zahlen               sachgerechtes Runden von       Zahlenbereiche
+     Angeben von Näherungswerten      reellen Zahlen                 Erweitern der bisher
+     für reelle Zahlen                                               behandelten Zahlenbereiche
+                                                                     auf die reellen Zahlen
+ G
+
+
+
+
+   angemessenes Verwenden             Beschreiben und Reflektieren   ---
+   ganzer, rationaler und reeller     eines Verfahrens zur
+   Zahlen zur Darstellung             Einschachtelung von
+   mathematischer Situationen         Quadratwurzeln oder Pi
+ H situationsangemessenes
+   Darstellen von Zahlen als
+   Brüche, Dezimalzahlen,
+   Prozentzahlen und in
+   Zehnerpotenzschreibweise
+
+
+
+
+Seite 38 von 62
+                                                                                     C Mathematik
+
+
+
+
+                        Operationsvorstellungen und Rechenstrategien
+
+    Operationsvorstellungen                     Rechenverfahren und -strategien
+    entwickeln                                  anwenden
+  Darstellen und Beschreiben von Potenzen       Nutzen, Darstellen und Beschreiben von Strategien
+  mit natürlichem Exponenten als fortgesetzte   und Gesetzen bei der Prozentrechnung (auch im
+  Multiplikation                                Zusammenhang mit Rabatt und Zinsen)
+F Beschreiben von Quadrat- und Kubikwurzel      Überschlagen, Abschätzen und Überprüfen von
+  als Umkehrung der Potenzschreibweise          Rechenergebnissen im Bereich der rationalen
+                                                Zahlen (auch im Zusammenhang mit der
+                                                Prozentrechnung)
+    Wechseln der Darstellungsform für           Prüfen und Übertragen der bekannten operativen
+                                 1              Strategien und Verfahren auf das Rechnen mit
+    Ausdrücke der Form a − n =                  reellen Zahlen
+                                 an
+    Erklären des Zusammenhangs zwischen                                            1
+                                                Nutzen des Zusammenhangs a − n =      , um
+    Potenzieren und Radizieren                                                     an
+                                                Potenzen mit negativen Exponenten auf
+G                                               bekannte Strukturen zurückzuführen
+                                                Nutzen, Darstellen und Beschreiben der
+                                                Potenzgesetze für Potenzen mit ganzzahligen
+                                                Exponenten
+                                                Ausführen von Rechnungen und Überschlags-
+                                                rechnungen im Kopf unter Nutzung von
+                                                Rechengesetzen zum vorteilhaften Rechnen
+                                                (auch im Bereich der reellen Zahlen)
+    Wechseln der Darstellungsform für           Zusammenfassen von Termen mit Wurzeln unter
+                                      c         Nutzung der Potenzgesetze
+    Ausdrücke der Form d a c = a      d
+                                                Begründen der Wurzelgesetze mithilfe der
+    Umformen von Potenzen in Logarithmen        Potenzgesetze
+H und umgekehrt
+                                                Nutzen des Taschenrechners zur Bestimmung von
+                                                Logarithmen
+
+
+
+
+                                                                                   Seite 39 von 62
+C Mathematik
+
+
+3.2      Themenbereich „Größen und Messen“ – Niveaustufen A, B, C
+
+                                      Größenvorstellungen und Messen
+
+      Vorstellungen zu Größen                           Größenangaben
+      und ihren Einheiten nutzen                        bestimmen
+      einander Zuordnen von Messinstrumenten und        direktes Vergleichen von Längen (länger als,
+ A Situationen der unmittelbaren Lebenswirklichkeit     kürzer als, gleich lang)
+      (z. B. Lineal und Tischlänge)
+   Unterscheiden zwischen Angaben der Länge, der        indirektes Vergleichen mithilfe von selbst
+   Zeit und des Geldes                                  gefertigten Messinstrumenten
+   situationsangemessenes Verwenden der Einheiten       − von Längen (z. B. durch Messen) mit
+   − Meter (m) und Zentimeter (cm)                         Stiften, Fäden o. Ä. und selbst
+   − Jahr, Monat, Woche, Tag, Stunde (h)                   gefertigten Linealen
+      und Minute (min)                                  − von Zeitspannen (z. B. mithilfe eines
+   − Euro (€) und Cent (ct)                                Pendels)
+   Zuordnen von Größenangaben zu vertrauten             Beschreiben des Messens als multiplikativen
+   Objekten (Repräsentanten) in den oben genannten      Vergleich
+ B Einheiten (Stützpunktvorstellungen)                  (z. B. 5 cm = 5 ∙ 1 cm)
+   Umwandeln und Ordnen von Größenangaben mit           Messen von Längen und Ablesen von
+   den oben genannten Einheiten und Darstellen in       Zeitpunkten (Minute, volle Stunde, halbe
+   unterschiedlichen Schreibweisen (ohne                Stunde, viertel Stunde) mithilfe von
+   Dezimalschreibweise)                                 genormten Messinstrumenten
+                                                        (z. B. Lineal bzw. Uhr)
+   Unterscheiden zwischen Zeitpunkt und Zeitspanne
+                                                        Nutzen von Repräsentanten
+   Darstellen von Geldbeträgen in unterschiedlicher     (Stützpunktvorstellungen) und
+   Stückelung (auch unter Verwendung verschiedener      Rechenoperationen beim Schätzen von
+   Münzen und Scheine)                                  Längen
+   Unterscheiden verschiedener Größenangaben (auch direktes und indirektes Vergleichen von
+   der Masse)                                      Größen (auch von Massen; z. B. mithilfe der
+   situationsangemessenes Verwenden von Einheiten Bügelwaage)
+   − auch Millimeter (mm), Dezimeter (dm),         Ermitteln des Umfangs von geradlinigen
+      Kilometer (km)                               ebenen Figuren durch Auszählen von
+   − auch Sekunde (s)                              Einheitslängen
+   − auch Tonne (t), Kilogramm (kg), Gramm (g)     Ermitteln des ungefähren Flächeninhalts von
+   Zuordnen von Größenangaben zu vertrauten        geradlinigen ebenen Figuren durch
+   Objekten (Repräsentanten) in den oben genannten Auszählen von Einheitsflächen
+ C Einheiten (Stützpunktvorstellungen)             sinnvolles Auswählen und Nutzen von
+   Umwandeln und Ordnen von Größenangaben mit      Messinstrumenten zum Messen von Größen
+   den oben genannten Einheiten und Darstellen in  Erklären von Einheiten und Untereinheiten
+   unterschiedlichen Schreibweisen (ohne           zur Beschreibung einer entsprechenden
+   Dezimalschreibweise)                            Skala (z. B. am Lineal und an der Uhr)
+   Nutzen von gebräuchlichen Bruchzahlen (halb,    Nutzen von Repräsentanten (auch beim
+   viertel, drei viertel) bei Größenangaben        Schätzen von Masseangaben)
+   Erkennen des Umfangs einer Figur als Länge
+   Verwenden von Größenangaben in sinnvoller
+   Genauigkeit
+
+
+
+
+Seite 40 von 62
+                                                                                 C Mathematik
+
+
+
+
+                                     Rechnen mit Größen
+
+    Größen in Sachzusammenhängen
+    berechnen
+    ---
+A
+
+    Berechnen von Summen und Differenzen ganzzahliger Größenangaben zu Längen und
+    Geldbeträgen innerhalb einer Einheit, insbesondere in Sachkontexten
+    Berechnen von Zeitspannen als Differenz von zwei Zeitpunkten innerhalb
+    einer Einheit (auch an der Zeitleiste und am Kalender)
+    Prüfen von Ergebnissen auf Plausibilität über Stützpunktvorstellungen
+
+
+
+
+B
+
+
+
+
+    Berechnen von Größenangaben (auch von Massen und auch in verschiedenen Einheiten),
+    insbesondere in Sachkontexten (z. B. Zeitspannen)
+    Ermitteln des Umfangs von ebenen Figuren durch Addition der einzelnen ausgemessenen
+    Seitenlängen
+    kritisches Bewerten der Lösungen von Sachaufgaben unter Bezugnahme von Stützpunkt-
+    vorstellungen
+    Ermitteln annähernder Ergebnisse beim Rechnen mit Größen durch Überschlagsrechnung
+
+
+C
+
+
+
+
+                                                                              Seite 41 von 62
+C Mathematik
+
+
+       Themenbereich „Größen und Messen“ – Niveaustufen D, E
+
+                               Größenvorstellungen und Messen
+
+    Vorstellungen zu Größen                          Größenangaben
+    und ihren Einheiten nutzen                       bestimmen
+   Unterscheiden verschiedener Größen               näherungsweises Bestimmen von Umfängen
+   (auch Flächeninhalt, Volumen und Winkel)         und Flächeninhalten (auch bei nichtgeradlinig
+   situationsangemessenes Verwenden der             begrenzten Figuren) z.B. durch Auszählen von
+   Einheiten                                        Einheitslängen bzw. -flächen
+   − auch mm²,cm², dm², m²                          näherungsweises Bestimmen von Volumina
+   − auch mm³, cm³, dm³, m³, ml und l               durch Auffüllen mit Einheitswürfeln
+   − auch Grad (°)                                  Messen von Größen (auch von Volumina
+   Zuordnen von Größenangaben zu vertrauten         sowie von spitzen, gestreckten und stumpfen
+   Objekten (Repräsentanten) in den oben genannten Winkeln)
+   Einheiten                                        Angeben von Volumina in Hohlmaßen und
+                                                    dezimalen Einheiten
+ D Umwandeln und Ordnen von Einheiten bekannter
+   Größen und Darstellen in unterschiedlichen       Angeben der Winkelgrößen im Gradmaß
+   Schreibweisen (auch Dezimalschreibweise)         Erklären und Nutzen verschiedener Skalen
+   Erfassen und Bilden von Bruchteilen von Größen (auch für ml, l und Grad)
+   (in gemeinen Brüchen und Dezimalzahlen)          Bewerten von Messergebnissen im Hinblick
+   Erklären von Größenangaben mit Dezimalzahlen auf die Sachkontexte
+   mithilfe der erweiterten Stellenwerttafeln sowie Nutzen der Repräsentanten (auch beim
+   durch Zerlegen in Einheiten und Untereinheiten   Schätzen von Flächen- und Volumenangaben
+   Unterscheiden zwischen Fläche und Umfang von und Winkelgrößen)
+   Figuren
+   Unterscheiden zwischen Oberflächeninhalt und
+   Volumen von Körpern
+   situationsangemessenes Verwenden von Größen       Entnehmen von Maßen an Körpern aus
+   und ihren Einheiten (auch a, ha, km²)             verschiedenen Darstellungen, z. B. Skizzen
+   Zuordnen von Größenangaben zu vertrauten          und Zeichnungen (auch unter Verwendung
+   Objekten (Repräsentanten) (auch a, ha, km²)       des Maßstabs)
+   Umwandeln und Ordnen von Einheiten bekannter      Anwenden des Grundprinzips des Messens in
+   Größen und Darstellen in unterschiedlichen        der Umwelt
+   Schreibweisen (auch a, ha, km²)                   Angeben von Größen mit sinnvoller
+   Nutzung der Zusammenhänge zum Umrechnen           Genauigkeit
+ E von Einheiten                                     Nutzen von Repräsentanten beim Schätzen
+   − der Länge                                       von Größen
+   − des Flächeninhalts
+   − des Volumens
+   − des Geldes
+   − der Masse
+   − der Zeit
+
+
+
+
+Seite 42 von 62
+                                                                                 C Mathematik
+
+
+
+
+                                     Rechnen mit Größen
+
+   Größen in Sachzusammenhängen
+   berechnen
+  Berechnen von Größenangaben (auch von Flächeninhalten, Volumina und Winkeln und
+  auch in Dezimalschreibweise), insbesondere in Sachkontexten und auch mithilfe von
+  Näherungsrechnungen
+  Berechnen des Umfangs von Vielecken durch Addition der Seitenlängen
+  Berechnen des Flächeninhalts von aus Rechtecken zusammengesetzten Flächen durch Addition
+  der Flächeninhalte der Teilflächen (auch Oberflächeninhalt von Quadern)
+  Nutzen und Begründen eines Rechenverfahrens zur Bestimmung des Flächeninhalts von
+  Rechtecken
+  Berechnen des Volumens von aus Quadern zusammengesetzten Körpern durch Addition der
+  Volumina der Teilkörper
+D Nutzen und Begründen eines Rechenverfahrens zur Bestimmung des Volumens von Quadern
+  Bewerten von Rechenergebnissen in Bezug auf die Sachsituation
+
+
+
+
+  Verwenden von Größenangaben in Rechnungen (auch Geschwindigkeiten, Dichten)
+  Nutzen von Beziehungen zwischen maßstäblich veränderten ebenen geometrischen
+  Objekten, um Maße zu ermitteln (z. B. Rechnen mit Maßstäben)
+  Berechnen des Umfangs von beliebigen geradlinig begrenzten Figuren, Kreisen und
+  Kreisteilen (auch unter Verwendung von Pi)
+  Berechnen des Flächeninhalts von Dreiecken, Vierecken, Kreisen auf der Basis von Zerlegungen
+  und Ergänzungen (auch mithilfe von Formelsammlungen)
+  Begründen der Flächeninhaltsformeln für Parallelogramme und Dreiecke nach dem Prinzip
+E „Grundseite mal Höhe“ auf der Basis von Zerlegungen und Ergänzungen
+  Berechnen des Volumens von geraden Prismen und Kreiszylindern nach dem Prinzip „Grundfläche
+  mal Höhe“ und des Oberflächeninhalts nach dem Prinzip „Addition der Teilflächeninhalte“
+  kritisches Bewerten von Rechenergebnissen in Bezug auf die Sachsituation
+  Angeben von Rechenergebnissen in sinnvoller Genauigkeit
+  Verwenden des Satzes von Pythagoras zur Berechnung von Streckenlängen in rechtwinkligen
+  Dreiecken (auch an Körpern)
+  Verwenden der Umkehrung des Satzes des Pythagoras zur Identifizierung von rechtwinkligen
+  Dreiecken
+
+
+
+
+                                                                               Seite 43 von 62
+C Mathematik
+
+
+       Themenbereich „Größen und Messen“ – Niveaustufen F, G, H
+
+                              Größenvorstellungen und Messen
+
+    Vorstellungen zu Größen                      Größenangaben
+    und ihren Einheiten nutzen                   bestimmen
+   situationsangemessenes Verwenden von           Bestimmen von Größen, besonders in
+   Größen und ihren Einheiten (auch unter Nutzung berufsorientierten Kontexten
+   der Zehnerpotenzen zur Beschreibung von        Angeben und Schätzen von Größen mit
+   Einheitenvorsätzen von Milli bis Kilo)         sinnvoller Genauigkeit, besonders in
+   Umwandeln und Ordnen von Einheiten             berufsorientierten Kontexten
+ F bekannter Größen und Darstellen in
+   unterschiedlichen Schreibweisen (auch unter
+   Nutzung der Zehnerpotenzen zur Beschreibung
+   von Einheitenvorsätzen)
+   Nutzung der Zusammenhänge zum Umrechnen
+   von Einheiten (auch unter Nutzung von
+   Zehnerpotenzen)
+   situationsangemessenes Nutzen von Einheiten   Entnehmen von Maßen und Lagebeziehungen
+   zu Größen (auch bei sehr großen und sehr      an Körpern aus verschiedenen Darstellungen
+   kleinen Größenangaben)                        (auch aus technischen Zeichnungen, z. B.
+   Erweiterung der Nutzung der Zehnerpotenzen    Zweitafelprojektionen)
+   zur Beschreibung von Einheitenvorsätzen von
+   Nano bis Tera im Anwendungsbezug
+   Systematisierung der bisherigen Kenntnisse
+ G über Größen und ihrer Einheiten sowie die
+   Beziehungen zwischen den verschiedenen
+   Größen (auch aus verschiedenen
+   Unterrichtsfächern) unter Einbeziehung der
+   Zehnerpotenzen
+
+
+
+
+   Beschreiben des Zusammenhangs zwischen        näherungsweises Bestimmen von Flächeninhalt
+ H Bogen- und Gradmaß am Einheitskreis           und Umfang krummlinig begrenzter ebener
+   Umrechnen von Winkeln im Gradmaß ins          Figuren
+   Bogenmaß und umgekehrt
+
+
+
+
+Seite 44 von 62
+                                                                                C Mathematik
+
+
+
+
+                                     Rechnen mit Größen
+
+    Größen in Sachzusammenhängen
+    berechnen
+  Vertiefen der Kompetenzen zum Rechnen mit Größen im Zusammenhang mit berufsorientierten
+  Kontexten
+  Berechnen des Flächeninhaltes von aus Dreiecken, Vierecken und Kreisen zusammengesetzten
+  ebenen Figuren auf der Basis von Zerlegungen und Ergänzungen
+  (auch mithilfe von Formelsammlungen)
+F Berechnen von Volumen und Oberflächeninhalt von Körpern (auch von geraden
+  quadratischen Pyramiden)
+  Berechnen des Volumens zusammengesetzter Körper unter Verwendung des Zerlegungs- und
+  Ergänzungsprinzips
+  kritisches Bewerten von Rechenergebnissen sowie Angabe von Rechenergebnissen mit sinnvoller
+  Genauigkeit im Zusammenhang mit berufsorientierten Kontexten
+
+  Berechnen von Winkelgrößen und Seitenlängen in rechtwinkligen Dreiecken mithilfe von
+  Sinus, Kosinus und Tangens
+  Berechnen von Winkelgrößen und Seitenlängen in beliebigen Dreiecken durch Zerlegung
+  in rechtwinklige Teildreiecke
+  Berechnen des Volumens von Körpern (auch von geraden Pyramiden, geraden Kreiskegeln und
+  von Kugeln)
+G Berechnen des Oberflächeninhalts von Körpern (auch gerade Pyramiden, gerade Kegel und
+  Kugeln und auch unter Nutzung trigonometrischer Beziehungen)
+  Berechnen des Volumens und des Oberflächeninhaltes zusammengesetzter Körper mithilfe des
+  Zerlegungs- und Ergänzungsprinzips (auch unter Nutzung von trigonometrischen
+  Beziehungen und von Formelsammlungen)
+  Nutzen des Sinussatzes, um in beliebigen Dreiecken Winkelgrößen und Seitenlängen zu
+  bestimmen
+  Nutzen des Kosinussatzes, um in beliebigen Dreiecken Seitenlängen zu bestimmen
+  Berechnen des Volumens schiefer Prismen, Zylinder und Pyramiden unter Nutzung des
+  Satzes von Cavalieri
+H
+  Nutzen des Kosinussatzes, um in beliebigen Dreiecken auch Winkelgrößen zu bestimmen
+
+
+
+
+                                                                              Seite 45 von 62
+C Mathematik
+
+
+3.3     Themenbereich „Raum und Form“ – Niveaustufen A, B, C
+
+                                        Geometrische Objekte
+
+      Geometrische Objekte            Beziehungen zwischen            Geometrische Objekte
+      und ihre Eigenschaften          geometrischen Objekten          darstellen
+      beschreiben                     beschreiben
+   Wiedererkennen von realen       Unterscheiden und Benennen         Kneten von Körperformen
+   Objekten in der Umwelt, die wie der räumlichen Lage von            Nachfahren von Linien in
+   ein Würfel, ein Quader, eine    Objekten mit Präpositionen         geometrischen Grundformen
+ A Kugel aussehen                  (z. B. auf, in, am, vor, neben)
+                                                                      Falten und Schneiden von
+   Wiedererkennen und Benennen                                        Dreiecken und Vierecken
+   der ebenen geometrischen
+                                                                      Auslegen von strukturierten
+   Grundformen Viereck, Kreis
+                                                                      Figuren
+   und Dreieck
+   Erkennen, Benennen und             Beschreiben von Lage-           Herstellen und Ergänzen von
+   Beschreiben geometrischer          beziehungen von Objekten        Würfelbauten
+   Objekte (Kugel, Würfel, Quader     (auch unter Verwendung von      Formen, Bauen, Falten von
+   sowie Dreieck, Viereck,            „links von“, „rechts von“,      Körpern aus verschiedenen
+   Quadrat, Rechteck, Kreis)          „innen“, „außen“, „zwischen“)   Materialien
+   in der Umwelt und am Modell        Beschreiben von Körpern         Legen, Zerlegen, Auslegen,
+   unter Nennung einzelner            mithilfe ihrer Begrenzungs-     Zusammensetzen, Falten,
+   Merkmale                           flächen                         Schneiden, Spannen,
+   Erkennen und Benennen von                                          Drucken ebener Figuren
+ B Ecken, Kanten, Seiten,
+                                                                      Zeichnen ebener Figuren frei
+   Strecken und Punkten und
+                                                                      Hand und mithilfe von
+   deren Nutzung zur
+                                                                      Zeichengeräten (Lineal,
+   Beschreibung von
+                                                                      Geodreieck, Schablone)
+   geometrischen Objekten
+                                                                      überwiegend auf Rasterpapier
+   Erkennen von rechten Winkeln
+                                                                      Ergänzen von ebenen Figuren
+   (z. B. mithilfe von Faltwinkeln)
+                                                                      zu achsensymmetrischen
+   Erkennen von spiegel-                                              Figuren durch Zeichnen (auf
+   symmetrischen Figuren durch                                        Rasterpapier), Legen und
+   Falten und Spiegeln                                                Drucken
+   Erkennen, Benennen und             Beschreiben der Lagebezie-      Herstellen von Bauplänen und
+   Beschreiben geometrischer          hungen von Objekten (auch       Ansichten, z. B. zu Würfelbauten
+   Körper (Kugel, Würfel, Quader)     Orientierung auf Karten,        Herstellen von Modellen von
+   in der Umwelt und am Modell        Stadtplänen und Lageskizzen)    Quadern und Würfeln (auch
+   unter Verwendung                   Beschreiben der Lagebezie-      Kantenmodelle)
+   wesentlicher Merkmale              hung von Geraden und            Herstellen von Würfel- und
+   Erkennen, Benennen und             Strecken (auch als Kanten)      Quadernetzen
+   Beschreiben ebener Figuren         Beschreiben der Lage- und       Herstellen ebener Figuren
+   (auch Parallelogramm, Trapez,      Größenbeziehungen               (z. B. Spannen von
+   Drachenviereck, Raute) in der      gegenüberliegender bzw.         Drachenvierecken)
+ C Umwelt und am Modell unter         angrenzender Seiten oder
+   Verwendung wesentlicher                                            Zeichnen ebener Figuren frei
+                                      Flächen bei ebenen oder
+   Merkmale (auch Symmetrie                                           Hand und mithilfe von
+                                      räumlichen geometrischen
+   sowie Radius, Durchmesser)                                         Zeichengeräten (Lineal,
+                                      Objekten (auch Erkennen von
+                                                                      Geodreieck, Zirkel) überwiegend
+   Unterscheiden von Strecken,        Würfel- und Quadernetzen)
+                                                                      auf Blankopapier
+   Strahlen und Geraden               Beschreiben der Beziehung
+                                                                      Zeichnen von Senkrechten und
+   Erkennen und Beschreiben von       zwischen Würfel und Quader
+                                                                      Parallelen mithilfe des
+   symmetrischen Figuren (auch        Beschreiben der Beziehungen     Geodreiecks
+   dreh- und verschiebe-              zwischen Vierecken
+   symmetrische Figuren)                                              Herstellen von achsen-
+                                      (Haus der Vierecke)
+                                                                      symmetrischen Figuren (z. B.
+                                                                      Zeichnen auf Rasterpapier)
+
+
+
+Seite 46 von 62
+                                                                                   C Mathematik
+
+
+
+
+                                     Geometrische Abbildungen
+
+    Geometrische Abbildungen                      Geometrische Abbildungen
+    und ihre Eigenschaften nutzen                 ausführen
+
+  Finden von deckungsgleichen ebenen Figuren      Nachahmen von Bewegungen mit dem eigenen
+  durch Aufeinanderlegen und Begründen mit        Körper bzw. mit Objekten
+  Formulierungen wie                              Anordnen von Objekten nach realen oder
+A „passt genau aufeinander“ und                   bildlichen Vorgaben
+  „passt nicht genau aufeinander“
+  Finden von geringfügigen Abweichungen
+  (z. B. auf zwei Bildern oder Bauten)
+
+
+    umgangssprachliches Beschreiben von           Ausführen von Bewegungen (selbst, mit
+    räumlichen und ebenen Bewegungen              anderen oder mit Objekten) nach mündlichen,
+    (Verschieben, Drehen, Spiegeln),              bildlichen und schriftlichen Anweisungen
+    die selbst, mit anderen oder mit Objekten     Erzeugen von Spiegelbildern
+    ausgeführt werden                             (z. B. mit dem Spiegel, durch Klecksen)
+    Vergleichen von Original und Bild
+
+
+
+B
+
+
+
+
+    Erkennen und Benennen gespiegelter,           Herstellen von Würfelbauten nach Vorgaben
+    verschobener und gedrehter ebener Figuren     (z. B. nach Ansichten, Bauplänen und Schräg-
+    Beschreiben ausgewählter Eigenschaften von    bildern)
+    Spiegelungen an Geraden                       Herstellen von schubsymmetrischen Figuren
+    Erkennen und Begründen von vergrößerten und   (z. B. von Bandornamenten)
+    verkleinerten Figuren                         Zeichnen von Spiegelbildern auf Rasterpapier
+                                                  Vergrößern und Verkleinern von ebenen
+                                                  Figuren auf Rasterpapier
+
+
+C
+
+
+
+
+                                                                                Seite 47 von 62
+C Mathematik
+
+
+       Themenbereich „Raum und Form“ – Niveaustufen D, E
+
+                                      Geometrische Objekte
+
+    Geometrische Objekte         Beziehungen zwischen                Geometrische Objekte
+    und ihre Eigenschaften       geometrischen Objekten              darstellen
+    beschreiben                  beschreiben
+   Erkennen, Benennen und     Beschreiben von Lage-          Herstellen von Modellen
+   Beschreiben gerader        beziehungen (auch mithilfe von geometrischer Körper (auch
+   geometrischer Körper (auch Gitternetzen und Koordinaten)  Prismen)
+   Zylinder, Prismen, Kegel,  Beschreiben von Winkel-        Zeichnen von ebenen Figuren
+   Pyramiden) in der Umwelt   beziehungen an geschnittenen im Koordinatensystem
+   und am Modell unter        Geraden bzw. Parallelen sowie (1. Quadrant)
+   Verwendung wesentlicher    in Dreiecken (Scheitelwinkel,  Zeichnen von Winkeln und
+   Merkmale                   Nebenwinkel, Stufenwinkel,     ebenen Figuren mithilfe von
+   Erkennen und Beschreiben Innenwinkel) und Nutzen für      Zeichengeräten (Lineal,
+   der Eigenschaften von      Argumentationen                Geodreieck, Zirkel)
+ D Winkeln und Dreiecken      Beschreiben von Lage- und      Skizzieren der Schrägbilder von
+   Erkennen und Beschreiben Größenbeziehungen ebener         Würfeln und Quadern auf
+   von Symmetrien (auch in    Figuren an räumlichen Objekten Rasterpapier
+   Modellen von geometrischen (auch Erkennen weiterer
+   Körpern)                   Körpernetze)
+                              Beschreiben der Beziehungen
+                              zwischen den bekannten
+                              Körperformen
+                              Systematisieren von Winkeln
+                              bzw. von Dreiecken nach
+                              Winkelgrößen und Seitenlängen
+   Erkennen und Beschreiben      Untersuchen und Beschreiben         Herstellen von Modellen gerader
+   geometrischer Strukturen in   der Größenbeziehungen in            geometrischer Körper (auch
+   der Umwelt und im Modell      ebenen geometrischen Figuren        Kreiszylinder)
+   Beschreiben weiterer          (auch Innenwinkelsumme von          Zeichnen von Figuren im
+   Eigenschaften der             Vielecken)                          Koordinatensystem (vier
+   Dreiecksarten                 Beschreiben von Lage- und           Quadranten)
+   (z. B. Symmetrie)             Größenbeziehungen                   Zeichnen von Netzen und
+   Beschreiben von Eigen-        geometrischer Objekte (auch         Schrägbildern gerader Prismen
+   schaften (auch Größen-        unter Nutzung der Sätze von
+                                                                     Skizzieren von Netzen und
+   angaben) von geraden          Thales und Pythagoras)
+ E Prismen und Zylindern                                             Schrägbildern von Kreiszylindern
+                                 Nutzen von Lage- und
+                                                                     Konstruieren zueinander paralleler
+   Beschreiben besonderer        Größenbeziehungen zum
+                                                                     bzw. senkrechter Geraden, von
+   Linien in Dreiecken und       Formulieren von Aussagen zur
+                                                                     Mittelsenkrechten unter
+   Körpern (z. B. Höhe,          Lösbarkeit bei der Konstruktion
+                                                                     Verwendung von Geodreieck und
+   Seitenhalbierende,            von Dreiecken (z. B. mithilfe der
+                                                                     Zirkel
+   Mittelsenkrechte)             Dreiecksungleichung)
+                                                                     Konstruieren von Mittelsenk-
+                                                                     rechten, Höhen und Seiten-
+                                                                     halbierenden in Dreiecken
+                                                                     Konstruieren von Dreiecken nach
+                                                                     den Kongruenzsätzen
+
+
+
+
+Seite 48 von 62
+                                                                                    C Mathematik
+
+
+
+
+                                     Geometrische Abbildungen
+
+    Geometrische Abbildungen                       Geometrische Abbildungen
+    und ihre Eigenschaften nutzen                  ausführen
+
+    Erkennen und Benennen von kongruenten          Herstellen von Parketten durch Zeichnen und
+    Figuren                                        Legen von Figuren
+    Beschreiben der Beziehungen zwischen           Zeichnen von Spiegelungen und
+    Original- und Bildfigur (Längen- und Winkel-   Verschiebungen
+    treue) bei Kongruenzabbildungen
+    (auch Drehungen und Verschiebungen)
+
+
+
+
+D
+
+
+
+
+    Erkennen und Benennen kongruenter und         Zeichnen von kongruenten sowie maßstäblich
+    ähnlicher ebener geometrischer Objekte anhand vergrößerten und verkleinerten ebenen Figuren
+    ihrer Eigenschaften                           zu vorgegebenen ebenen Figuren
+    Beschreiben der Eigenschaften (auch
+    Längenverhältnisse) von Kongruenz- und
+    Ähnlichkeitsabbildungen
+
+
+
+
+E
+
+
+
+
+                                                                                 Seite 49 von 62
+C Mathematik
+
+
+       Themenbereich „Raum und Form“ – Niveaustufen F, G, H
+
+                                     Geometrische Objekte
+
+    Geometrische Objekte          Beziehungen zwischen          Geometrische Objekte
+    und ihre Eigenschaften        geometrischen Objekten        darstellen
+    beschreiben                   beschreiben
+   Erkennen, Benennen und         Beschreiben und Nutzen von    Herstellen von Modellen
+   Beschreiben von                Lage- und Größen-             geometrischer Körper
+   geometrischen Objekten in      beziehungen innerhalb von     (auch von geraden quadratischen
+   der Umwelt und am Modell       ebenen und räumlichen         Pyramiden)
+   (auch Teilkörper und           geometrischen Objekten und    Zeichnen von Netzen und
+   -flächen in zusammen-          deren Zusammensetzungen       Schrägbildern geometrischer
+   gesetzten Körpern und          (auch gerade quadratische     Körper (auch von geraden
+ F Flächen)                       Pyramiden) zum Berechnen      quadratischen Pyramiden)
+   Beschreiben von                von Längen, Flächeninhalten
+                                                                Verwenden dynamischer
+   Eigenschaften (auch            und Volumina
+                                                                Geometriesoftware zur
+   Größenangaben)                                               Konstruktion von ebenen Figuren
+   geometrischer Flächen
+   und Körper und deren
+   Zusammensetzungen
+   (auch gerade quadratische
+   Pyramiden)
+   Erkennen, Benennen und         Beschreiben und Nutzen von    Skizzieren von Schrägbildern
+   Beschreiben von geometri-      Lage- und Größen-             (auch von geraden Kreiskegeln
+   schen Objekten (auch           beziehungen geometrischer     und -zylindern, Pyramiden,
+   Differenz- und Teilflächen     Objekte (auch unter           zusammengesetzten Körpern und
+   sowie Differenz- und Teil-     Verwendung der bisher         Differenzkörpern)
+   körper)                        bekannten geometrischen       Verwenden und Anfertigen von
+ G                                Sätze) für Berechnungen und
+   Beschreiben von Eigen-                                       gebräuchlichen technischen
+   schaften geometrischer         Argumentationen               Darstellungen (z. B. Werkstücke)
+   Flächen und Körper und                                       Konstruieren geometrischer
+   deren Zusammensetzungen                                      Figuren (auch unter Nutzung des
+   (auch gerader Kreiskegel und                                 Satzes des Thales und des Satzes
+   Pyramiden sowie Kugeln)                                      des Pythagoras)
+   Begründen der Eigenschaften    Beschreiben und Nutzen von    ---
+   von geometrischen Objekten     Lage- und Größen-
+   mithilfe von Symmetrie,        beziehungen geometrischer
+   einfachen Winkelsätzen,        Objekte für Berechnungen
+ H trigonometrischen              und Argumentationen (auch
+   Beziehungen, dem Satz des      unter Verwendung einer
+   Thales und dem Satz des        Klassifizierung auf der
+   Pythagoras                     Grundlage von definierenden
+                                  Eigenschaften)
+
+
+
+
+Seite 50 von 62
+                                                                                 C Mathematik
+
+
+
+
+                                  Geometrische Abbildungen
+
+    Geometrische Abbildungen                      Geometrische Abbildungen
+    und ihre Eigenschaften nutzen                 ausführen
+
+    Vertiefen und Anwenden der Kenntnisse über    Anwenden der Fertigkeiten beim Zeichnen von
+    Abbildungen zum Lösen von entsprechenden      Abbildungen zum Lösen von entsprechenden
+    Aufgaben, z. B. im berufsvorbereitenden       Aufgaben, z. B. im berufsvorbereitenden
+    Kontext                                       Kontext
+                                                  Nutzen von Geometriesoftware zum
+                                                  Konstruieren von Abbildungen
+
+F
+
+
+
+
+    Vertiefen und Anwenden der Kenntnisse über Zeichnen von maßstäblich vergrößerten oder
+    Abbildungen zum Lösen entsprechender       verkleinerten geometrischen Körpern und deren
+    Aufgaben in komplexen Sachzusammenhängen Zusammensetzungen (z. B. Modellbau)
+    (z. B. Modellbau)
+
+
+G
+
+
+
+
+    Begründen von Eigenschaften von               ---
+    geometrischen Objekten mithilfe der
+    Eigenschaften von Kongruenz und Ähnlichkeit
+H
+
+
+
+
+                                                                               Seite 51 von 62
+C Mathematik
+
+
+3.4     Themenbereich „Gleichungen und Funktionen“ – Niveaustufen A, B, C
+
+                                       Terme und Gleichungen
+
+      Terme und Gleichungen                        Gleichungen und Gleichungssysteme
+      darstellen                                   lösen
+      Legen von Mengen mit kleinen Anzahlen an     Erfassen und Beschreiben des Unterschieds
+      Objekten in Verbindung mit Sachsituationen   zwischen kleinen Mengen
+ A                                                 Ergänzen oder Reduzieren von Mengen bis 10,
+                                                   um Mengen mit gleicher Anzahl von Objekten
+                                                   herzustellen
+   Darstellen von Sachsituationen durch            Vergleichen des Wertes von einfachen
+   Mengenbilder, Worte, Zahlenterme und            Zahlentermen (mit einer Rechenoperation) mit
+   Gleichungen (mit einer Rechenoperation)         Zahlen und Darstellen der Beziehung mithilfe der
+   Erfinden von Rechengeschichten und Zeichnen     Relationszeichen =, >, <
+   von Bildern zu vorgegeben Termen und            (z. B. 3 + 4 > 5)
+ B Gleichungen (mit einer Rechenoperation)         Finden von Zahlentermen mit gleichem Wert
+                                                   (z. B. durch Zahlzerlegungen)
+                                                   Lösen einfacher Gleichungen mit Platzhaltern
+                                                   (inhaltlich und unter Nutzung der
+                                                   Umkehroperationen)
+                                                   (z. B. □ + 5 = 8)
+                                                   Beschreiben des Lösungsweges mit Worten
+   Darstellen von Sachverhalten (auch              Vergleichen von zwei vorgegebenen Termen
+   innermathematische) durch Terme und             (auch mit mehreren Rechenoperationen)
+   Gleichungen (auch mit mehreren Rechen-          (z. B. 5 + 4 · 3 < 7 · 3)
+   operationen)                                    Finden und Beschreiben von Zahlentermen
+   Verwenden der Operatorschreibweise (Pfeile)     mit gleichen Werten (z. B. durch gleich- und
+   zur Darstellung von Zahlenrätseln und           gegensinniges Verändern bei Termen mit einer
+   Sachsituationen                                 Rechenoperation)
+   Nutzen von Variablen im Sinne eines             (z. B. 9 + 14 = 10 + 13)
+ C Platzhalters                                    Finden von Lösungen zu Gleichungen (auch mit
+   Angeben von passenden Situationen und           mehreren Rechenoperationen, auch
+   Bildern zu vorgegeben Termen und                Multiplikation und Division) durch Probieren und
+   Gleichungen (auch mit mehreren                  Rückwärtsarbeiten
+   Rechenoperationen)                              Beschreiben einer Strategie zum Lösen einer
+                                                   Gleichung
+                                                   selbstständiges Überprüfen der Richtigkeit
+                                                   einer Lösung, rechnerisch und in Bezug auf den
+                                                   Sachkontext
+
+
+
+
+Seite 52 von 62
+                                                                                   C Mathematik
+
+
+
+
+                                 Zuordnungen und Funktionen
+
+   Zuordnungen und                 Zuordnungen und             Eigenschaften funktionaler
+   Funktionen untersuchen          Funktionen darstellen       Zusammenhänge nutzen
+  Ordnen von Objekten, die         Nachlegen, Nachbauen und Ausfüllen von Lücken bei
+  vorgegeben oder selbst           Ausmalen einer Folge      einfachen Folgen gegebener
+A gefunden sind, nach ihren        geometrischer Muster nach geometrischer Muster durch
+  Eigenschaften (z. B. Farbe)      Vorlage                   Legen, Bauen und Ausmalen
+
+
+  Erkennen und Beschreiben von     Herstellen geometrischer    Fortsetzen von einfachen
+  geometrischen und                und arithmetischer Muster   Zahlenfolgen (z. B. Malfolgen) und
+  arithmetischen Mustern           nach vorgegebenen           strukturierten Rechenpäckchen
+  (z. B. strukturierte             Bildungsregeln              sowie geometrischen Mustern
+  Rechenpäckchen)                  Darstellung von
+  Erkennen und Beschreiben von     Zuordnungen unter
+B
+  Zuordnungen in Alltags-          Verwendung von Pfeilen
+  zusammenhängen mit Worten
+  (z. B. Je mehr …, desto mehr…)
+
+
+
+
+  Analysieren und Beschreiben der Darstellen von Folgen        Verwenden der Bildungsregeln
+  Bildungsregeln von              geometrischer Muster         von arithmetischen und
+  arithmetischen und              (z. B. durch Zahlenfolgen)   geometrischen Mustern zum
+  geometrischen Mustern           Darstellen von               Finden von weiteren Elementen
+  Nennen und Beschreiben von      Zuordnungen                  Vervielfachen von Größen in
+  Alltagssituationen für          (auch mit Tabellen)          Sachsituationen im Sinne der
+  multiplikative Zusammenhänge                                 direkten Proportionalität
+  im Sinne der direkten
+C Proportionalität
+
+
+
+
+                                                                                Seite 53 von 62
+C Mathematik
+
+
+       Themenbereich „Gleichungen und Funktionen“ – Niveaustufen D, E, F
+
+                                    Terme und Gleichungen
+
+    Terme und Gleichungen                          Gleichungen und Gleichungssysteme
+    darstellen                                     lösen
+   Darstellen von außer- und innermathematischen   Begründen (auch anschaulich) der Gleichheit
+   Sachverhalten (auch im Zahlenbereich der        von Zahlentermen
+   gebrochenen Zahlen) durch Zahlenterme und       Finden und Beschreiben von Zahlentermen mit
+   Gleichungen                                     gleichen Werten mithilfe der bekannten
+   Nutzen von Variablen im Sinne eines             Rechengesetze (Kommutativ-, Assoziativ- und
+ D Platzhalters (auch bei gebrochenen Zahlen)      Distributivgesetz)
+   Angeben von passenden außer- und inner-         (z. B. 12 ∙ 7 = 10 ∙ 7 + 2 ∙ 7)
+   mathematischen Sachverhalten zu vorgegeben      Lösen und Begründen der Lösungen von
+   Zahlentermen und Gleichungen (auch im           Gleichungen (auch mit gebrochenen Zahlen) mit
+   Zahlenbereich der gebrochenen Zahlen)           einer Rechenoperation und einem Platzhalter
+                                                   (z. B. mithilfe der Umkehroperation)
+   Darstellen von außer- und innermathematischen   Nutzen von Kommutativ- und Assoziativgesetz
+   Sachverhalten (auch im Zahlenbereich der        zum äquivalenten Umformen von Termen (auch
+   rationalen Zahlen) durch Terme, lineare         im Zahlbereich der rationalen Zahlen)
+   Gleichungen und Verhältnisgleichungen           Begründen von Gleichungsumformungen
+   Variablen (auch als Parameter) verwenden und    Lösen linearer Gleichungen durch
+ E deren Bedeutung erklären (z. B. in Formeln)     systematisches Probieren, grafisch und
+   Angeben von passenden Situationen und           durch Äquivalenzumformungen
+   grafischen Darstellungen zu vorgegeben          Lösen von Verhältnisgleichungen
+   Termen und Gleichungen (auch im                 (auch Umstellen von Formeln)
+   Zahlenbereich der rationalen Zahlen)
+                                                   Prüfen einer Lösung (auch durch Einsetzen in
+                                                   die Ausgangsgleichung)
+   Darstellen von außer- und innermathematischen   Nutzen von Rechengesetzen zum äquivalenten
+   Sachverhalten durch Terme, Gleichungen und      Umformen von Termen (auch Distributivgesetz
+   lineare Gleichungssysteme mit zwei Variablen    zum Ausmultiplizieren von Summen)
+   Variablen verwenden (auch verschiedene          Lösen von linearen Gleichungen (auch mit
+   Variablen in linearen Gleichungssystemen)       Klammern) und Verhältnisgleichungen
+ F Angeben von passenden Situationen und           Lösen linearer Gleichungssysteme mit zwei
+   grafischen Darstellungen zu vorgegeben          Variablen (grafisch und durch systematisches
+   Termen, Gleichungen und linearen                Probieren)
+   Gleichungssystemen mit zwei Variablen           Untersuchen der Lösbarkeit und der
+                                                   Lösungsvielfalt von Gleichungen und linearen
+                                                   Gleichungssystemen mit zwei Variablen
+                                                   (z. B. grafisch)
+
+
+
+
+Seite 54 von 62
+                                                                                    C Mathematik
+
+
+
+
+                                  Zuordnungen und Funktionen
+
+   Zuordnungen und                 Zuordnungen und               Eigenschaften funktionaler
+   Funktionen untersuchen          Funktionen darstellen         Zusammenhänge nutzen
+  Beschreiben der Eigenschaften    Darstellen von Zuord-       Ermitteln von Größen in
+  direkt proportionaler            nungen, insbesondere direkt anwendungsbezogenen,
+  Zusammenhänge und                proportionale Zuordnungen direkt proportionalen
+  Abgrenzung von Eigenschaften     (auch im Koordinatensystem Zusammenhängen
+  anderer Zuordnungen (auch in     im 1. Quadranten und mit    (inhaltlich und durch Rechnen mit
+D Alltagssituationen)              Worten)                     Dreisatz)
+                                   Wechsel zwischen
+                                   verschiedenen Darstellungen
+                                   von Zuordnungen
+
+
+
+  Beschreiben von                Darstellen von Zuordnungen      Berechnen von Größen in direkt
+  Eigenschaften von              im Koordinatensystem            und indirekt proportionalen
+  Zuordnungen und                (auch 4 Quadranten)             Zuordnungen (auch unter
+  Unterscheidung zwischen direkt Übersetzen zwischen             Verwendung von Verhältnis-
+  und indirekt proportionalen    symbolischer, sprachlicher,     gleichungen) in außer- und
+  Zuordnungen (auch in           tabellarischer und grafischer   innermathematischen Kontexten
+E
+  Alltagssituationen)            Form von direkt                 (auch Maßstab und Prozent-
+                                 proportionalen und indirekt     rechnung)
+                                 proportionalen
+                                 Zuordnungen
+
+
+
+  Beschreiben und Interpretieren Darstellen von Zuordnungen Ermitteln und Nutzen von
+  von linearen Zusammenhängen und linearen Funktionen im        ausgewählten Punkten linearer
+  und ihrer Darstellungen in       Koordinatensystem            Funktionen
+  Alltagssituationen               Übersetzen zwischen
+  Bestimmen und Beschreiben        sprachlicher, tabellarischer
+F von  Merkmalen   linearer        und grafischer Form sowie
+  Funktionen der Form              Funktionsgleichung von
+  y = ax + b (Steigung, Ände-      linearen Funktionen
+  rungsrate, Nullstelle, y-Achsen-
+  abschnitt, Einfluss der
+  Parameter auf den Verlauf des
+  Graphen)
+
+
+
+
+                                                                                 Seite 55 von 62
+C Mathematik
+
+
+       Themenbereich „Gleichungen und Funktionen“ – Niveaustufen G, H
+
+                                      Terme und Gleichungen
+
+     Terme und Gleichungen                        Gleichungen und Gleichungssysteme
+     darstellen                                   lösen
+     Übersetzungen zwischen verschiedenen         Umformen von Termen (auch Potenzen mit
+     Darstellungen (symbolisch, grafisch,         ganzzahligem Exponenten und auch unter
+     sprachlich, auch in Kontexten) von Termen,   Nutzung der binomischen Formeln)
+     Gleichungen (auch für quadratische           Lösen von Gleichungen
+     Zusammenhänge) und linearen                  (auch quadratische Gleichungen
+     Gleichungssystemen mit zwei Variablen        der Form d = ax² + bx + c )
+                                                  durch systematisches Probieren, rechnerisch
+                                                  und grafisch
+                                                  Lösen von linearen Gleichungssystemen
+                                                  mit zwei Variablen (auch rechnerisch)
+
+ G
+
+
+
+
+   Darstellen von außer- und                    äquivalentes Umformen von Termen
+   innermathematischen Sachverhalten            (auch Potenzen mit rationalen Exponenten)
+   (auch für potenzielle und exponentielle      Lösen von Gleichungen
+   Zusammenhänge) durch Terme und               − auch Umformen quadratischer Terme in voll-
+   Gleichungen unter Verwendung von               ständige Quadrate mithilfe quadratischer
+   Prozentdarstellungen, Potenzen, Wurzeln,       Ergänzung
+   Logarithmen                                  − auch Lösen von Exponentialgleichungen
+   grafisches Darstellen von Gleichungssystemen   mithilfe des Logarithmus
+   (auch mit quadratischen Gleichungen)         − auch Lösen von ausgewählten Gleichungen
+                                                  mit höheren Potenzen (z. B. durch
+                                                  Faktorisieren, Substituieren oder
+                                                  Polynomdivision) und mit Wurzeln
+ H                                              Lösen von Gleichungssystemen
+                                                − auch lineare Gleichungssysteme mit drei
+                                                  Variablen
+                                                − auch Nutzen des Additionsverfahrens
+                                                  (z. B. bei Rekonstruktion von quadratischen
+                                                  Funktionen)
+
+
+
+
+Seite 56 von 62
+                                                                                   C Mathematik
+
+
+
+
+                                Zuordnungen und Funktionen
+
+   Zuordnungen und Funktionen Zuordnungen und       Eigenschaften von
+   untersuchen                Funktionen darstellen Funktionen nutzen
+  Beschreiben und Interpretieren       Darstellen von Zuord-      Gegenüberstellen der
+  funktionaler Zusammenhänge und       nungen und Funktionen      entsprechenden Eigenschaften
+  ihrer Darstellungen in               (auch quadratische,        der bekannten Funktionstypen
+  Alltagssituationen                   trigonometrische und       (lineare, quadratische und
+  Bestimmen und Beschreiben von        Exponentialfunktionen)     trigonometrische Funktionen und
+  Merkmalen (Definitionsbereich,       im Koordinatensystem       ggf. Exponentialfunktion) und
+  Wertebereich, Form des Graphen,      (auch bei verschiedenen    Systematisierung der
+  Schnittpunkte mit den                Einheiten und              Funktionstypen
+  Koordinatenachsen, Einfluss der      Einteilungen der           Nutzen der Eigenschaften der
+  Parameter auf den Verlauf des        Koordinatenachsen)         bekannten Funktionen zum
+  Graphen (Streckung, Stauchung,       Übersetzen zwischen        Modellieren von Problem-
+G Verschiebung), Symmetrie, ggf.       sprachlicher,              stellungen (z. B. bei Bauwerken
+  Öffnungsrichtung, Scheitelpunkt,     tabellarischer und         und Wurfparabeln, bei
+  Periodizität) folgender              grafischer Form sowie      Wachstums- und Zerfalls-
+  Funktionstypen:                      Funktionsgleichung der     prozessen bzw. bei periodischen
+  − quadratische Funktionen            bekannten Funktionen       Vorgängen wie Schwingungen)
+     der Form                          Ermitteln der Funktions-   auch mithilfe von
+     y = a (x + d)² + e                gleichung einer linearen   Tabellenkalkulation
+  − trigonometrische Funktionen        Funktion aus zwei          Nutzen von Lösungsprinzipien
+     der Form                          gegebenen Punkten          für lineare Gleichungssysteme
+     y = a sin(x)                                                 zur Berechnung von
+  − Exponentialfunktionen                                         Schnittpunkten von
+     der Form                                                     Funktionsgraphen
+             x
+     y = a b (b>0, x∈N)
+  Bestimmen und Beschreiben von        Wechseln zwischen         Gegenüberstellen einander
+  Merkmalen von Funktionen,            Funktionsgleichung und    entsprechender Eigenschaften
+  auch folgende Funktionstypen:        sprachlicher, tabella-    der bekannten Funktionsklassen
+  − quadratische Funktionen            rischer sowie grafischer  (auch Potenzfunktionen mit
+     der Form                          Form von Funktionen       ganzzahligem Exponenten und
+     y = a x² + b x + c                (auch bei Potenz-         Exponentialfunktionen) und
+  − trigonometrische Funktionen        funktionen mit            Systematisierung der Funktions-
+     der Form                          ganzzahligem              typen
+     y = a sin(b x + c) + d und        Exponenten und            Nutzen der Eigenschaften der
+     y = a cos(b x)                    Exponentialfunktionen;    verschiedenen Funktionstypen
+  − Potenzfunktionen der Form          bei quadratischen         (auch Potenzfunktionen mit
+            k
+     y = a x + b (k∈Z und k∈Q+)        Funktionen auch           rationalem Exponenten und
+                                       Darstellung als Produkt   Exponentialfunktionen) zum
+H − Exponentialfunktionen              von Linearfaktoren)
+     der Form                                                    Modellieren von Problem-
+     y = a bx + c (b>0)                Bestimmen von             stellungen, z. B. zur
+  Bestimmen und Beschreiben von        Steigungen ganzrationaler Beschreibung von Wachstums-
+  Umkehrfunktionen zu linearen und     Funktionen näherungs-     und Zerfallsprozessen
+  Exponentialfunktionen sowie          weise zeichnerisch        Nutzen der mittleren und Deuten
+  Potenzfunktionen mit ganzzahligem    Zuordnen von Bildern von der lokalen Änderungsrate bei
+  Exponenten                           Funktionsgraphen und      ganzrationalen Funktionen in
+  Beschreiben des Änderungs-           Graphen der Änderungs- Anwendungskontexten
+  verhaltens ausgewählter              funktion
+  ganzrationaler Funktionen durch
+  eine Skizze der Ableitungsfunktion
+  und Angeben markanter Punkte
+  (z. B. Hoch-, Tief-, Wendepunkte)
+
+
+
+
+                                                                                 Seite 57 von 62
+C Mathematik
+
+
+3.5     Themenbereich „Daten und Zufall“ – Niveaustufen A, B, C, D
+
+                                                    Daten
+
+      Daten                            Daten                            Statistische Erhebungen
+      erheben                          darstellen                       auswerten
+      Erkennen von Objekten mit        Sortieren von Objekten mit       Vergleichen von sortierten
+ A    bestimmten Eigenschaften wie     gleichen Eigenschaften wie       Objektmengen bezüglich ihrer
+      Farbe und Form                   Farbe, Form, Größe               Anzahl (z. B. weniger rote
+                                                                        Kreise als blaue Kreise)
+      Sammeln von Daten anhand         Darstellen von Daten aus         Lesen von Strichlisten und
+      von vorgegebenen alltags-        Bildern oder der unmittelbaren   Tabellen (mit einer
+      nahen Fragestellungen            Lebenswirklichkeit in            Eigenschaft)
+      (z. B. Anzahl der Geschwister)   vorgegebenen Tabellen            Ablesen und Nennen von
+ B                                     Darstellen von Einzeldaten       Informationen aus Listen,
+                                       mit Würfeltürmen und in          Diagrammen und Kalendern
+                                       vorgegebenen Säulen-
+                                       diagrammen (z. B. durch
+                                       Ausmalen von Kästchen)
+      Sammeln von Daten                Darstellen von Datenmengen       Ablesen, Vergleichen und in
+      (z. B. durch Befragungen,        (auch in Balkendiagrammen)       Beziehung setzen einzelner
+      Recherchen oder                  Wechsel von Darstellungs-        Werte einer Darstellung
+      Experimente)                     formen (Tabelle, Diagramm,       Nennen von seltenstem und
+      Ordnen von gesammelten           Text)                            häufigstem Wert bei
+      Daten nach vorgegebenen                                           Häufigkeitsverteilungen
+      Merkmalen                                                         Vergleichen der Darstellung
+      (z. B. Junge/Mädchen)                                             und des Informationsgehalts
+ C
+                                                                        von Urlisten, Tabellen,
+                                                                        Diagrammen und Schau-
+                                                                        bildern (auch zum gleichen
+                                                                        Sachverhalt)
+
+
+
+
+      Erfassen und Strukturieren       Darstellen von Messwerten in     Ermitteln und Vergleichen von
+      von selbst erhobenen             Tabellen und Diagrammen          Kennwerten (auch Minimum,
+      Messwerten                       Aufbereiten und Präsentieren     Maximum und Spannweite)
+ D    (auch Dezimalzahlen)             von Daten in geeigneten          sowie Informationen aus
+                                       Darstellungsformen               verschiedenen Darstellungen
+
+
+
+
+Seite 58 von 62
+                                                                                       C Mathematik
+
+
+
+
+                           Zählstrategien und Wahrscheinlichkeiten
+
+    Zählstrategien                                 Wahrscheinlichkeiten von
+    anwenden                                       Ereignissen bestimmen
+    Herstellen unterschiedlicher Anordnungen mit   Nutzen des Spielgeräts Würfel mit seinen
+A   Material (z. B. Bausteintürme, Anziehpuppen)   verschiedenen möglichen Ergebnissen
+
+
+    handelndes oder bildliches Ermitteln von       Durchführen von Experimenten mithilfe
+    Lösungen zu kombinatorischen Frage-            symmetrischer Zufallsgeräte (z. B. Würfel,
+    stellungen und Darstellen als Aufzählung       Münzen, Wendeplättchen) und Dokumentieren
+    Nutzen der Strategie „Probieren und            der Ergebnisse
+B   Sortieren“, um kombinatorische Frage-          Nutzen der Wörter „sicher“, „möglich“ und
+    stellungen zu lösen                            „unmöglich“ für die Beschreibung von
+                                                   Ergebnissen
+
+
+
+    systematisches Durcharbeiten von               Planen, Durchführen und systematisches
+    Möglichkeiten und entsprechende Auswertung     Auswerten von einfachen Zufallsexperimenten
+    zu kombinatorischen Fragestellungen            (z. B. mit Glücksrädern, Urnen)
+    Auswählen zwischen verschiedenen               Zusammenfassen von Ergebnissen mit
+    Möglichkeiten der Darstellung von Lösungen     gleichen Eigenschaften bei einfachen
+    zu kombinatorischen Fragestellungen            Zufallsexperimenten
+    (z. B. Anordnungen von Bildern, Worten oder    Angeben und Vergleichen der absoluten
+    Symbolen in Listen, Tabellen oder              Häufigkeit von Ergebnissen bei Zufalls-
+C   vorgegebenen Baumdiagrammen)                   experimenten (z. B. in der Form „kommt
+                                                   häufiger vor“)
+                                                   Beschreiben von Gewinnchancen bei Spielen
+                                                   (gleiche Chance, größere Chance) auf der
+                                                   Basis der Anzahl von Gewinn- und Verlier-
+                                                   möglichkeiten
+                                                   Beurteilen von Vorgängen der eigenen
+                                                   Erfahrungswelt mit „zufällig“ und „nicht zufällig“
+    systematisches Durcharbeiten und Begründen     zielgerichtetes Verändern von Bedingungen bei
+    der Vollständigkeit einer Lösung bei           Zufallsexperimenten und Spielen sowie
+    kombinatorischen Fragestellungen               Beschreiben der Auswirkung
+D   (z. B. durch systematisches Aufzählen der      Angeben und Vergleichen der relativen
+    Möglichkeiten)                                 Häufigkeit von Ergebnissen bei einstufigen
+                                                   Zufallsexperimenten mithilfe der
+                                                   Bruchdarstellung
+
+
+
+
+                                                                                     Seite 59 von 62
+C Mathematik
+
+
+       Themenbereich „Daten und Zufall“ – Niveaustufen E, F, G, H
+
+                                                Daten
+
+     Daten                           Daten                         statistische Erhebungen
+     erheben                         darstellen                    auswerten
+     Planen und Durchführen von      Darstellen von Daten (auch    Ermitteln und Vergleichen von
+     statistischen Erhebungen nach   prozentuale Angaben) in       arithmetischem Mittel, Modalwert
+     vorgegebenen Frage-             Diagrammen (auch              (häufigster Wert) und Median
+     stellungen, Merkmalen,          Kreisdiagramme)               (Zentralwert) in verschiedenen
+     Stichproben                     Vergleichen von               Darstellungsformen
+     Simulationen von zufälligen     Diagrammarten                 Ermitteln und Vergleichen von
+     Vorgängen zur Erstellung                                      absoluter und relativer Häufigkeit
+     von Datensammlungen                                           (auch in Prozent)
+ E
+
+
+
+
+     Finden geeigneter               Darstellen von Daten (auch    Lesen, Verstehen und
+     Fragestellungen und             in Klassen eingeteilt) in     Beschreiben von Darstellungen
+     geeigneter Stichproben für      Diagrammen (auch              statistischer Erhebungen aus
+     statistische Erhebungen         Boxplots und auch unter       dem Alltag
+ F   Auswahl geeigneter Merkmale     Verwendung der
+                                     Tabellenkalkulation)
+     Durchführen von gemeinsam
+     geplanten statistischen         Vergleichen verschiedener
+     Erhebungen                      Darstellungsformen (auch
+                                     Boxplots)
+     selbstständiges Planen und      Präsentieren der              Auswerten, Interpretieren und
+     Durchführen von statistischen   Ergebnisse von eigenen        Beurteilen der Ergebnisse
+     Erhebungen und                  statistischen Erhebungen in   statistischer Erhebungen, z. B.
+     Simulationen, auch unter        zieladäquaten                 Erkennen von Trends (auch
+     Verwendung der Tabellen-        Darstellungsformen            unter Verwendung der
+     kalkulation                     Diagramme verändern, um       Tabellenkalkulation)
+ G
+                                     vorliegende Manipulationen    Erkennen von typischen Fehlern
+                                     einer Aussage zu              und Manipulationen bei
+                                     verstehen                     grafischen Darstellungen
+                                                                   Argumentieren aus wechselnden
+                                                                   Sichtweisen zu verschiedenen
+                                                                   Darstellungen
+     ---                             ---                           Analysieren, Interpretieren von
+                                                                   Mittelwerten (arithmetisches
+ H                                                                 Mittel, Median, Modalwerte) und
+                                                                   Streumaßen
+                                                                   (z. B. Spannweite und Breite der
+                                                                   Box bei Boxplots)
+
+
+
+
+Seite 60 von 62
+                                                                                     C Mathematik
+
+
+
+
+                           Zählstrategien und Wahrscheinlichkeiten
+
+    Zählstrategien                       Wahrscheinlichkeiten von
+    anwenden                             Ereignissen bestimmen
+    systematisches Durcharbeiten und     Angeben der Ergebnismenge
+    Begründen der Vollständigkeit        Zusammenfassen von Ergebnissen bei Zufalls-
+    einer Lösung zu kombinatorischen     experimenten zu Ereignissen
+    Fragestellungen (auch mithilfe von
+                                         Untersuchen der relativen Häufigkeiten von Ereignissen in
+    Baumdiagrammen)
+                                         Zufallsexperimenten (auch zweistufige)
+                                         Nutzen des Gesetzes der großen Zahlen zur Erklärung des
+                                         Wahrscheinlichkeitsbegriffs
+E                                        Begründen der Annahme der Gleichwahrscheinlichkeit von
+                                         Ergebnissen, z. B. aufgrund von Symmetrien (Regel von
+                                         Laplace)
+                                         Berechnen von Wahrscheinlichkeiten von Ereignissen mit
+                                         der Summenregel
+                                         Vorhersage von relativen Häufigkeiten auf der Grundlage
+                                         von berechneten Wahrscheinlichkeiten
+                                         Vergleichen von theoretisch ermittelten Wahrscheinlich-
+                                         keiten mit empirischen Beobachtungen
+    Vertiefen und Anwenden der           Vertiefen und Anwenden der erworbenen Kompetenzen
+    erworbenen Kompetenzen auf           auf weitere Zufallsexperimente
+    weitere kombinatorische
+    Fragestellungen
+F
+
+
+
+
+    Nutzen von kombinatorischen          Ermitteln von Wahrscheinlichkeiten
+    Überlegungen zur Bestimmung der      (auch bei mehrstufigen Zufallsexperimenten, Laplace- und
+    Art und Anzahl von Möglichkeiten     Nicht-Laplace-Experimenten) unter Nutzung von
+    in verschiedenen Kontexten zur       Baumdiagrammen, Pfadregeln Gegenwahrscheinlichkeiten
+    Berechnung von                       und dem Urnenmodell
+G   Wahrscheinlichkeiten                 Interpretieren von Wahrscheinlichkeitsaussagen aus dem
+    (mit und ohne Zurücklegen)           Alltag
+
+
+
+
+    Bestimmen von Anzahlen mithilfe      Nutzen von relativen Häufigkeiten zum Schätzen von
+    von Fakultäten und Binomial-         Wahrscheinlichkeiten und Begründen mithilfe des
+H   koeffizienten                        Gesetzes der großen Zahlen (auch auf Basis von
+                                         Simulationen)
+                                         Nutzen von Wahrscheinlichkeiten zum Vorhersagen von
+                                         relativen und absoluten Häufigkeiten
+
+
+
+
+                                                                                  Seite 61 von 62
+C Mathematik
+
+
+3.6    Wahlpflichtfach
+Der Wahlpflichtunterricht stellt ein Angebot dar, das über den Regelunterricht hinausgeht und
+ihn thematisch erweitert. Er dient der Vertiefung von Fachinhalten und schafft die Möglichkeit,
+Fachliches und Überfachliches zu verbinden.
+Im schulinternen Curriculum wird sichergestellt, dass thematische Dopplungen mit dem
+Regelunterricht und Vorgriffe auf Inhalte des Unterrichts in der gymnasialen Oberstufe
+vermieden werden.
+Grundlage für den Unterricht im Wahlpflichtfach sind die fachlichen Kompetenzbereiche.
+Werden weitere Fächer hinzugezogen, gilt dies für die Kompetenzbereiche aller beteiligten
+Fächer.
+Folgende fachspezifische Themen bieten sich an:
+ Themenfeld 1           Geometrische Beziehungen entdecken und nutzen
+                        (ab Jahrgangsstufe 7)
+ Themenfeld 2           Kryptologie
+                        (ab Jahrgangsstufe 7)
+ Themenfeld 3           Begründen und Beweisen in der Geometrie
+                        (ab Jahrgangsstufe 7)
+ Themenfeld 4           Zählen und Rechnen in historischer Entwicklung
+                        (ab Jahrgangsstufe 7)
+ Themenfeld 5           Flächensätze am rechtwinkligen Dreieck
+                        (ab Jahrgangsstufe 7)
+ Themenfeld 6           Zahlentheorie
+                        (ab Jahrgangsstufe 7)
+ Themenfeld 7           Numerische Verfahren und Rechenhilfsmittel
+                        (ab Jahrgangsstufe 9)
+ Themenfeld 8           Anwendung der Trigonometrie
+                        (ab Jahrgangsstufe 9)
+ Themenfeld 9           Diskrete Strukturen, optimale Wege
+                        (ab Jahrgangsstufe 9)
+ Themenfeld 10          Lineare Optimierung
+                        (ab Jahrgangsstufe 9)
+ Themenfeld 11          Wachstumsprozesse
+                        (ab Jahrgangsstufe 9)
+ Themenfeld 12          Darstellende Geometrie
+                        (ab Jahrgangsstufe 9)
+ Themenfeld 13          Kugeln und Kreise
+                        (ab Jahrgangsstufe 9)
+ Themenfeld 14          Platonische Körper und weitere regelmäßige konvexe Polyeder
+                        (ab Jahrgangsstufe 9)
+ Themenfeld 15          Beweistechniken und Vollständige Induktion
+                        (ab Jahrgangsstufe 9)
+ Themenfeld 16          Mathematische Logik
+                        (ab Jahrgangsstufe 9)
+
+
+
+
+Seite 62 von 62
+

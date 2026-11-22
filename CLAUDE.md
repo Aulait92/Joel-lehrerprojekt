@@ -35,6 +35,8 @@ Planen → Unterrichten → Ergebnisse erfassen (`klassen/<klasse>/*.csv`) → `
 - **Auswertung**: Zahlen immer mit `tools/lernauswertung.py` berechnen, nicht schätzen. Kein Urteil über ein Kind aus einem einzelnen Test.
 - **Keine erfundenen RLP-Standards** – Quellen angeben, Unsicheres kennzeichnen.
 - **Differenzierung ohne Stigmatisierung**: Symbole statt Leistungslabels, Gruppen flexibel.
-- **Realismus**: 25–30 Schüler:innen, 45-Min.-Stunden, begrenzte Vorbereitungszeit.
+- **Realismus**: 25–30 Schüler:innen, begrenzte Vorbereitungszeit. **Stundenlänge und Niveausymbole stehen im Auftrag der Einheit** (`00-auftrag.md`, z. B. 60 Min. und 🪶/◼/◼◼) – sonst 45 Min. und 🌱/🌿/🌳.
+- **Vorgaben der Lehrkraft** (`00-auftrag.md`, `vorhandenes-material/`) haben Vorrang vor den Standardannahmen der Agenten.
+- **Geometrie-Skizzen**: Dreiecke als ` ```dreieck `-Block (siehe `tools/dreieck_svg.py`), andere Skizzen als Inline-SVG – keine Bild-Platzhalter.
 - Ergebnisse unter `unterricht/<fach>-<thema>/` ablegen.
 - Nach Änderungen an Materialien die PDFs neu erzeugen: `python3 tools/pdf_erstellen.py unterricht/<einheit>`.

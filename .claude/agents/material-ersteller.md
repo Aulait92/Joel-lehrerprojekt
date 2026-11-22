@@ -22,3 +22,6 @@ Keine urheberrechtlich geschützten Texte aus Schulbüchern übernehmen – eige
 
 ## Erfahrungsspeicher
 Lies vor der Arbeit `wissen/erkenntnisse.md` (falls vorhanden) und berücksichtige, was in früheren Auswertungen gewirkt bzw. nicht gewirkt hat. Nenne kurz, welche Erkenntnisse du übernommen hast.
+
+## Skizzen
+Dreiecke als Block ` ```dreieck ` (Parameter: winkel_A, winkel_B, namen, seiten, winkel, breite, spiegeln – siehe `tools/dreieck_svg.py`); wird beim PDF-Export maßstabsgetreu mit rechtem Winkel und Winkelbögen gezeichnet. Andere Skizzen als schlichtes Inline-SVG (schwarz, max. 320 px breit). Keine Platzhalter wie „[Bild: …]“. Niveausymbole und Stundenlänge aus `00-auftrag.md` der Einheit übernehmen.

@@ -26,6 +26,9 @@ import sys
 import tempfile
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from dreieck_svg import ersetze_dreiecke  # noqa: E402
+
 LEHRER_MUSTER = re.compile(r"lehrkraft|lehrerteil|lösung|nicht (mit )?austeilen|lehrer-", re.I)
 SCHNITT = re.compile(r"^>\s*✂\s*-*\s*(.*?)\s*-*\s*$")
 
@@ -58,6 +61,8 @@ hr { display: none; }
            margin: 10pt 0 4pt; }
 .schnitt::before, .schnitt::after { content: ""; flex: 1; border-top: 1.2px dashed var(--line); }
 .karte.kurz { break-inside: avoid; }
+.grafik { margin: 4pt 0 6pt; break-inside: avoid; }
+.grafik svg { max-width: 100%; height: auto; }
 h1, h2, h3, h4, .schnitt { break-after: avoid; }
 h3 + p, h3 + table { break-before: avoid; }
 .titelseite { text-align: center; padding-top: 60mm; }
@@ -131,12 +136,27 @@ def md_vorbereiten(text: str, nur_kopiervorlagen: bool) -> str:
     return "\n".join(aus) + "\n"
 
 
+SVG_BLOCK = re.compile(r"<svg\b.*?</svg>", re.S)
+
+
 def pandoc_html(md: str) -> str:
+    # SVG-Grafiken vor Pandoc schützen (sonst werden <text>-Elemente herausgelöst)
+    svgs: list[str] = []
+
+    def merken(m):
+        svgs.append(m.group(0))
+        return f"\n\nSVGPLATZHALTER{len(svgs) - 1}ENDE\n\n"
+
+    md = ersetze_dreiecke(md)
+    md = SVG_BLOCK.sub(merken, md)
     erg = subprocess.run(
         ["pandoc", "-f", "markdown+pipe_tables+fenced_divs-tex_math_dollars-raw_tex+hard_line_breaks"
          "-yaml_metadata_block-subscript-superscript", "-t", "html5", "--wrap=none"],
         input=md, capture_output=True, text=True, check=True)
-    return erg.stdout
+    html = erg.stdout
+    for i, svg in enumerate(svgs):
+        html = re.sub(rf"(<p>)?SVGPLATZHALTER{i}ENDE(</p>)?", lambda _m, svg=svg: f'<div class="grafik">{svg}</div>', html)
+    return html
 
 
 def html_seite(titel: str, koerper: str) -> str:
