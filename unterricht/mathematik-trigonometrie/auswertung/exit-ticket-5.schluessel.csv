@@ -1,0 +1,4 @@
+item;max_punkte;niveau;kompetenz;wahlblock;beschreibung
+ET5-F;2;F;Sinussatz;ET5;a = 6,0 cm, α = 50°, β = 70° -> b ≈ 7,4 cm (PAAR/UMS)
+ET5-G;2;G;Sinussatz;ET5;c = 8,0 cm, α = 48°, β = 62° -> γ = 70°, a ≈ 6,3 cm (PAAR/PLAU)
+ET5-H;2;H;Sinussatz;ET5;Herleitung über h_c = b·sin α = a·sin β (RW/PAAR)

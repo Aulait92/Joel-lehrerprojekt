@@ -1,0 +1,4 @@
+item;max_punkte;niveau;kompetenz;wahlblock;beschreibung
+ET2-F;2;F;Winkel berechnen;ET2;a = 4,0 cm, c = 6,5 cm -> α ≈ 38,0° (UMK/INV/RAD/VER)
+ET2-G;2;G;Umstellen;ET2;Leiter: Höhe 8,0 m, 70° -> c = 8/sin70° ≈ 8,5 m (UMS/PLAU)
+ET2-H;2;H;Winkel berechnen;ET2;Drehleiter 30 m, Drehpunkt 3 m, Fenster 25 m: α ≈ 47,2°; b) bei max. 75°: ≥ 22,8 m (AUG/UMK/UMS)

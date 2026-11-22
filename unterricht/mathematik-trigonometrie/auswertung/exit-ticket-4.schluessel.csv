@@ -1,0 +1,4 @@
+item;max_punkte;niveau;kompetenz;wahlblock;beschreibung
+ET4-F;2;F;Zerlegung;ET4;Teildreieck ADC: b = 7,0 cm, α = 40° -> h = 4,5 cm (RW/AG/VER)
+ET4-G;2;G;Zerlegung;ET4;α = 40°, β = 65°, b = 7,0 cm -> h ≈ 4,5 cm, a ≈ 5,0 cm (RW/UMS/RUND)
+ET4-H;2;H;Zerlegung;ET4;zwei Standpunkte 15,0 m, 30°/45°, Augenhöhe 1,50 m -> Dach ≈ 22,0 m (RW/AUG/UMS)

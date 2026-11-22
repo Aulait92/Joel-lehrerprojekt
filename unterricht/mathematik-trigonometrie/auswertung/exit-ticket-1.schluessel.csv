@@ -1,0 +1,4 @@
+item;max_punkte;niveau;kompetenz;wahlblock;beschreibung
+ET1-F;2;F;Verhältnisse;ET1;sin/cos/tan(α) als Seitenverhältnis a/c, b/c, a/b – 2 sicher, 1 fast, 0 noch nicht (HYP/AG/VER)
+ET1-G;2;G;Verhältnisse;ET1;rechter Winkel bei A: sin β = b/a, cos β = c/a, tan γ = c/b (HYP/AG/VER)
+ET1-H;2;H;Verhältnisse;ET1;3-4-5-Dreieck: sin α = cos β = 0,6 + Begründung allgemein (AG/LIN)

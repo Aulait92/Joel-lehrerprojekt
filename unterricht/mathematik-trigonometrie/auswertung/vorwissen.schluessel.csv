@@ -1,0 +1,7 @@
+item;max_punkte;niveau;kompetenz;wahlblock;beschreibung
+1;1;F;Seiten benennen;;Hypotenuse im gedrehten Dreieck erkennen: t (HYP)
+2;1;F;Voraussetzungen;;Pythagoras + Runden: Katheten 4,0/7,0 cm -> 8,1 cm (PLAU/RUND/HYP)
+3;1;F;Umstellen;;0,6 = a/15 -> a = 9 (UMS)
+4;1;G;Verhältnisse;;ähnliche Dreiecke: a) 6,0 cm b) Verhältnis gleich (LIN)
+5;1;G;Umstellen;;Variable im Nenner + TR: 0,35 = 7,4/x -> 21,1 (UMS/RUND)
+6;1;H;Verhältnisse;;TR sin30°=0,5 / sin60°≈0,87 - Verdopplung widerlegen (RAD/LIN)

@@ -1,0 +1,4 @@
+item;max_punkte;niveau;kompetenz;wahlblock;beschreibung
+ET6-F;2;F;Sinussatz;ET6;Spree: c = 80 m, α = 62°, β = 71° -> γ = 47°, AC ≈ 103 m (PAAR/PLAU)
+ET6-G;2;G;Sinussatz;ET6;wie F + Breite = AC·sin 62° ≈ 91 m (PAAR/RW/RUND)
+ET6-H;2;H;Sinussatz;ET6;SSW a = 5,0, b = 6,0 cm, α = 40° -> β₁ ≈ 50,5°, β₂ ≈ 129,5° (SSW/PAAR)
