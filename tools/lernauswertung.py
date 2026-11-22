@@ -502,9 +502,16 @@ def bericht_verlauf(index: Path, anonym: bool, schwelle: float = 0.66) -> str:
     if hart:
         a("*Fehlerbild tritt bei derselben Person in ≥ 2 Tests auf → bisherige Förderung reicht nicht, "
           "Zugang wechseln (z. B. enaktiv statt symbolisch).*\n")
+        letzter = {}  # kz -> Name des letzten Tests, an dem die Person teilnahm
+        for _, t in tests:
+            for kz in t.daten:
+                letzter[kz] = t.name
         for c, v in sorted(hart.items(), key=lambda x: -len(x[1])):
+            aktuell = sorted(kz for kz in v if letzter.get(kz) in fb_tests[c][kz])
             a(f"- **{c}:** {len(v)} {'Schüler:in' if len(v) == 1 else 'Schüler:innen'}"
-              + ("" if anonym else f" ({', '.join(sorted(v))})"))
+              + ("" if anonym else f" ({', '.join(sorted(v))})")
+              + f" – davon **im letzten Test noch:** {len(aktuell)}"
+              + ("" if anonym or not aktuell else f" ({', '.join(aktuell)})"))
     else:
         a("*Keine wiederkehrenden Fehlerbilder gefunden (oder keine kodiert).*")
     a("")
@@ -529,7 +536,11 @@ def bericht_verlauf(index: Path, anonym: bool, schwelle: float = 0.66) -> str:
             rel = s * (xs[-1] - xs[0])
             rel_txt = f"{'+' if rel >= 0 else ''}{rel:.1f} Stufen".replace(".", ",")
             mittelwert = statistics.mean(w for _, w in paare)
-            if rel >= 0.5:
+            if min(w for _, w in paare) >= 5.0 and rel < 0.5:
+                # Deckeneffekt: durchgehend ≥ E – Tests messen oft nicht höher,
+                # ein relatives "Zurückfallen" ist dann kein Lernrückgang.
+                kat = "⭐ konstant stark → Enrichment"
+            elif rel >= 0.5:
                 kat = "🚀 holt auf"
             elif rel <= -0.5:
                 kat = "⚠ fällt zurück"

@@ -2,6 +2,8 @@
 
 > **DEMO MIT ERFUNDENEN DATEN.** Alle Kürzel, Punkte und Fehlerbilder sind fiktiv und dienen nur der Vorführung des Auswertungs-Workflows. Echte Klassendaten gehören nach `klassen/<klasse>/` (per `.gitignore` geschützt).
 
+> **🔄 Nachtrag nach dieser Analyse:** Der hier in Abschnitt 6 bemängelte Schlüssel wurde korrigiert (★★★-Varianten jetzt Stufe E), die Berichte `2026-12-15_klassenarbeit.md` und `verlauf.md` sind neu erzeugt. Dadurch ändern sich zwei Aussagen: Der mittlere Niveau-Wert steigt von C+ (3,4) auf **C++ (3,9)**, also um ca. **+0,5 statt +0,8 Stufen**. Die **Schere geht nicht auf**, sondern leicht zu (SD 0,93 → **0,86**). Der in Kernaussage 4 vermutete Messartefakt-Anteil war also der ganze Effekt. Unverändert gelten: C nicht sicher 11 → 4, unteres Zehntel ohne Zuwachs, AD hartnäckig, Umwandeln stagniert. Die Kategorien in `verlauf.md` haben sich leicht verschoben; die Einzelfall-Prüfung in Abschnitt 4 bleibt gültig, S16 erscheint jetzt unter „konstant unter C“. S09 (durchgehend E) wird nach einer Skript-Verbesserung als „konstant stark“ statt „fällt zurück“ geführt (Deckeneffekt).
+
 **Grundlage:** `2026-12-15_klassenarbeit.md` (Testbericht), `verlauf.md` (5 Messpunkte: Eingangstest, Exit-Tickets 1–3, Klassenarbeit), `2026-11-24_eingangstest.md` (neu erzeugt mit Gruppen), Einheit `unterricht/mathematik-brueche-dezimalzahlen/` (02-diagnose, 04-verlaufsplanung, material/, bewertung/).
 **Einschränkungen, die man beim Lesen kennen sollte:**
 - Fehlerbilder wurden nur in **Teil A** (und bei wenigen ★-Varianten) kodiert. Für die Wahlvarianten ★★/★★★ gibt es nur Punkte. Fehlerbild-Anteile beziehen sich deshalb vor allem auf die 13 Schüler:innen, die ★ gewählt haben.

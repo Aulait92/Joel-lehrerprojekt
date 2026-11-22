@@ -10,7 +10,7 @@
 | 2026-11-26 | Exit-Ticket 1 | 27 | 49 % | C+ (3,4) | 0,93 | 8 | 5 |
 | 2026-12-03 | Exit-Ticket 2 | 27 | 53 % | C++ (3,7) | 0,90 | 5 | 4 |
 | 2026-12-10 | Exit-Ticket 3 | 27 | 56 % | C++ (3,9) | 0,97 | 5 | 7 |
-| 2026-12-15 | Klassenarbeit | 27 | 60 % | D (4,1) | 1,13 | 4 | 5 |
+| 2026-12-15 | Klassenarbeit | 27 | 60 % | C++ (3,9) | 0,86 | 4 | 5 |
 
 ## 2. Kompetenzen über alle Tests
 
@@ -31,57 +31,57 @@
 
 *Fehlerbild tritt bei derselben Person in ≥ 2 Tests auf → bisherige Förderung reicht nicht, Zugang wechseln (z. B. enaktiv statt symbolisch).*
 
-- **LG:** 6 Schüler:innen (S07, S11, S15, S19, S22, S25)
-- **AD:** 6 Schüler:innen (S05, S08, S16, S20, S24, S26)
-- **ZN:** 5 Schüler:innen (S07, S08, S11, S18, S25)
-- **MG:** 3 Schüler:innen (S01, S15, S20)
-- **ZP:** 3 Schüler:innen (S16, S19, S24)
-- **KV:** 2 Schüler:innen (S16, S18)
-- **TT:** 2 Schüler:innen (S19, S24)
-- **NZ:** 1 Schüler:in (S20)
-- **KT:** 1 Schüler:in (S19)
+- **LG:** 6 Schüler:innen (S07, S11, S15, S19, S22, S25) – davon **im letzten Test noch:** 2 (S07, S19)
+- **AD:** 6 Schüler:innen (S05, S08, S16, S20, S24, S26) – davon **im letzten Test noch:** 6 (S05, S08, S16, S20, S24, S26)
+- **ZN:** 5 Schüler:innen (S07, S08, S11, S18, S25) – davon **im letzten Test noch:** 3 (S07, S08, S18)
+- **MG:** 3 Schüler:innen (S01, S15, S20) – davon **im letzten Test noch:** 0
+- **ZP:** 3 Schüler:innen (S16, S19, S24) – davon **im letzten Test noch:** 3 (S16, S19, S24)
+- **KV:** 2 Schüler:innen (S16, S18) – davon **im letzten Test noch:** 2 (S16, S18)
+- **TT:** 2 Schüler:innen (S19, S24) – davon **im letzten Test noch:** 2 (S19, S24)
+- **NZ:** 1 Schüler:in (S20) – davon **im letzten Test noch:** 0
+- **KT:** 1 Schüler:in (S19) – davon **im letzten Test noch:** 1 (S19)
 
 ## 4. Entwicklung im Vergleich zur Klasse
 
-Die Klasse insgesamt: **+0,8 Stufen** über den Zeitraum.
+Die Klasse insgesamt: **+0,6 Stufen** über den Zeitraum.
 
 ### Einzelverläufe (nur Kürzel – nicht veröffentlichen)
 
 | Kürzel | Eingangstest | Exit-Ticket 1 | Exit-Ticket 2 | Exit-Ticket 3 | Klassenarbeit | Trend ggü. Klasse | Entwicklung |
 |---|---|---|---|---|---|---|---|
-| S01 | C+ | C+ | D | D | D+ | +0,2 Stufen | → entwickelt sich wie die Klasse |
-| S02 | E | D | E | E | F | +0,3 Stufen | ⭐ konstant stark → Enrichment |
-| S03 | C+ | D | E | E | D+ | +0,6 Stufen | 🚀 holt auf |
-| S04 | C+ | C+ | D+ | D+ | D+ | +0,3 Stufen | → entwickelt sich wie die Klasse |
-| S05 | C+ | C+ | C+ | C+ | C+ | -0,7 Stufen | ⚠ fällt zurück |
-| S06 | D+ | E | D+ | E | F | +0,6 Stufen | 🚀 holt auf |
-| S07 | B+ | B+ | C | B+ | C | -0,3 Stufen | ⚠ konstant unter C → Zugang ändern |
-| S08 | B+ | C | B+ | C+ | C | +0,1 Stufen | ⚠ konstant unter C → Zugang ändern |
-| S09 | E | E | E | E | F | +0,0 Stufen | ⭐ konstant stark → Enrichment |
-| S10 | B+ | B+ | C+ | C+ | C+ | +0,5 Stufen | → entwickelt sich wie die Klasse |
-| S11 | B+ | C | C | D+ | D+ | +1,4 Stufen | 🚀 holt auf |
-| S12 | C+ | E | D+ | E | F | +1,3 Stufen | 🚀 holt auf |
-| S13 | C+ | C | C+ | D | C+ | -0,3 Stufen | → entwickelt sich wie die Klasse |
-| S14 | B | B+ | B+ | B | C | +0,1 Stufen | ⚠ konstant unter C → Zugang ändern |
-| S15 | B+ | C | C+ | C | C+ | -0,0 Stufen | → entwickelt sich wie die Klasse |
-| S16 | B+ | B | B | B | B+ | -0,5 Stufen | ⚠ fällt zurück |
-| S17 | B+ | C+ | D | D | D+ | +0,9 Stufen | 🚀 holt auf |
-| S18 | C+ | C+ | C | C+ | C | -1,2 Stufen | ⚠ fällt zurück |
-| S19 | B | B | B+ | B | B+ | -0,7 Stufen | ⚠ fällt zurück |
-| S20 | B+ | B | C | C | C+ | +0,4 Stufen | ⚠ konstant unter C → Zugang ändern |
-| S21 | D+ | E | E | E | F | +0,6 Stufen | 🚀 holt auf |
-| S22 | E | D | D+ | E | D+ | -0,7 Stufen | ⚠ fällt zurück |
-| S23 | D | C+ | D | D+ | D+ | -0,1 Stufen | → entwickelt sich wie die Klasse |
-| S24 | B | B+ | B | B | B+ | -0,7 Stufen | ⚠ fällt zurück |
-| S25 | C+ | C | C | D | D+ | +0,4 Stufen | → entwickelt sich wie die Klasse |
-| S26 | C+ | B+ | C | C | B+ | -1,3 Stufen | ⚠ fällt zurück |
-| S27 | E | E | D+ | D+ | D+ | -1,4 Stufen | ⚠ fällt zurück |
+| S01 | C+ | C+ | D | D | D+ | +0,4 Stufen | → entwickelt sich wie die Klasse |
+| S02 | E | D | E | E | E | -0,3 Stufen | → entwickelt sich wie die Klasse |
+| S03 | C+ | D | E | E | D+ | +0,7 Stufen | 🚀 holt auf |
+| S04 | C+ | C+ | D+ | D+ | D+ | +0,5 Stufen | → entwickelt sich wie die Klasse |
+| S05 | C+ | C+ | C+ | C+ | C+ | -0,5 Stufen | ⚠ fällt zurück |
+| S06 | D+ | E | D+ | E | E | -0,1 Stufen | → entwickelt sich wie die Klasse |
+| S07 | B+ | B+ | C | B+ | C | -0,1 Stufen | ⚠ konstant unter C → Zugang ändern |
+| S08 | B+ | C | B+ | C+ | C | +0,2 Stufen | ⚠ konstant unter C → Zugang ändern |
+| S09 | E | E | E | E | E | -0,6 Stufen | ⭐ konstant stark → Enrichment |
+| S10 | B+ | B+ | C+ | C+ | C+ | +0,6 Stufen | 🚀 holt auf |
+| S11 | B+ | C | C | D+ | D+ | +1,6 Stufen | 🚀 holt auf |
+| S12 | C+ | E | D+ | E | E | +0,7 Stufen | 🚀 holt auf |
+| S13 | C+ | C | C+ | D | C+ | -0,1 Stufen | → entwickelt sich wie die Klasse |
+| S14 | B | B+ | B+ | B | C | +0,2 Stufen | ⚠ konstant unter C → Zugang ändern |
+| S15 | B+ | C | C+ | C | C+ | +0,1 Stufen | → entwickelt sich wie die Klasse |
+| S16 | B+ | B | B | B | B+ | -0,4 Stufen | ⚠ konstant unter C → Zugang ändern |
+| S17 | B+ | C+ | D | D | D+ | +1,1 Stufen | 🚀 holt auf |
+| S18 | C+ | C+ | C | C+ | C | -1,0 Stufen | ⚠ fällt zurück |
+| S19 | B | B | B+ | B | B+ | -0,5 Stufen | ⚠ fällt zurück |
+| S20 | B+ | B | C | C | C+ | +0,5 Stufen | 🚀 holt auf |
+| S21 | D+ | E | E | E | E | -0,1 Stufen | → entwickelt sich wie die Klasse |
+| S22 | E | D | D+ | E | D+ | -0,5 Stufen | ⚠ fällt zurück |
+| S23 | D | C+ | D | D+ | D+ | +0,1 Stufen | → entwickelt sich wie die Klasse |
+| S24 | B | B+ | B | B | B+ | -0,6 Stufen | ⚠ fällt zurück |
+| S25 | C+ | C | C | D | D+ | +0,5 Stufen | → entwickelt sich wie die Klasse |
+| S26 | C+ | B+ | C | C | B+ | -1,1 Stufen | ⚠ fällt zurück |
+| S27 | E | E | D+ | D+ | D+ | -1,2 Stufen | ⚠ fällt zurück |
 
 ## 5. Handlungsbedarf
 
-- **⚠ fällt zurück:** S05, S16, S18, S19, S22, S24, S26, S27
-- **⚠ konstant unter C → Zugang ändern:** S07, S08, S14, S20
-- **🚀 holt auf:** S03, S06, S11, S12, S17, S21
-- **⭐ konstant stark → Enrichment:** S02, S09
-- **→ entwickelt sich wie die Klasse:** S01, S04, S10, S13, S15, S23, S25
+- **⚠ fällt zurück:** S05, S18, S19, S22, S24, S26, S27
+- **⚠ konstant unter C → Zugang ändern:** S07, S08, S14, S16
+- **🚀 holt auf:** S03, S10, S11, S12, S17, S20
+- **⭐ konstant stark → Enrichment:** S09
+- **→ entwickelt sich wie die Klasse:** S01, S02, S04, S06, S13, S15, S21, S23, S25
 
